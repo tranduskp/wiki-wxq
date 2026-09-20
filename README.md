@@ -69,6 +69,12 @@ Toàn bộ ảnh (962 PNG, khoảng 190 MB) được lưu ở `data/anh/` bằng
 
 Trang web dùng bản webp nhẹ trong `data/anh/web/` (khoảng 40 MB, tạo bằng `py scripts/tao_anh_web.py`, cần Pillow), không còn gắn ảnh từ Tencent. Lưới dùng ảnh thu nhỏ 320px, khung xem dùng ảnh đầy đủ. `LocalImagePolicy` (`assets/js/data/LocalImagePolicy.js`) đổi link Tencent trong `data/bai` sang ảnh cục bộ qua `data/anh/theo-url.json`; link nào chưa có bản cục bộ thì vẫn dùng link gốc. Khi đưa site lên host chỉ cần `data/anh/web/` và `theo-url.json`, không cần PNG gốc. `TencentImagePolicy` vẫn còn nếu muốn quay lại gắn ảnh từ Tencent (đổi một dòng trong `main.js`).
 
+## Đưa lên mạng (GitHub Pages)
+
+Site chạy tại https://tranduskp.github.io/wiki-wxq/. Mỗi lần đẩy lên nhánh `main`, workflow `.github/workflows/pages.yml` tự dựng và deploy. Nó chỉ đưa lên những gì trang cần: các trang HTML, `assets/`, `data/bai`, `data/dich`, `data/nhom.json`, `data/ky-thu.json`, `data/anh/web/` và `data/anh/theo-url.json`. Ảnh gốc PNG, dữ liệu tham chiếu `data/ref/`, công cụ và thư mục `.claude/` không được đưa lên (đã gitignore).
+
+Trước khi công khai repo, kiểm tra không có đường dẫn máy cá nhân, email hay khóa API trong các tệp, và đặt email commit là địa chỉ noreply của GitHub (`git config user.email ID+TENUSER@users.noreply.github.com`).
+
 ## Chữ
 
 Anton (tiêu đề in hoa), Lobster (chữ viết tay điểm nhấn, đi cặp với Anton như trên logo), Chakra Petch (chú thích nhỏ và số), Be Vietnam Pro (nội dung). Tất cả tải từ Google Fonts và có đủ dấu tiếng Việt.
