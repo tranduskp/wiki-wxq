@@ -1,0 +1,2825 @@
+[
+ {
+  "ten_zh": "阿离",
+  "id": 20,
+  "uid": "20",
+  "ten_en": "ali",
+  "cau_noi_zh": "得到的前提是勇敢去追求呀！",
+  "avatar": "ky-thu/020/avatar.jpg",
+  "chan_dung": "ky-thu/020/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "阿离",
+    "bia": "ky-thu/020/tp1-bia.jpg",
+    "kv": "ky-thu/020/tp1-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/020/kn1.png",
+    "the": [
+     {
+      "id": 92099,
+      "ten_zh": "枫叶舞",
+      "mo_ta_zh": "使用技能，指向1名英雄，其受到最大生命值20%的伤害时将获得护盾并转移至纸伞处。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 662001,
+      "ten_zh": "惊鸿游龙",
+      "mo_ta_zh": "枫叶舞指定的英雄击败3/7/11/15名敌方英雄，获得1张秘技牌翩跹舞步并为枫叶舞解锁1项特性（共4项）。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 610010,
+    "ten_zh": "即刻起舞",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 5,
+    "mo_ta_zh": "从3个枫叶舞强化中选择1项。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/610010.png"
+   },
+   {
+    "id": 92018,
+    "ten_zh": "有叶新生",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "转移后恢复20%最大生命值。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92018.png"
+   },
+   {
+    "id": 92017,
+    "ten_zh": "枫佑永驻",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "护盾量增加且持续时间变为无限。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92017.png"
+   },
+   {
+    "id": 92016,
+    "ten_zh": "拈花一指",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "转移后眩晕附近的敌人2秒。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92016.png"
+   },
+   {
+    "id": 92015,
+    "ten_zh": "红枫疾舞",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "转移后的4次普通攻击以最大速度进行。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92015.png"
+   },
+   {
+    "id": 92014,
+    "ten_zh": "枫灵涌动",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "转移后每秒获得15点法力值，持续4秒。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92014.png"
+   },
+   {
+    "id": 92019,
+    "ten_zh": "红叶染锋",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "枫叶舞英雄离场后，其真实等级的50%会保留给下一个枫叶舞英雄，限一次。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92019.png"
+   },
+   {
+    "id": 92013,
+    "ten_zh": "枫华之刃",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "转移后获得25%伤害加成。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92013.png"
+   },
+   {
+    "id": 92011,
+    "ten_zh": "枫舞扶摇",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "每回合首次转移后获得\n5临时等级，枫叶舞英雄本局对战每击败1名英雄，此等级额外+1。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92011.png"
+   },
+   {
+    "id": 92012,
+    "ten_zh": "枫影无拘",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "转移后5秒内免疫受到的控制。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92012.png"
+   },
+   {
+    "id": 92026,
+    "ten_zh": "斗转星移",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "转移后受到当前生命值的40%的伤害，并获得15%物理与法术吸血。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92026.png"
+   },
+   {
+    "id": 92025,
+    "ten_zh": "青叶绽蕊",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "指定的英雄在拥有护盾时，每击败1名英雄则恢复10%最大生命值。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92025.png"
+   },
+   {
+    "id": 92024,
+    "ten_zh": "层林遮影",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "转移后7秒内不被敌人优先攻击。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92024.png"
+   },
+   {
+    "id": 92023,
+    "ten_zh": "一叶双生",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "转移时在原地创造1个具有30%最大生命值，阵亡时会眩晕周围敌人的分身，分身无法攻击且被创造时嘲讽周围敌人2秒。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92023.png"
+   },
+   {
+    "id": 92022,
+    "ten_zh": "瞬步无影",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "开战时获得1次转移次数。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92022.png"
+   },
+   {
+    "id": 92021,
+    "ten_zh": "踏叶摘星",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "转移所需要的击败数减1。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92021.png"
+   },
+   {
+    "id": 92010,
+    "ten_zh": "翩跹舞步·余韵",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "为枫叶舞挑选1张强化牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92010.png"
+   },
+   {
+    "id": 92004,
+    "ten_zh": "翩跹舞步·进化",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "为枫叶舞挑选1张强化牌。枫叶舞英雄获得本局击败敌方英雄数量×4点物理和法术攻击力。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92004.png"
+   },
+   {
+    "id": 92001,
+    "ten_zh": "翩跹舞步·新生",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "为枫叶舞挑选1张强化牌。枫叶舞英雄每回合等级+2，且转移后恢复10%最大生命值。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92001.png"
+   },
+   {
+    "id": 92003,
+    "ten_zh": "翩跹舞步·流动",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "为枫叶舞挑选1张强化牌。枫叶舞英雄在转移后每击败3名敌方英雄，获得额外的1次转移次数。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92003.png"
+   },
+   {
+    "id": 92002,
+    "ten_zh": "翩跹舞步·蓄势",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "为枫叶舞挑选1张强化牌。枫叶舞英雄击败敌方英雄时永久等级+1。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92002.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【阿离】｜纸伞庇佑，助力核心越战越强！",
+    "video": "e1288t4twh1"
+   },
+   {
+    "ten_zh": "阿离遗志流！秽土转生极致爽感",
+    "video": "s12861vacz3"
+   },
+   {
+    "ten_zh": "“阿离伞接干将转海月”完整操作拆解",
+    "video": "b1288hoshiw"
+   },
+   {
+    "ten_zh": "阿离狄仁杰！满攻速无限闪现，丝滑到停不下来！",
+    "video": "q1286mvn486"
+   },
+   {
+    "ten_zh": "阿离伞海月，适配萌新成型必定夺冠",
+    "video": "n12881n0wmv"
+   },
+   {
+    "ten_zh": "阿离遗志流高端细节教学！看完你也能成为阿离高手",
+    "video": "g1288l6uj7l"
+   },
+   {
+    "ten_zh": "阿离伞海月，超强单体丝滑变阵",
+    "video": "n12881n0wmv"
+   },
+   {
+    "ten_zh": "深度解析棋手阿离到底强在哪？",
+    "video": "x1288pp7vy3"
+   },
+   {
+    "ten_zh": "万物皆可养！一招吃透阿离伞所有对局",
+    "video": "x1288211lrx"
+   },
+   {
+    "ten_zh": "阿离伞猫全局运营思路，最秀最好玩的阵容它来了！",
+    "video": "z12880br98p"
+   },
+   {
+    "ten_zh": "30秒速通棋手阿离核心操作，零基础也能学会！",
+    "video": "n12885urpng"
+   },
+   {
+    "ten_zh": "新棋手阿离一图流！天赋、技能、阵容一次搞定！",
+    "video": "y12881iby8l"
+   }
+  ]
+ },
+ {
+  "ten_zh": "白歌",
+  "id": 33,
+  "uid": "33",
+  "ten_en": "baige",
+  "cau_noi_zh": "兴之所至，心之所安。",
+  "avatar": "ky-thu/033/avatar.jpg",
+  "chan_dung": "ky-thu/033/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "白歌",
+    "bia": "ky-thu/033/tp1-bia.jpg",
+    "kv": "ky-thu/033/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "墨世龙尘",
+    "bia": "ky-thu/033/tp2-bia.jpg",
+    "kv": "ky-thu/033/tp2-kv.jpg"
+   },
+   {
+    "ten_zh": "好梦访客",
+    "bia": "ky-thu/033/tp3-bia.jpg",
+    "kv": "ky-thu/033/tp3-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/033/kn1.png",
+    "the": [
+     {
+      "id": 93399,
+      "ten_zh": "神来之笔",
+      "mo_ta_zh": "每进行4次英雄合成，白歌获得1张即兴创作。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663301,
+      "ten_zh": "天生我才",
+      "mo_ta_zh": "使用6张即兴创作，获得1张秘技牌灵感爆发。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/033/kn3.png",
+    "the": [
+     {
+      "id": 663307,
+      "ten_zh": "惊才绝艳",
+      "mo_ta_zh": "获得1张奇才：指定1名英雄，获得4张该英雄牌。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 93300,
+    "ten_zh": "即兴创作",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "随机获得场上1名英雄的复制。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93300.png"
+   },
+   {
+    "id": 93310,
+    "ten_zh": "灵感爆发",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "释放3道剑气，斩击手牌中随机3张非觉醒英雄牌，将每张牌斩为2张转瞬版复制。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93310.png"
+   },
+   {
+    "id": 663308,
+    "ten_zh": "奇才",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "指定1名英雄，获得4张该英雄牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/663308.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【白歌】｜超级复印机，轻松觉醒关键王牌！",
+    "video": "h1283r7i6iq"
+   },
+   {
+    "ten_zh": "白歌三分倒转！全员999强力阵容",
+    "video": "u1285fwc3t3"
+   }
+  ]
+ },
+ {
+  "ten_zh": "班叔",
+  "id": 35,
+  "uid": "35",
+  "ten_en": "banshu",
+  "cau_noi_zh": "真理至高无上，而生活还在真理之上。",
+  "avatar": "ky-thu/035/avatar.jpg",
+  "chan_dung": "ky-thu/035/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "班叔",
+    "bia": "ky-thu/035/tp1-bia.jpg",
+    "kv": "ky-thu/035/tp1-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/035/kn1.png",
+    "the": [
+     {
+      "id": 93599,
+      "ten_zh": "神匠",
+      "mo_ta_zh": "比赛开始时，获得1张便携式机关。\n棋手等级达到2/3/4/5时，从热能陷阱、电磁弹簧、等离子屏障3种机关卡中随机获得1张。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663501,
+      "ten_zh": "机关跃迁",
+      "mo_ta_zh": "收集螺丝，可获得秘技牌构筑升级（至多10张）。\n触发陷阱：螺丝+3\n触发弹簧：螺丝+2\n屏障被摧毁：螺丝+5"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/035/kn3.png",
+    "the": [
+     {
+      "id": 663502,
+      "ten_zh": "成品方案",
+      "mo_ta_zh": "从3种机关强化方案中选择1个。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 93508,
+    "ten_zh": "便携式机关",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 3,
+    "mo_ta_zh": "从热能陷阱、电磁弹簧、等离子屏障3种机关中选择1个。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/93508.png"
+   },
+   {
+    "id": 93501,
+    "ten_zh": "热能陷阱",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "可放置1个热能陷阱。敌方踩中时，对其造成真实伤害并眩晕。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93501.png"
+   },
+   {
+    "id": 93507,
+    "ten_zh": "等离子屏障强化",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "屏障生命值+100%，3级屏障会在战斗开始时为屏障左右1格的友军提供复生效果。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93507.png"
+   },
+   {
+    "id": 93506,
+    "ten_zh": "电磁弹簧强化",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "弹簧被友军触发时，使友军获得50%生命值上限的磁力护盾，护盾存在期间该单位造成的伤害提升50%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93506.png"
+   },
+   {
+    "id": 93505,
+    "ten_zh": "热能陷阱强化",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "陷阱会延时2秒爆炸且爆炸范围增加1格，3级陷阱的冷却时间缩短至4秒。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93501.png"
+   },
+   {
+    "id": 93503,
+    "ten_zh": "等离子屏障",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "可放置1个等离子屏障。可在横向展开阻碍敌方行动。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93507.png"
+   },
+   {
+    "id": 93502,
+    "ten_zh": "电磁弹簧",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "可放置1个电磁弹簧。敌方踩中时触发，将其弹至敌方战场后排，触发2次后消失。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93506.png"
+   },
+   {
+    "id": 93504,
+    "ten_zh": "构筑升级",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "指定场上1个机关升级其效果。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93504.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【班叔】｜陷阱大师，让敌方寸步难行！",
+    "video": "o1285gja0kt"
+   }
+  ]
+ },
+ {
+  "ten_zh": "常小娥",
+  "id": 24,
+  "uid": "24",
+  "ten_en": "changxiaoe",
+  "cau_noi_zh": "常怀善意，才能感受这个世界的美好。",
+  "avatar": "ky-thu/024/avatar.jpg",
+  "chan_dung": "ky-thu/024/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "常小娥",
+    "bia": "ky-thu/024/tp1-bia.jpg",
+    "kv": "ky-thu/024/tp1-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/024/kn1.png",
+    "the": [
+     {
+      "id": 92499,
+      "ten_zh": "小菟助力",
+      "mo_ta_zh": "使用技能，小菟随机助力1名英雄，使其等级+2。本场比赛中，小菟每助力过1次，等级提升效果+1。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 662401,
+      "ten_zh": "兔飞猛进",
+      "mo_ta_zh": "己方英雄等级总和达到50/150/375级，获得1张秘技牌小菟送福。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/024/kn3.png",
+    "the": [
+     {
+      "id": 662407,
+      "ten_zh": "月之特调",
+      "mo_ta_zh": "小菟提供等级时，每5级使其额外获得1项随机属性：15%攻速/2%物理和法术吸血/2点物理和法术防御力。且每通过小菟助力提供65级时，获得1张小菟送福。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 92410,
+    "ten_zh": "小菟送福",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "对场上的随机4名英雄各触发1次小菟助力，使其等级+2。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92410.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【常小娥】｜英雄等级轻松破百！",
+    "video": "y1283t3sqom"
+   },
+   {
+    "ten_zh": "常小娥海陆空！新手小白轮椅流",
+    "video": "d1286zqeaup"
+   }
+  ]
+ },
+ {
+  "ten_zh": "镜",
+  "id": 21,
+  "uid": "21",
+  "ten_en": "jing",
+  "cau_noi_zh": "破碎定义，做不平凡的自己。",
+  "avatar": "ky-thu/021/avatar.jpg",
+  "chan_dung": "ky-thu/021/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "镜",
+    "bia": "ky-thu/021/tp1-bia.jpg",
+    "kv": "ky-thu/021/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "无限追猎",
+    "bia": "ky-thu/021/tp2-bia.jpg",
+    "kv": "ky-thu/021/tp2-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/021/kn1.png",
+    "the": [
+     {
+      "id": 92199,
+      "ten_zh": "无穷镜像",
+      "mo_ta_zh": "使用技能，获得1张镜像牌，每使用4次技能，该技能能量消耗+1。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 662101,
+      "ten_zh": "镜像之力",
+      "mo_ta_zh": "使用4张镜像，获得1张秘技牌万镜。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/021/kn3.png",
+    "the": [
+     {
+      "id": 662107,
+      "ten_zh": "镜花影",
+      "mo_ta_zh": "商店里的英雄牌在购买后会留下1个镜像复制（不计入秘技任务）。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 92100,
+    "ten_zh": "镜像",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "该卡牌会自动变为上一张打出的英雄牌（不能复制其他打出的镜像牌）。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92100.png"
+   },
+   {
+    "id": 92110,
+    "ten_zh": "万镜",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "随机复制场上4张不同的英雄牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92110.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【镜】｜复制英雄牌，英雄觉醒快人一步！",
+    "video": "g1285xmbraj"
+   }
+  ]
+ },
+ {
+  "ten_zh": "姜导",
+  "id": 41,
+  "uid": "41",
+  "ten_en": "jiangdao",
+  "cau_noi_zh": "想要改变的前提，是坚持。",
+  "avatar": "ky-thu/041/avatar.jpg",
+  "chan_dung": "ky-thu/041/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "姜导",
+    "bia": "ky-thu/041/tp1-bia.jpg",
+    "kv": "ky-thu/041/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "睡眠艺术",
+    "bia": "ky-thu/041/tp2-bia.jpg",
+    "kv": "ky-thu/041/tp2-kv.jpg"
+   },
+   {
+    "ten_zh": "失色乐园",
+    "bia": "ky-thu/041/tp3-bia.jpg",
+    "kv": "ky-thu/041/tp3-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/041/kn1.png",
+    "the": [
+     {
+      "id": 94199,
+      "ten_zh": "钦定主角",
+      "mo_ta_zh": "使用技能，指定1名英雄成为主角，获得效果：每打出2张英雄或效果牌，等级+1（每回合最多+5）。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 664101,
+      "ten_zh": "封神时刻",
+      "mo_ta_zh": "己方英雄首次升到25级，获得1张秘技牌封神一瞬。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/041/kn3.png",
+    "the": [
+     {
+      "id": 664108,
+      "ten_zh": "完美演出",
+      "mo_ta_zh": "封神一瞬指定的英雄在战斗开始时获得30%物理和法术吸血，并在15秒内免疫控制效果（压制除外）。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 94110,
+    "ten_zh": "封神一瞬",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "指定1名英雄，使其每次等级永久提升时，都额外+1级。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94110.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【姜导】｜主角钦定者，轻松养出顶尖单核！",
+    "video": "s1285tap36v"
+   },
+   {
+    "ten_zh": "姜导养玄策！一看即会轻松夺冠",
+    "video": "g1286io0xgc"
+   }
+  ]
+ },
+ {
+  "ten_zh": "马可",
+  "id": 32,
+  "uid": "32",
+  "ten_en": "make",
+  "cau_noi_zh": "我能说走就走，也能随时闪亮登场！",
+  "avatar": "ky-thu/032/avatar.jpg",
+  "chan_dung": "ky-thu/032/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "马可",
+    "bia": "ky-thu/032/tp1-bia.jpg",
+    "kv": "ky-thu/032/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "滑板少年",
+    "bia": "ky-thu/032/tp2-bia.jpg",
+    "kv": "ky-thu/032/tp2-kv.jpg"
+   },
+   {
+    "ten_zh": "黄金黄梦",
+    "bia": "ky-thu/032/tp3-bia.jpg",
+    "kv": "ky-thu/032/tp3-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/032/kn1.png",
+    "the": [
+     {
+      "id": 93299,
+      "ten_zh": "寻宝之旅",
+      "mo_ta_zh": "马可每打出4张3阶及以下的英雄牌，随机获得1张宝藏牌。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663201,
+      "ten_zh": "终极宝藏",
+      "mo_ta_zh": "使用7张宝藏牌，获得1张秘技牌终极宝藏。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/032/kn3.png",
+    "the": [
+     {
+      "id": 610013,
+      "ten_zh": "瓜分宝藏",
+      "mo_ta_zh": "从2种英雄强化效果中选择1个。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 663207,
+    "ten_zh": "阳光普照",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，你的全体英雄获得1%×已打出宝藏牌数量的伤害提升。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/663207.png"
+   },
+   {
+    "id": 663208,
+    "ten_zh": "重点照顾",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，你的人数最多的同品阶英雄获得1.5%×已打出宝藏牌数量的伤害提升。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/663208.png"
+   },
+   {
+    "id": 93200,
+    "ten_zh": "红笺锦鲤符",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "指定1名英雄等级+4。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93200.png"
+   },
+   {
+    "id": 93201,
+    "ten_zh": "狼牙部落的图腾雕像",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "抽取1张3阶及以下的英雄牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93201.png"
+   },
+   {
+    "id": 93202,
+    "ten_zh": "沙海甘泉",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "获得1能量。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93202.png"
+   },
+   {
+    "id": 93203,
+    "ten_zh": "人鱼之泪",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "随机获得1张效果牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93203.png"
+   },
+   {
+    "id": 93204,
+    "ten_zh": "神树彩陶",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "场上随机4名英雄等级+2。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93204.png"
+   },
+   {
+    "id": 93205,
+    "ten_zh": "冰曜宝石镜",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "随机获得手牌中1张非觉醒英雄牌的复制。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93205.png"
+   },
+   {
+    "id": 93216,
+    "ten_zh": "马可的随身信物",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "随机获得4张效果牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93216.png"
+   },
+   {
+    "id": 93215,
+    "ten_zh": "马可的时差信笺",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "随机获得2张宝藏牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93215.png"
+   },
+   {
+    "id": 93214,
+    "ten_zh": "马可的魅力飞吻",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "全体英雄等级+10。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93214.png"
+   },
+   {
+    "id": 93213,
+    "ten_zh": "马可的限量亲签",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "获得4能量，1张装备牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93213.png"
+   },
+   {
+    "id": 93212,
+    "ten_zh": "马可的吸睛自拍",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "随机获得3张不同的场上英雄牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93212.png"
+   },
+   {
+    "id": 93211,
+    "ten_zh": "马可的招牌微笑",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "永久强化1张随机宝藏牌，并立即获得1张。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93211.png"
+   },
+   {
+    "id": 93210,
+    "ten_zh": "终极宝藏正是在下",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "随机从3个终极宝藏中选择1个。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93210.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【马可】｜宝藏挖掘机，打出低阶英雄宝藏拿不停！",
+    "video": "a1285cwwcb3"
+   },
+   {
+    "ten_zh": "马可养猪流！简单好玩瞬秒脆皮",
+    "video": "s12859tprze"
+   }
+  ]
+ },
+ {
+  "ten_zh": "明先生",
+  "id": 39,
+  "uid": "39",
+  "ten_en": "mingxiansheng",
+  "cau_noi_zh": "人生乏味啊，我欲令之光怪陆离。",
+  "avatar": "ky-thu/039/avatar.jpg",
+  "chan_dung": "ky-thu/039/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "明先生",
+    "bia": "ky-thu/039/tp1-bia.jpg",
+    "kv": "ky-thu/039/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "璇玑·浑天",
+    "bia": "ky-thu/039/tp2-bia.jpg",
+    "kv": "ky-thu/039/tp2-kv.jpg"
+   },
+   {
+    "ten_zh": "夜落电台",
+    "bia": "ky-thu/039/tp3-bia.jpg",
+    "kv": "ky-thu/039/tp3-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/039/kn1.png",
+    "the": [
+     {
+      "id": 93999,
+      "ten_zh": "先知卦象",
+      "mo_ta_zh": "使用技能，从2种卦象中选择1个，卦象效果持续3个回合。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663901,
+      "ten_zh": "天降鸿运",
+      "mo_ta_zh": "第6/10回合，获得1张秘技牌命运馈赠。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/039/kn3.png",
+    "the": [
+     {
+      "id": 663905,
+      "ten_zh": "飞龙在天",
+      "mo_ta_zh": "强化明先生的卦象。\n卦象·节：每回合额外获得4能量。\n卦象·丰：每回合获得8次临时刷新。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 93910,
+    "ten_zh": "命运馈赠",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "从2个馈赠中选择1个，每使用1次，效果增强。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93910.png"
+   },
+   {
+    "id": 93911,
+    "ten_zh": "命运馈赠·阴",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，额外获得3能量，持续3个回合。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93911.png"
+   },
+   {
+    "id": 93912,
+    "ten_zh": "命运馈赠·阳",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，全体英雄等级+5，持续3个回合。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93912.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【明先生】｜卜卦推演，从容把握对局节奏！",
+    "video": "r1285542uur"
+   },
+   {
+    "ten_zh": "明先生泳池派对！全屏召唤派对狂欢",
+    "video": "o1285znw720"
+   }
+  ]
+ },
+ {
+  "ten_zh": "闹闹",
+  "id": 40,
+  "uid": "40",
+  "ten_en": "naonao",
+  "cau_noi_zh": "雨滴里藏着彩虹，泡泡里住着美梦。",
+  "avatar": "ky-thu/040/avatar.jpg",
+  "chan_dung": "ky-thu/040/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "气泡橘子",
+    "bia": "ky-thu/040/tp1-bia.jpg",
+    "kv": "ky-thu/040/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "闹闹",
+    "bia": "ky-thu/040/tp2-bia.jpg",
+    "kv": "ky-thu/040/tp2-kv.jpg"
+   },
+   {
+    "ten_zh": "闪耀之星",
+    "bia": "ky-thu/040/tp3-bia.jpg",
+    "kv": "ky-thu/040/tp3-kv.jpg"
+   },
+   {
+    "ten_zh": "蓝瘦",
+    "bia": "ky-thu/040/tp4-bia.jpg",
+    "kv": "ky-thu/040/tp4-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/040/kn1.png",
+    "the": [
+     {
+      "id": 94099,
+      "ten_zh": "派对泡泡",
+      "mo_ta_zh": "使用技能，从随机2个阵营中选择1个，之后技能替换为：花费1能量，获得1张该阵营的英雄牌。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 664001,
+      "ten_zh": "快乐集结",
+      "mo_ta_zh": "上阵6名技能所选阵营的英雄，获得1张秘技牌朋友多多。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/040/kn3.png",
+    "the": [
+     {
+      "id": 664005,
+      "ten_zh": "狂欢时刻",
+      "mo_ta_zh": "获得1张打成一片。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 664009,
+    "ten_zh": "打成一片",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 5,
+    "mo_ta_zh": "天赋3选1（技能选择阵营相关的天赋）。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/664009.png"
+   },
+   {
+    "id": 94010,
+    "ten_zh": "朋友多多",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "随机抽取4张技能所选阵营的英雄牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94010.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【闹闹】｜同阵营召唤师，阵营英雄一键获取！",
+    "video": "y128513fwnv"
+   },
+   {
+    "ten_zh": "闹闹日落海整备流！新手丝滑上分首选",
+    "video": "w1285mnvwq8"
+   }
+  ]
+ },
+ {
+  "ten_zh": "乔汐",
+  "id": 22,
+  "uid": "22",
+  "ten_en": "qiaoxi",
+  "cau_noi_zh": "点亮的心，不会轻易熄灭。",
+  "avatar": "ky-thu/022/avatar.jpg",
+  "chan_dung": "ky-thu/022/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "乔汐",
+    "bia": "ky-thu/022/tp1-bia.jpg",
+    "kv": "ky-thu/022/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "行鲤绯梦",
+    "bia": "ky-thu/022/tp2-bia.jpg",
+    "kv": "ky-thu/022/tp2-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/022/kn1.png",
+    "the": [
+     {
+      "id": 92299,
+      "ten_zh": "温柔呼唤",
+      "mo_ta_zh": "使用技能，随机获得1张2-5阶的转瞬英雄牌。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 662201,
+      "ten_zh": "海的拥抱",
+      "mo_ta_zh": "每经过4个回合，获得1张秘技牌潮汐的交响。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/022/kn3.png",
+    "the": [
+     {
+      "id": 662206,
+      "ten_zh": "潮起潮落",
+      "mo_ta_zh": "开战时，随机传送1个临时等级100级的英雄进入战场（不含卡牌效果），该等级每回合+40。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 92210,
+    "ten_zh": "潮汐的交响",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "场上随机5名英雄等级+8。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92210.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【乔汐】｜越阶找牌能手，抢先养成高阶核心英雄！",
+    "video": "x1283gvqirk"
+   },
+   {
+    "ten_zh": "乔汐司空震！强力轮椅黑科技",
+    "video": "o1285xdiyfb"
+   }
+  ]
+ },
+ {
+  "ten_zh": "孙小宾",
+  "id": 38,
+  "uid": "38",
+  "ten_en": "sunxiaobin",
+  "cau_noi_zh": "时间会证明一切的！",
+  "avatar": "ky-thu/038/avatar.jpg",
+  "chan_dung": "ky-thu/038/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "孙小宾",
+    "bia": "ky-thu/038/tp1-bia.jpg",
+    "kv": "ky-thu/038/tp1-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/038/kn1.png",
+    "the": [
+     {
+      "id": 93899,
+      "ten_zh": "时光倒流",
+      "mo_ta_zh": "使用技能，孙小宾回溯上回合使用过的英雄牌（非觉醒）和效果牌，随机触发其中1张。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663801,
+      "ten_zh": "时间魔法",
+      "mo_ta_zh": "首次单回合使用8张英雄或效果牌，获得1张秘技牌时之回环。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/038/kn3.png",
+    "the": [
+     {
+      "id": 663805,
+      "ten_zh": "时光宝藏",
+      "mo_ta_zh": "获得1张更强力的永恒时之回环，可以记录12张英雄牌或效果牌。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 93810,
+    "ten_zh": "时之回环",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "使用后，记录你从现在开始使用的所有非觉醒英雄牌和效果牌（最多8张），并在下回合开始时，再次触发这些卡牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93810.png"
+   },
+   {
+    "id": 93811,
+    "ten_zh": "永恒时之回环",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "使用后，记录你从现在开始使用的所有非觉醒英雄牌和效果牌（最多12张），并在下回合开始时，再次触发这些卡牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93810.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【孙小宾】｜逆转时空，轻松打出双倍效果！",
+    "video": "t1285pmut93"
+   }
+  ]
+ },
+ {
+  "ten_zh": "小妲己",
+  "id": 10,
+  "uid": "10",
+  "ten_en": "xiaodaji",
+  "cau_noi_zh": "戏里戏外，都是我向往的世界。",
+  "avatar": "ky-thu/010/avatar.jpg",
+  "chan_dung": "ky-thu/010/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "小妲己",
+    "bia": "ky-thu/010/tp1-bia.jpg",
+    "kv": "ky-thu/010/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "海盐橙花",
+    "bia": "ky-thu/010/tp2-bia.jpg",
+    "kv": "ky-thu/010/tp2-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/010/kn1.png",
+    "the": [
+     {
+      "id": 91099,
+      "ten_zh": "怦然心动",
+      "mo_ta_zh": "每购买4张牌，小妲己随机获得1张效果牌。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 661001,
+      "ten_zh": "心动节拍",
+      "mo_ta_zh": "触发5/4/3次怦然心动，获得1张秘技牌心之引力。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/010/kn3.png",
+    "the": [
+     {
+      "id": 661009,
+      "ten_zh": "魅力无限",
+      "mo_ta_zh": "每回合打出的第1张效果牌会触发2次。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 91010,
+    "ten_zh": "心之引力",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "获得4次临时刷新。且这4次刷新时，商店购买消耗-1。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/91010.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【小妲己】｜买牌还能返资源，轻松盘活能量！",
+    "video": "z12848twby6"
+   },
+   {
+    "ten_zh": "小妲己逐鹿战术牌流！高爽感新手必学",
+    "video": "l1285jh2lbj"
+   }
+  ]
+ },
+ {
+  "ten_zh": "香香",
+  "id": 50,
+  "uid": "50",
+  "ten_en": "xiangxiang",
+  "cau_noi_zh": "无趣的生活，是一切失败的罪魁祸首！",
+  "avatar": "ky-thu/050/avatar.jpg",
+  "chan_dung": "ky-thu/050/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "香香",
+    "bia": "ky-thu/050/tp1-bia.jpg",
+    "kv": "ky-thu/050/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "蔷薇恋人",
+    "bia": "ky-thu/050/tp2-bia.jpg",
+    "kv": "ky-thu/050/tp2-kv.jpg"
+   },
+   {
+    "ten_zh": "红粉春樱",
+    "bia": "ky-thu/050/tp3-bia.jpg",
+    "kv": "ky-thu/050/tp3-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/050/kn1.png",
+    "the": [
+     {
+      "id": 95099,
+      "ten_zh": "究极弩炮",
+      "mo_ta_zh": "开战时，香香会使用武器攻击敌人。\n香香初始攻击力为20，每拥有1名不低于10级的1-3阶英雄，香香的攻击力+20。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 665001,
+      "ten_zh": "枪炮艺术",
+      "mo_ta_zh": "累积造成10/15/20/30点棋手伤害，获得1张秘技牌武器改造。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/050/kn3.png",
+    "the": [
+     {
+      "id": 665005,
+      "ten_zh": "火力全开",
+      "mo_ta_zh": "香香获得（己方英雄等级的总和×0.5）%的攻击力提升。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 95034,
+    "ten_zh": "歼灭补给",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "额外装填的狙击弹不再有数量限制。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95034.png"
+   },
+   {
+    "id": 95010,
+    "ten_zh": "武器改造",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香的攻击力+20%。\n进行1次武器改造方案选择。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95010.png"
+   },
+   {
+    "id": 95011,
+    "ten_zh": "炮击模式",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香的攻击模式变为：向随机3名敌方英雄分别发射1枚炮弹造成范围物理伤害，炮弹的爆炸范围会依次增加。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95011.png"
+   },
+   {
+    "id": 95012,
+    "ten_zh": "机枪模式",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香的攻击模式变为：向敌方前排随机英雄快速射击总计30发子弹，造成物理伤害。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95012.png"
+   },
+   {
+    "id": 95013,
+    "ten_zh": "狙击模式",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香的攻击模式变为：向生命值百分比最高的敌方英雄依次发射2枚狙击弹造成物理伤害，对敌方英雄造成致命伤害时可至多额外装填2枚狙击弹。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95013.png"
+   },
+   {
+    "id": 95014,
+    "ten_zh": "激光模式",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香的攻击模式变为：向随机敌方英雄发射激光造成物理伤害，持续10秒。目标阵亡时，会随机切换至另一目标。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95014.png"
+   },
+   {
+    "id": 95015,
+    "ten_zh": "战术·歼灭",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "若香香在战斗中击败过敌人，下回合开始时所有英雄等级+4。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95015.png"
+   },
+   {
+    "id": 95016,
+    "ten_zh": "战术·砺刃",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香在战斗中每累积造成500点伤害，下回合开始时随机1名英雄等级+3。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95016.png"
+   },
+   {
+    "id": 95017,
+    "ten_zh": "战术·暴击",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香可以暴击：以50%的概率造成200%的伤害。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95017.png"
+   },
+   {
+    "id": 95018,
+    "ten_zh": "战术·追击",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香的每次攻击会附加20%攻击力的额外物理伤害。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95018.png"
+   },
+   {
+    "id": 95019,
+    "ten_zh": "战术·蓄势",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始后，每经过1秒，香香的攻击力额外提升10%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95019.png"
+   },
+   {
+    "id": 95020,
+    "ten_zh": "战术·王牌",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "你等级最高的英雄每有1级，香香的攻击力+1%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95020.png"
+   },
+   {
+    "id": 95021,
+    "ten_zh": "战术·列阵",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "你每有1名不低于30级的英雄，香香的攻击力+20%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95021.png"
+   },
+   {
+    "id": 95022,
+    "ten_zh": "战术·痛击",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "香香对棋手造成棋手生命值伤害时，额外+3（无视上限）。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95022.png"
+   },
+   {
+    "id": 95023,
+    "ten_zh": "额外弹匣",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "发射的炮弹数量+2。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95023.png"
+   },
+   {
+    "id": 95024,
+    "ten_zh": "破甲弹头",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "炮弹命中的目标会降低20点物理防御，可叠加。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95024.png"
+   },
+   {
+    "id": 95025,
+    "ten_zh": "燃烧弹头",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "炮弹命中后会留下一片燃烧区域，每秒对敌人造成物理伤害，持续10秒。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95025.png"
+   },
+   {
+    "id": 95026,
+    "ten_zh": "制导弹头",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "炮弹初始拥有最大爆炸范围且对同一目标发射。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95026.png"
+   },
+   {
+    "id": 95027,
+    "ten_zh": "裂伤弹",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "子弹附带目标当前生命值5%的额外物理伤害。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95027.png"
+   },
+   {
+    "id": 95028,
+    "ten_zh": "连锁跳弹",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "子弹命中后，向距离最近的敌人弹射1次，但香香造成的伤害降低20%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95028.png"
+   },
+   {
+    "id": 95029,
+    "ten_zh": "补给弹匣",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "若子弹击败敌方英雄，立即补充10发子弹。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95029.png"
+   },
+   {
+    "id": 95030,
+    "ten_zh": "干扰弹",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "子弹命中的目标在5秒内沉默且受到的治疗效果降低70%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95030.png"
+   },
+   {
+    "id": 95031,
+    "ten_zh": "贯穿弹头",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "狙击弹伤害不再因穿透而衰减。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95031.png"
+   },
+   {
+    "id": 95032,
+    "ten_zh": "大号弹头",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "狙击弹额外造成目标最大生命值60%的物理伤害，但无法穿透。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95032.png"
+   },
+   {
+    "id": 95033,
+    "ten_zh": "凝滞弹头",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "优先攻击敌方等级最高3名英雄中的随机1名，狙击弹命中的目标4秒内被缴械且禁锢。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95033.png"
+   },
+   {
+    "id": 95035,
+    "ten_zh": "超级电池",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "激光持续时间增加5秒。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95035.png"
+   },
+   {
+    "id": 95036,
+    "ten_zh": "聚焦光束",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "激光对同一目标发射超过2秒后，伤害+80%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95036.png"
+   },
+   {
+    "id": 95037,
+    "ten_zh": "殉爆模式",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "激光命中过的目标在阵亡时会爆炸，对一定范围内的敌人造成物理伤害，并眩晕1秒。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95037.png"
+   },
+   {
+    "id": 95038,
+    "ten_zh": "高能激发",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "激光伤害+100%，但不会攻击生命值低于20%的目标。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95038.png"
+   },
+   {
+    "id": 95040,
+    "ten_zh": "战术·淬刃",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗中香香每击败1名英雄，本回合香香攻击力额外提升20%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95040.png"
+   },
+   {
+    "id": 95041,
+    "ten_zh": "战术·借势",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "每拥有1名不低于10级的4-5阶英雄，香香攻击力+30。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95041.png"
+   },
+   {
+    "id": 95042,
+    "ten_zh": "战术·百战",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "本场比赛中香香每胜利1次，攻击力+30%，战败会清空该加成。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/95042.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【香香】｜多形态枪炮，亲自下场火力全开！",
+    "video": "x1283biir1s"
+   },
+   {
+    "ten_zh": "香香图腾开团射！成型即碾压全场",
+    "video": "r1285hzfmdv"
+   }
+  ]
+ },
+ {
+  "ten_zh": "玉环",
+  "id": 25,
+  "uid": "25",
+  "ten_en": "yuhuan",
+  "cau_noi_zh": "心中有所想，便能在琴声中有所得。",
+  "avatar": "ky-thu/025/avatar.jpg",
+  "chan_dung": "ky-thu/025/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "玉环",
+    "bia": "ky-thu/025/tp1-bia.jpg",
+    "kv": "ky-thu/025/tp1-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/025/kn1.png",
+    "the": [
+     {
+      "id": 92599,
+      "ten_zh": "霓裳曲",
+      "mo_ta_zh": "每打出3张非觉醒英雄牌时，玉环将根据出牌类型以不同的指法弹奏琵琶，并触发1次相应效果。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 662501,
+      "ten_zh": "自成曲调",
+      "mo_ta_zh": "累积弹奏6次琵琶，获得1张秘技牌惊鸿调，限2张。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/025/kn3.png",
+    "the": [
+     {
+      "id": 662502,
+      "ten_zh": "余音绕梁",
+      "mo_ta_zh": "获得3次惊鸿调演奏次数。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 92501,
+    "ten_zh": "轮指",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "下个指法触发2次。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92501.png"
+   },
+   {
+    "id": 92502,
+    "ten_zh": "扫拂",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "使场上等级最低的2名英雄获得等于棋手等级的等级。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92502.png"
+   },
+   {
+    "id": 92503,
+    "ten_zh": "吟揉",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "获得1张随机的转瞬英雄牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92503.png"
+   },
+   {
+    "id": 92504,
+    "ten_zh": "绞弦",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "场上随机英雄等级+1。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92504.png"
+   },
+   {
+    "id": 92510,
+    "ten_zh": "惊鸿调",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 3,
+    "mo_ta_zh": "使用记录的前6次的指法来弹奏琵琶，并触发对应的效果（还可获得2张）。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/92510.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【玉环】｜灵活搭配出牌，把握节奏赢下对局！",
+    "video": "z1285ccxj0a"
+   },
+   {
+    "ten_zh": "玉环日落海倒转！高上限新手必学",
+    "video": "j128758vqd7"
+   }
+  ]
+ },
+ {
+  "ten_zh": "嬴律",
+  "id": 43,
+  "uid": "43",
+  "ten_en": "yinglv",
+  "cau_noi_zh": "规则决定秩序，而我，决定规则。",
+  "avatar": "ky-thu/043/avatar.jpg",
+  "chan_dung": "ky-thu/043/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "嬴律",
+    "bia": "ky-thu/043/tp1-bia.jpg",
+    "kv": "ky-thu/043/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "优雅恋人",
+    "bia": "ky-thu/043/tp2-bia.jpg",
+    "kv": "ky-thu/043/tp2-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/043/kn1.png",
+    "the": [
+     {
+      "id": 94399,
+      "ten_zh": "最高决策者",
+      "mo_ta_zh": "比赛开始时，嬴律获得1张战略决策。使用后在第一次发布至高决策时，可以再获得1张。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 664301,
+      "ten_zh": "至高之主",
+      "mo_ta_zh": "每经过4个回合，获得1张秘技牌至高决策。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/043/kn3.png",
+    "the": [
+     {
+      "id": 610006,
+      "ten_zh": "特权决策",
+      "mo_ta_zh": "选择1个特权决策颁布，对所有玩家生效，并且自己额外享受特权效果。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 94361,
+    "ten_zh": "绝对压制",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，你等级最高的英雄变成猪猪，持续3秒，并在本局对战中获得30%伤害减免。决策颁布者额外特权：你的该英雄额外获得20%伤害提升。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94361.png"
+   },
+   {
+    "id": 94300,
+    "ten_zh": "战略决策",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "挑选1个战略决策，嬴律本场比赛获得此效果。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94300.png"
+   },
+   {
+    "id": 94302,
+    "ten_zh": "投资增值",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "棋手升级时获得2能量，满级后每回合获得2次临时刷新。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94302.png"
+   },
+   {
+    "id": 94303,
+    "ten_zh": "风险对冲",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗失败时额外获得2次刷新，每回合开始时恢复1棋手生命值。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94303.png"
+   },
+   {
+    "id": 94304,
+    "ten_zh": "固定收益",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "每回合额外获得1能量和1次临时刷新。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94304.png"
+   },
+   {
+    "id": 94305,
+    "ten_zh": "乘胜追击",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，若上次战斗胜利，获得2能量和1次临时刷新。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94305.png"
+   },
+   {
+    "id": 94306,
+    "ten_zh": "基层提拔",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "打出1-3阶英雄牌时其等级+3。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94306.png"
+   },
+   {
+    "id": 94307,
+    "ten_zh": "空降人才",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "本场比赛打出的前2张4-5阶英雄觉醒进度+2。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94307.png"
+   },
+   {
+    "id": 94351,
+    "ten_zh": "沉淀收益",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，获得0能量。每在当前棋手等级停留1回合，额外获得1能量，至多4能量。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94351.png"
+   },
+   {
+    "id": 94352,
+    "ten_zh": "并购红利",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "合成英雄时，获得1能量，每回合限3次。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94352.png"
+   },
+   {
+    "id": 94353,
+    "ten_zh": "低压运营",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，每有15棋手生命值则场上所有英雄等级+1。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94353.png"
+   },
+   {
+    "id": 94309,
+    "ten_zh": "至高决策",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "嬴律从4个至高决策中选择1个颁布，对全场所有玩家生效，持续3个回合。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94309.png"
+   },
+   {
+    "id": 94311,
+    "ten_zh": "资本杠杆",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合结束时每有7能量，获得1能量。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94311.png"
+   },
+   {
+    "id": 94312,
+    "ten_zh": "资产清算",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "若你累计出售了10名场上的1-3阶英雄，获得10能量。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94312.png"
+   },
+   {
+    "id": 94313,
+    "ten_zh": "胜场激励",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "若你战斗胜利2次，获得10能量。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94313.png"
+   },
+   {
+    "id": 94314,
+    "ten_zh": "分红",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗结束时，你每存活1名英雄，获得1能量。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94314.png"
+   },
+   {
+    "id": 94315,
+    "ten_zh": "人才储备",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，若棋手等级高于3，获得1张人才搜寻。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94315.png"
+   },
+   {
+    "id": 94316,
+    "ten_zh": "投资回报",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，若本回合累计打出了不少于8张英雄及效果牌，随机获得其中2张。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94316.png"
+   },
+   {
+    "id": 94317,
+    "ten_zh": "首购激励",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "每回合购买的第1张牌会额外复制1张。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94317.png"
+   },
+   {
+    "id": 94318,
+    "ten_zh": "管理进修",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "获得3棋手经验，棋手升级时再次获得。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94318.png"
+   },
+   {
+    "id": 94319,
+    "ten_zh": "战略性收缩",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "若你战斗失败2次，获得9棋手经验。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94319.png"
+   },
+   {
+    "id": 94321,
+    "ten_zh": "短期企划",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，你的英雄获得\n10临时等级。战斗结束时仍存活的英雄保留5级。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94321.png"
+   },
+   {
+    "id": 94322,
+    "ten_zh": "股权激励",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，排名最高的玩家获得1件特殊装备；第2高的玩家获得1件普通装备。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94322.png"
+   },
+   {
+    "id": 94323,
+    "ten_zh": "精英计划",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，场上等级最高的友方英雄最大法力值-20。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94323.png"
+   },
+   {
+    "id": 94324,
+    "ten_zh": "协同增效",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "英雄合成时等级额外+4。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94324.png"
+   },
+   {
+    "id": 94325,
+    "ten_zh": "猎头挖角",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，复制对方等级最高的英雄加入战斗。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94325.png"
+   },
+   {
+    "id": 94326,
+    "ten_zh": "基层强化",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，1-3阶英雄伤害提升50%。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94326.png"
+   },
+   {
+    "id": 94362,
+    "ten_zh": "贷款协议",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "能量可用至-15。回合开始时若能量为负，则本回合获得的能量-2。决策颁布者额外特权：能量下限为-20且不受到惩罚。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94362.png"
+   },
+   {
+    "id": 94363,
+    "ten_zh": "资源再分配",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "有棋手被淘汰时，获得5能量以及1张基础装备牌。决策颁布者额外特权：改为获得特殊装备牌且额外恢复5棋手生命值。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/94363.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【嬴律】｜规则制定者，打造专属自己的完美牌局！",
+    "video": "h1285ud5gt4"
+   }
+  ]
+ },
+ {
+  "ten_zh": "瑶妹",
+  "id": 11,
+  "uid": "11",
+  "ten_en": "yaomei",
+  "cau_noi_zh": "我的梦想就是，看遍世界上所有有趣的东西~",
+  "avatar": "ky-thu/011/avatar.jpg",
+  "chan_dung": "ky-thu/011/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "瑶妹",
+    "bia": "ky-thu/011/tp1-bia.jpg",
+    "kv": "ky-thu/011/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "棉云甜梦",
+    "bia": "ky-thu/011/tp2-bia.jpg",
+    "kv": "ky-thu/011/tp2-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/011/kn1.png",
+    "the": [
+     {
+      "id": 91199,
+      "ten_zh": "可爱小鹿",
+      "mo_ta_zh": "游戏开始时，瑶召唤自己心爱的小鹿前来助阵，小鹿每回合等级+2，如果上回合战斗胜利，等级额外+4。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 661101,
+      "ten_zh": "超绝可爱小鹿",
+      "mo_ta_zh": "每3个回合，获得1张秘技牌神奇小鹿。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/011/kn3.png",
+    "the": [
+     {
+      "id": 661106,
+      "ten_zh": "巨型玩偶",
+      "mo_ta_zh": "小鹿等级+30，并获得1件小鹿的庇护。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 91115,
+    "ten_zh": "神奇小鹿·奉献",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "小鹿阵亡时，会将自身等级以临时等级均分给你的英雄。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/91115.png"
+   },
+   {
+    "id": 91113,
+    "ten_zh": "神奇小鹿·共鸣",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "小鹿等级翻倍。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/91113.png"
+   },
+   {
+    "id": 91112,
+    "ten_zh": "神奇小鹿·双生",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "开战时，小鹿会在附近生成1个自身的复制体。如果本局获得过5次胜利，小鹿等级+12（当前胜利次数：0）。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/91112.png"
+   },
+   {
+    "id": 91111,
+    "ten_zh": "神奇小鹿·重装",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "小鹿可以穿戴普通装备，且立即穿戴1件极寒风暴，等级+10。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/91111.png"
+   },
+   {
+    "id": 91110,
+    "ten_zh": "神奇小鹿·嘲讽",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "开战后小鹿会在敌人之间无视碰撞地移动，每3秒嘲讽1次周围1格敌人，等级+8。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/91110.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【瑶妹】｜顶级成长型前排，开局即抢占优势！",
+    "video": "g1283ns79kx"
+   },
+   {
+    "ten_zh": "瑶妹李信牺牲流！学会就能稳稳上分",
+    "video": "x1285t5msir"
+   }
+  ]
+ },
+ {
+  "ten_zh": "弈星",
+  "id": 36,
+  "uid": "36",
+  "ten_en": "yixing",
+  "cau_noi_zh": "不得贪胜，不可不胜。",
+  "avatar": "ky-thu/036/avatar.jpg",
+  "chan_dung": "ky-thu/036/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "弈星",
+    "bia": "ky-thu/036/tp1-bia.jpg",
+    "kv": "ky-thu/036/tp1-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/036/kn1.png",
+    "the": [
+     {
+      "id": 93699,
+      "ten_zh": "棋道万象",
+      "mo_ta_zh": "本回合战斗开始时，弈星随机复制1名敌方英雄。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663601,
+      "ten_zh": "谋而后定",
+      "mo_ta_zh": "第4/8/12回合，获得1张秘技牌驭势。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/036/kn3.png",
+    "the": [
+     {
+      "id": 663607,
+      "ten_zh": "神之一手",
+      "mo_ta_zh": "开战时，将敌方等级最高的英雄复制，临时加入我方战场。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 93610,
+    "ten_zh": "驭势",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，将敌方场上所有英雄复制进你的手牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93610.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【弈星】｜复制对手英雄，为我所用！",
+    "video": "o1285ft16er"
+   }
+  ]
+ },
+ {
+  "ten_zh": "昭君",
+  "id": 34,
+  "uid": "34",
+  "ten_en": "zhaojun",
+  "cau_noi_zh": "灵魂仍然炽热，但回忆已被冰封。",
+  "avatar": "ky-thu/034/avatar.jpg",
+  "chan_dung": "ky-thu/034/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "昭君",
+    "bia": "ky-thu/034/tp1-bia.jpg",
+    "kv": "ky-thu/034/tp1-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/034/kn1.png",
+    "the": [
+     {
+      "id": 93499,
+      "ten_zh": "冰之心",
+      "mo_ta_zh": "指定1名英雄，将其冻结。战斗结束后，该英雄随机变为高1阶的英雄，继承等级。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663401,
+      "ten_zh": "极寒冰冻",
+      "mo_ta_zh": "第5/8回合，获得1张秘技牌深度冻结。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/034/kn3.png",
+    "the": [
+     {
+      "id": 663405,
+      "ten_zh": "冰雪秘藏",
+      "mo_ta_zh": "从3个增益效果中选择1个。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 663403,
+    "ten_zh": "不朽坚冰",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，你的全体英雄获得500点最大生命值、60点物理和法术攻击力。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/663403.png"
+   },
+   {
+    "id": 663404,
+    "ten_zh": "雪暴时刻",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 5,
+    "mo_ta_zh": "冻结的英雄，解冻后等级永久+20。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/663404.png"
+   },
+   {
+    "id": 663402,
+    "ten_zh": "寒潮之势",
+    "nhom": "rieng",
+    "kieu": 6,
+    "chat": 5,
+    "mo_ta_zh": "战斗开始时，你等级最高的英雄获得1200点生命值、120点物理和法术攻击力。",
+    "nguon_zh": "棋手升级时概率选择获取天赋。",
+    "icon": "ky-thu/bai/663402.png"
+   },
+   {
+    "id": 93412,
+    "ten_zh": "霜寒进化",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "解冻后，英雄变为同阵营高1阶的随机英雄。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93412.png"
+   },
+   {
+    "id": 93413,
+    "ten_zh": "破冰裂变",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "解冻后，英雄变为高2阶的英雄，下回合起，技能单回合可使用2次。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93413.png"
+   },
+   {
+    "id": 93414,
+    "ten_zh": "寒冰王座",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "解冻后，英雄变为5阶的随机英雄。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93414.png"
+   },
+   {
+    "id": 93415,
+    "ten_zh": "冰封结晶",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "解冻后，额外获得1张解冻英雄品阶的兑换券。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93415.png"
+   },
+   {
+    "id": 93416,
+    "ten_zh": "冰心领域",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，场上友方英雄获得场上品阶总数30%的等级。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93416.png"
+   },
+   {
+    "id": 93417,
+    "ten_zh": "寒雨凝结",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，场上友方英雄获得主要阵营人数的等级。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93417.png"
+   },
+   {
+    "id": 93418,
+    "ten_zh": "寒潮共振",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "回合开始时，场上友方英雄获得已觉醒英雄数量×1.5的等级。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93418.png"
+   },
+   {
+    "id": 93419,
+    "ten_zh": "寒冰觉醒",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "解冻后，英雄不变，觉醒进度额外+2。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93419.png"
+   },
+   {
+    "id": 93410,
+    "ten_zh": "深度冻结",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "从随机3个强化效果中选择1个。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93410.png"
+   },
+   {
+    "id": 93411,
+    "ten_zh": "升华",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "解冻后，英雄变为高1阶的英雄，觉醒进度额外+2。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93411.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【昭君】｜品阶提升专家，无需搜牌构筑阵容核心！",
+    "video": "i1285zp6so2"
+   }
+  ]
+ },
+ {
+  "ten_zh": "庄小鱼",
+  "id": 31,
+  "uid": "31",
+  "ten_en": "zhuangxiaoyu",
+  "cau_noi_zh": "在梦境之中寻求真实，在现实之中渴望奇迹。",
+  "avatar": "ky-thu/031/avatar.jpg",
+  "chan_dung": "ky-thu/031/chan-dung.png",
+  "trang_phuc": [
+   {
+    "ten_zh": "庄小鱼",
+    "bia": "ky-thu/031/tp1-bia.jpg",
+    "kv": "ky-thu/031/tp1-kv.jpg"
+   },
+   {
+    "ten_zh": "梦境遨游",
+    "bia": "ky-thu/031/tp2-bia.jpg",
+    "kv": "ky-thu/031/tp2-kv.jpg"
+   }
+  ],
+  "ky_nang": [
+   {
+    "nhom_zh": "技能",
+    "cap": 1,
+    "icon": "ky-thu/031/kn1.png",
+    "the": [
+     {
+      "id": 93199,
+      "ten_zh": "梦境游戏",
+      "mo_ta_zh": "庄小鱼升级时，会随机获得1张效果牌。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "秘技",
+    "cap": 1,
+    "icon": "ky-thu/020/kn2.png",
+    "the": [
+     {
+      "id": 663101,
+      "ten_zh": "美梦成真",
+      "mo_ta_zh": "升到5级和6级，获得1张秘技牌如梦似幻。"
+     }
+    ]
+   },
+   {
+    "nhom_zh": "专属",
+    "cap": 6,
+    "icon": "ky-thu/031/kn3.png",
+    "the": [
+     {
+      "id": 663108,
+      "ten_zh": "引擎升级",
+      "mo_ta_zh": "获得1张梦幻引擎：将商店替换为梦幻商店。若在棋手生命值≤30时战斗失败，则重复获得。"
+     }
+    ]
+   }
+  ],
+  "bai": [
+   {
+    "id": 93110,
+    "ten_zh": "如梦似幻",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "基于场上阵容获取一套梦幻手牌。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/93110.png"
+   },
+   {
+    "id": 663109,
+    "ten_zh": "梦幻引擎",
+    "nhom": "rieng",
+    "kieu": 7,
+    "chat": 5,
+    "mo_ta_zh": "根据场上的阵容，将商店替换为梦幻商店。",
+    "nguon_zh": "初始获得卡牌",
+    "icon": "ky-thu/bai/663109.png"
+   }
+  ],
+  "huong_dan": [
+   {
+    "ten_zh": "棋手攻略【庄小鱼】｜一技定阵，免去刷新阵容瞬间成型！",
+    "video": "y1284y9j8pi"
+   },
+   {
+    "ten_zh": "庄小鱼古币花木兰！无限复活横扫全场",
+    "video": "p1285dxymau"
+   }
+  ]
+ }
+]

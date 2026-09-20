@@ -1,0 +1,5441 @@
+{
+ "_ghi_chu": "Tệp sinh tự động bởi scripts/tai_anh.py; đừng sửa tay. Đường dẫn tính từ data/anh/.",
+ "tao_luc": "2026-09-21 01:47:42",
+ "loai": {
+  "anh-hung": [
+   {
+    "id": "anh-hung/001",
+    "ten_zh": "干将莫邪",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/001_card1.png",
+     "anh-hung/001_card2.png",
+     "anh-hung/001_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/002",
+    "ten_zh": "项羽",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/002_card1.png",
+     "anh-hung/002_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/003",
+    "ten_zh": "鬼谷子",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/003_card1.png",
+     "anh-hung/003_card2.png",
+     "anh-hung/003_card3.png",
+     "anh-hung/003_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/004",
+    "ten_zh": "虞姬",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/004_card1.png",
+     "anh-hung/004_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/005",
+    "ten_zh": "云中君",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/005_card1.png",
+     "anh-hung/005_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/006",
+    "ten_zh": "张良",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/006_card1.png",
+     "anh-hung/006_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/007",
+    "ten_zh": "少司缘",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/007_card1.png",
+     "anh-hung/007_card2.png",
+     "anh-hung/007_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/008",
+    "ten_zh": "瑶",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/008_card1.png",
+     "anh-hung/008_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/009",
+    "ten_zh": "大司命",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/009_card1.png",
+     "anh-hung/009_card2.png",
+     "anh-hung/009_card3.png",
+     "anh-hung/009_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/010",
+    "ten_zh": "刘邦",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/010_card1.png",
+     "anh-hung/010_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/011",
+    "ten_zh": "韩信",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/011_card1.png",
+     "anh-hung/011_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/012",
+    "ten_zh": "东皇太一",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/012_card1.png",
+     "anh-hung/012_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/013",
+    "ten_zh": "敖隐",
+    "nhom_zh": "大河流域",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/013_card1.png",
+     "anh-hung/013_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/014",
+    "ten_zh": "曜",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/014_card1.png",
+     "anh-hung/014_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/015",
+    "ten_zh": "孙膑",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/015_card1.png",
+     "anh-hung/015_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/016",
+    "ten_zh": "芈月",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/016_card1.png",
+     "anh-hung/016_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/017",
+    "ten_zh": "墨子",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/017_card1.png",
+     "anh-hung/017_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/018",
+    "ten_zh": "廉颇",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/018_card1.png",
+     "anh-hung/018_card2.png",
+     "anh-hung/018_card3.png",
+     "anh-hung/018_card4.png",
+     "anh-hung/018_card5.png",
+     "anh-hung/018_card6.png",
+     "anh-hung/018_card7.png",
+     "anh-hung/018_card8.png",
+     "anh-hung/018_card9.png",
+     "anh-hung/018_card10.png",
+     "anh-hung/018_card11.png",
+     "anh-hung/018_card12.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/019",
+    "ten_zh": "蒙恬",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/019_card1.png",
+     "anh-hung/019_card2.png",
+     "anh-hung/019_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/020",
+    "ten_zh": "白起",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/020_card1.png",
+     "anh-hung/018_card2.png",
+     "anh-hung/020_card3.png",
+     "anh-hung/018_card11.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/021",
+    "ten_zh": "老夫子",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/021_card1.png",
+     "anh-hung/018_card3.png",
+     "anh-hung/021_card3.png",
+     "anh-hung/018_card9.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/022",
+    "ten_zh": "西施",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/022_card1.png",
+     "anh-hung/018_card5.png",
+     "anh-hung/022_card3.png",
+     "anh-hung/018_card12.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/023",
+    "ten_zh": "镜",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/023_card1.png",
+     "anh-hung/023_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/024",
+    "ten_zh": "扁鹊",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/024_card1.png",
+     "anh-hung/024_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/025",
+    "ten_zh": "嬴政",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/025_card1.png",
+     "anh-hung/018_card2.png",
+     "anh-hung/018_card3.png",
+     "anh-hung/018_card4.png",
+     "anh-hung/018_card5.png",
+     "anh-hung/018_card6.png",
+     "anh-hung/025_card7.png",
+     "anh-hung/018_card8.png",
+     "anh-hung/018_card9.png",
+     "anh-hung/018_card10.png",
+     "anh-hung/018_card11.png",
+     "anh-hung/018_card12.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/026",
+    "ten_zh": "庄周",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/026_card1.png",
+     "anh-hung/018_card3.png",
+     "anh-hung/026_card3.png",
+     "anh-hung/018_card9.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/027",
+    "ten_zh": "蒙犽",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/027_card1.png",
+     "anh-hung/018_card6.png",
+     "anh-hung/027_card3.png",
+     "anh-hung/018_card10.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/028",
+    "ten_zh": "鲁班大师",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/028_card1.png",
+     "anh-hung/028_card2.png",
+     "anh-hung/028_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/029",
+    "ten_zh": "鲁班七号",
+    "nhom_zh": "逐鹿",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/029_card1.png",
+     "anh-hung/018_card2.png",
+     "anh-hung/018_card3.png",
+     "anh-hung/018_card4.png",
+     "anh-hung/018_card5.png",
+     "anh-hung/018_card6.png",
+     "anh-hung/029_card7.png",
+     "anh-hung/018_card8.png",
+     "anh-hung/018_card9.png",
+     "anh-hung/018_card10.png",
+     "anh-hung/018_card11.png",
+     "anh-hung/018_card12.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/030",
+    "ten_zh": "孙尚香",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/030_card1.png",
+     "anh-hung/030_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/031",
+    "ten_zh": "曹操",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/031_card1.png",
+     "anh-hung/031_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/032",
+    "ten_zh": "赵云",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/032_card1.png",
+     "anh-hung/032_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/033",
+    "ten_zh": "大乔",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/033_card1.png",
+     "anh-hung/033_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/034",
+    "ten_zh": "蔡文姬",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/034_card1.png",
+     "anh-hung/034_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/035",
+    "ten_zh": "马超",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/035_card1.png",
+     "anh-hung/035_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/036",
+    "ten_zh": "刘禅",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/036_card1.png",
+     "anh-hung/036_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/037",
+    "ten_zh": "貂蝉",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/037_card1.png",
+     "anh-hung/037_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/038",
+    "ten_zh": "甄姬",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/038_card1.png",
+     "anh-hung/038_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/039",
+    "ten_zh": "小乔",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/039_card1.png",
+     "anh-hung/039_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/040",
+    "ten_zh": "诸葛亮",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/040_card1.png",
+     "anh-hung/040_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/041",
+    "ten_zh": "吕布",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/041_card1.png",
+     "anh-hung/041_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/042",
+    "ten_zh": "周瑜",
+    "nhom_zh": "三分之地",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/042_card1.png",
+     "anh-hung/042_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/043",
+    "ten_zh": "苏烈",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/043_card1.png",
+     "anh-hung/043_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/044",
+    "ten_zh": "李元芳",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/044_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/044_card3.png",
+     "anh-hung/044_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/045",
+    "ten_zh": "沈梦溪",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/045_card1.png",
+     "anh-hung/045_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/046",
+    "ten_zh": "盾山",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/046_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/046_card3.png",
+     "anh-hung/044_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/047",
+    "ten_zh": "百里守约",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/047_card1.png",
+     "anh-hung/047_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/048",
+    "ten_zh": "百里玄策",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/048_card1.png",
+     "anh-hung/048_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/049",
+    "ten_zh": "铠",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/049_card1.png",
+     "anh-hung/049_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/050",
+    "ten_zh": "程咬金",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/050_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/050_card3.png",
+     "anh-hung/044_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/051",
+    "ten_zh": "狄仁杰",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/051_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/044_card4.png",
+     "anh-hung/051_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/052",
+    "ten_zh": "钟馗",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/052_card1.png",
+     "anh-hung/052_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/053",
+    "ten_zh": "上官婉儿",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/053_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/053_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/054",
+    "ten_zh": "李信",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/054_card1.png",
+     "anh-hung/054_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/055",
+    "ten_zh": "李白",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/055_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/044_card4.png",
+     "anh-hung/055_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/056",
+    "ten_zh": "花木兰",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/056_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/044_card4.png",
+     "anh-hung/056_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/057",
+    "ten_zh": "司空震",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/057_card1.png",
+     "anh-hung/057_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/058",
+    "ten_zh": "武则天",
+    "nhom_zh": "河洛",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/058_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/044_card4.png",
+     "anh-hung/058_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/059",
+    "ten_zh": "狂铁",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/059_card1.png",
+     "anh-hung/059_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/060",
+    "ten_zh": "亚连",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/060_card1.png",
+     "anh-hung/060_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/061",
+    "ten_zh": "米莱狄",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/061_card1.png",
+     "anh-hung/061_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/062",
+    "ten_zh": "马可波罗",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/062_card1.png",
+     "anh-hung/062_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/063",
+    "ten_zh": "姬小满",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/063_card1.png",
+     "anh-hung/063_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/064",
+    "ten_zh": "亚瑟",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/064_card1.png",
+     "anh-hung/064_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/065",
+    "ten_zh": "安琪拉",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/065_card1.png",
+     "anh-hung/065_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/066",
+    "ten_zh": "朵莉亚",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/066_card1.png",
+     "anh-hung/066_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/067",
+    "ten_zh": "莱西奥",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/067_card1.png",
+     "anh-hung/067_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/068",
+    "ten_zh": "艾琳",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/068_card1.png",
+     "anh-hung/068_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/069",
+    "ten_zh": "雅典娜",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/069_card1.png",
+     "anh-hung/069_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/070",
+    "ten_zh": "海诺",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/070_card1.png",
+     "anh-hung/070_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/071",
+    "ten_zh": "露娜",
+    "nhom_zh": "日落海",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/071_card1.png",
+     "anh-hung/071_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/072",
+    "ten_zh": "弈星",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/072_card1.png",
+     "anh-hung/072_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/073",
+    "ten_zh": "牛魔",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/073_card1.png",
+     "anh-hung/073_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/074",
+    "ten_zh": "梦奇",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/074_card1.png",
+     "anh-hung/074_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/075",
+    "ten_zh": "公孙离",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/075_card1.png",
+     "anh-hung/075_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/076",
+    "ten_zh": "苍",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/076_card1.png",
+     "anh-hung/076_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/077",
+    "ten_zh": "明世隐",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/077_card1.png",
+     "anh-hung/077_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/078",
+    "ten_zh": "阿轲",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/078_card1.png",
+     "anh-hung/078_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/079",
+    "ten_zh": "裴擒虎",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/079_card1.png",
+     "anh-hung/079_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/080",
+    "ten_zh": "猪八戒",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/080_card1.png",
+     "anh-hung/080_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/081",
+    "ten_zh": "太乙真人",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/081_card1.png",
+     "anh-hung/081_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/082",
+    "ten_zh": "孙悟空",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/082_card1.png",
+     "anh-hung/082_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/083",
+    "ten_zh": "姜子牙",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/083_card1.png",
+     "anh-hung/083_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/084",
+    "ten_zh": "海月",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/084_card1.png",
+     "anh-hung/084_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "anh-hung/085",
+    "ten_zh": "杨玉环",
+    "nhom_zh": "无阵营",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/085_card1.png",
+     "anh-hung/085_card2.png",
+     "anh-hung/085_card3.png",
+     "anh-hung/085_card4.png"
+    ],
+    "tai_duoc": true
+   }
+  ],
+  "hieu-ung": [
+   {
+    "id": "hieu-ung/001",
+    "ten_zh": "吸纳人才",
+    "nhom_zh": "1阶",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "hieu-ung/001_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/002",
+    "ten_zh": "1阶英雄兑换券",
+    "nhom_zh": "1阶",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "hieu-ung/002_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/003",
+    "ten_zh": "研读会",
+    "nhom_zh": "1阶",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "hieu-ung/003_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/004",
+    "ten_zh": "高级人才",
+    "nhom_zh": "1阶",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "hieu-ung/004_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/005",
+    "ten_zh": "援护战术",
+    "nhom_zh": "1阶",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/018_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/006",
+    "ten_zh": "古币",
+    "nhom_zh": "1阶",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "anh-hung/044_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/007",
+    "ten_zh": "惊喜补贴",
+    "nhom_zh": "1阶",
+    "icon": "anh-hung/icon/001.png",
+    "cards": [
+     "hieu-ung/007_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/008",
+    "ten_zh": "跳级",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/008_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/009",
+    "ten_zh": "图腾仪式",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/009_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/010",
+    "ten_zh": "2阶英雄",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/010_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/011",
+    "ten_zh": "古币多多",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/011_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/012",
+    "ten_zh": "弦音",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/085_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/013",
+    "ten_zh": "2阶英雄兑换券",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/013_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/014",
+    "ten_zh": "临阵磨枪",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/014_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/015",
+    "ten_zh": "唤醒",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/015_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/016",
+    "ten_zh": "演练战术",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/018_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/017",
+    "ten_zh": "推演战术",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/018_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/018",
+    "ten_zh": "特训战术",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/018_card6.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/019",
+    "ten_zh": "招募战术",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "anh-hung/018_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/020",
+    "ten_zh": "简易协作",
+    "nhom_zh": "2阶",
+    "icon": "anh-hung/icon/002.png",
+    "cards": [
+     "hieu-ung/020_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/021",
+    "ten_zh": "精致古币",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "anh-hung/044_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/022",
+    "ten_zh": "无阵营征召令",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/022_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/023",
+    "ten_zh": "精密协作",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/023_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/024",
+    "ten_zh": "经典研读会",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/024_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/025",
+    "ten_zh": "八方来援",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/025_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/026",
+    "ten_zh": "3阶英雄兑换券",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/026_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/027",
+    "ten_zh": "武装之力",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/027_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/028",
+    "ten_zh": "遗志",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/028_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/029",
+    "ten_zh": "呼朋唤友",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/029_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/030",
+    "ten_zh": "整备高手",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/030_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/031",
+    "ten_zh": "登场人物",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/031_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/032",
+    "ten_zh": "广纳良才",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/032_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/033",
+    "ten_zh": "大河流域征召令",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/033_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/034",
+    "ten_zh": "日落海征召令",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/034_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/035",
+    "ten_zh": "逐鹿征召令",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/035_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/036",
+    "ten_zh": "三分征召令",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/036_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/037",
+    "ten_zh": "河洛征召令",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/037_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/038",
+    "ten_zh": "换帅",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/038_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/039",
+    "ten_zh": "照影",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/039_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/040",
+    "ten_zh": "助力核心",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/040_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/041",
+    "ten_zh": "超级补贴",
+    "nhom_zh": "3阶",
+    "icon": "anh-hung/icon/005.png",
+    "cards": [
+     "hieu-ung/041_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/042",
+    "ten_zh": "夺取之术",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/042_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/043",
+    "ten_zh": "4阶英雄",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/043_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/044",
+    "ten_zh": "高阶演练战术",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/018_card8.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/045",
+    "ten_zh": "武装重构",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/045_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/046",
+    "ten_zh": "阵营祝福",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/046_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/047",
+    "ten_zh": "发号施令",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/047_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/048",
+    "ten_zh": "高阶招募战术",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/018_card9.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/049",
+    "ten_zh": "高阶特训战术",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/018_card10.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/050",
+    "ten_zh": "高阶援护战术",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/018_card11.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/051",
+    "ten_zh": "4阶英雄兑换券",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/051_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/052",
+    "ten_zh": "扶倾济弱",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/052_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/053",
+    "ten_zh": "妙音",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "anh-hung/085_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/054",
+    "ten_zh": "乱世",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/054_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/055",
+    "ten_zh": "战前宣誓",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/055_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/056",
+    "ten_zh": "逍遥自在",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/056_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/057",
+    "ten_zh": "牺牲品",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/057_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/058",
+    "ten_zh": "闪现突击者",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/058_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/059",
+    "ten_zh": "开团号令",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/059_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/060",
+    "ten_zh": "远洋宝藏",
+    "nhom_zh": "4阶",
+    "icon": "anh-hung/icon/009.png",
+    "cards": [
+     "hieu-ung/060_card1.png",
+     "hieu-ung/060_card2.png",
+     "hieu-ung/060_card3.png",
+     "hieu-ung/060_card4.png",
+     "hieu-ung/060_card5.png",
+     "hieu-ung/060_card6.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/061",
+    "ten_zh": "因材施教",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/061_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/062",
+    "ten_zh": "传承",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/062_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/063",
+    "ten_zh": "高阶推演战术",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "anh-hung/018_card12.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/064",
+    "ten_zh": "度命之护",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/064_card1.png",
+     "hieu-ung/064_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/065",
+    "ten_zh": "武装分解",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/065_card1.png",
+     "anh-hung/085_card4.png",
+     "hieu-ung/065_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/066",
+    "ten_zh": "久经沙场",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/066_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/067",
+    "ten_zh": "机关秘典",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/067_card1.png",
+     "hieu-ung/067_card2.png",
+     "hieu-ung/067_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/068",
+    "ten_zh": "图腾祝福",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/068_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/069",
+    "ten_zh": "珍品宝箱",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/065_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/070",
+    "ten_zh": "移花接木",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/070_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/071",
+    "ten_zh": "5阶英雄",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/071_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/072",
+    "ten_zh": "5阶英雄兑换券",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/072_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/073",
+    "ten_zh": "有福同享",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/073_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/074",
+    "ten_zh": "求贤",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/074_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/075",
+    "ten_zh": "奇谋",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/075_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/076",
+    "ten_zh": "开局狂飙",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/076_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/077",
+    "ten_zh": "能量大爆炸",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/077_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/078",
+    "ten_zh": "集体唤醒",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/078_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/079",
+    "ten_zh": "全军动员",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/079_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/080",
+    "ten_zh": "精选武装",
+    "nhom_zh": "5阶",
+    "icon": "anh-hung/icon/012.png",
+    "cards": [
+     "hieu-ung/080_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/081",
+    "ten_zh": "众星闪耀",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/081_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/082",
+    "ten_zh": "展翅腾飞",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/082_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/083",
+    "ten_zh": "军械库",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/083_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/084",
+    "ten_zh": "众星拱月",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/084_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/085",
+    "ten_zh": "神兵天降",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/085_card1.png",
+     "hieu-ung/072_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/086",
+    "ten_zh": "呼风唤雨",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/086_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/087",
+    "ten_zh": "破境之证",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/087_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/088",
+    "ten_zh": "天籁琴音",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/088_card1.png",
+     "anh-hung/085_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/089",
+    "ten_zh": "绝处逢生",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/089_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/090",
+    "ten_zh": "化铁为金",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/090_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/091",
+    "ten_zh": "超级复印机",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/091_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/092",
+    "ten_zh": "一线生机",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/092_card1.png",
+     "hieu-ung/092_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/093",
+    "ten_zh": "能量超新星",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/093_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/094",
+    "ten_zh": "扶摇直上",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/094_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/095",
+    "ten_zh": "狂飙三倍速",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/095_card1.png",
+     "hieu-ung/076_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/096",
+    "ten_zh": "四人同行",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/096_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/097",
+    "ten_zh": "新生力量",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/097_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "hieu-ung/098",
+    "ten_zh": "沧海拾遗",
+    "nhom_zh": "6阶",
+    "icon": "hieu-ung/icon/081.png",
+    "cards": [
+     "hieu-ung/098_card1.png"
+    ],
+    "tai_duoc": true
+   }
+  ],
+  "thien-phu": [
+   {
+    "id": "thien-phu/001",
+    "ten_zh": "复印机",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/001.png",
+    "cards": [
+     "thien-phu/001_card1.png",
+     "thien-phu/001_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/002",
+    "ten_zh": "里程碑",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/002.png",
+    "cards": [
+     "thien-phu/002_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/003",
+    "ten_zh": "三分新援",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/003.png",
+    "cards": [
+     "thien-phu/003_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/004",
+    "ten_zh": "整装待发",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/004.png",
+    "cards": [
+     "thien-phu/004_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/005",
+    "ten_zh": "先苦后甜",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/005.png",
+    "cards": [
+     "thien-phu/005_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/006",
+    "ten_zh": "防御领域",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/006.png",
+    "cards": [
+     "thien-phu/006_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/007",
+    "ten_zh": "日落海新援",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/003.png",
+    "cards": [
+     "thien-phu/007_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/008",
+    "ten_zh": "存款利息",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/008.png",
+    "cards": [
+     "thien-phu/008_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/009",
+    "ten_zh": "大河新援",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/003.png",
+    "cards": [
+     "thien-phu/009_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/010",
+    "ten_zh": "破格",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/010.png",
+    "cards": [
+     "thien-phu/010_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/011",
+    "ten_zh": "逐鹿新援",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/003.png",
+    "cards": [
+     "thien-phu/011_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/012",
+    "ten_zh": "二象性",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/012.png",
+    "cards": [
+     "thien-phu/012_card1.png",
+     "thien-phu/012_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/013",
+    "ten_zh": "河洛新援",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/003.png",
+    "cards": [
+     "thien-phu/013_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/014",
+    "ten_zh": "预言家",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/014.png",
+    "cards": [
+     "thien-phu/014_card1.png",
+     "thien-phu/014_card2.png",
+     "thien-phu/014_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/015",
+    "ten_zh": "三十而立",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/015.png",
+    "cards": [
+     "thien-phu/015_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/016",
+    "ten_zh": "好聚好散",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/016.png",
+    "cards": [
+     "thien-phu/016_card1.png",
+     "thien-phu/016_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/017",
+    "ten_zh": "瓶中人",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/017.png",
+    "cards": [
+     "thien-phu/017_card1.png",
+     "thien-phu/017_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/018",
+    "ten_zh": "随机成长",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/018.png",
+    "cards": [
+     "thien-phu/018_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/019",
+    "ten_zh": "战争头牌",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/019.png",
+    "cards": [
+     "thien-phu/019_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/020",
+    "ten_zh": "节能商店",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/020.png",
+    "cards": [
+     "thien-phu/020_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/021",
+    "ten_zh": "加速成长",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/021.png",
+    "cards": [
+     "thien-phu/021_card1.png",
+     "thien-phu/021_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/022",
+    "ten_zh": "微弱优势",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/022.png",
+    "cards": [
+     "thien-phu/022_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/023",
+    "ten_zh": "双人游",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/023.png",
+    "cards": [
+     "thien-phu/023_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/024",
+    "ten_zh": "猪猪",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/024.png",
+    "cards": [
+     "thien-phu/024_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/025",
+    "ten_zh": "刻舟减蓝",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/025.png",
+    "cards": [
+     "thien-phu/025_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/026",
+    "ten_zh": "专注射击",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/026.png",
+    "cards": [
+     "thien-phu/026_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/027",
+    "ten_zh": "银算盘",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/008.png",
+    "cards": [
+     "thien-phu/027_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/028",
+    "ten_zh": "班叔的遗留物",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/028.png",
+    "cards": [
+     "thien-phu/028_card1.png",
+     "thien-phu/028_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/029",
+    "ten_zh": "五福临门",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/029.png",
+    "cards": [
+     "thien-phu/029_card1.png",
+     "thien-phu/029_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/030",
+    "ten_zh": "小电池包",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/030.png",
+    "cards": [
+     "thien-phu/030_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/031",
+    "ten_zh": "兵行诡招",
+    "nhom_zh": "1阶",
+    "icon": "thien-phu/icon/001.png",
+    "cards": [
+     "thien-phu/031_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/032",
+    "ten_zh": "一个响指",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/032.png",
+    "cards": [
+     "thien-phu/032_card1.png",
+     "thien-phu/032_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/033",
+    "ten_zh": "小小的助力",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/033.png",
+    "cards": [
+     "thien-phu/033_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/034",
+    "ten_zh": "伤害转化器",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/034.png",
+    "cards": [
+     "thien-phu/034_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/035",
+    "ten_zh": "终极复印机",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/035.png",
+    "cards": [
+     "thien-phu/035_card1.png",
+     "thien-phu/035_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/036",
+    "ten_zh": "补给线：开团",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/036.png",
+    "cards": [
+     "thien-phu/036_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/037",
+    "ten_zh": "常胜将军",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/037.png",
+    "cards": [
+     "thien-phu/037_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/038",
+    "ten_zh": "中坚力量",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/038.png",
+    "cards": [
+     "thien-phu/038_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/039",
+    "ten_zh": "凯旋征召",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/039.png",
+    "cards": [
+     "thien-phu/039_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/040",
+    "ten_zh": "如法炮制",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/040.png",
+    "cards": [
+     "thien-phu/040_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/041",
+    "ten_zh": "消费返利",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/041.png",
+    "cards": [
+     "thien-phu/041_card1.png",
+     "thien-phu/021_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/042",
+    "ten_zh": "人才市场",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/042.png",
+    "cards": [
+     "thien-phu/042_card1.png",
+     "thien-phu/042_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/043",
+    "ten_zh": "金算盘",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/042.png",
+    "cards": [
+     "thien-phu/043_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/044",
+    "ten_zh": "超专注射击",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/044.png",
+    "cards": [
+     "thien-phu/044_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/045",
+    "ten_zh": "电池包",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/045.png",
+    "cards": [
+     "thien-phu/045_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/046",
+    "ten_zh": "结伴",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/046.png",
+    "cards": [
+     "thien-phu/046_card1.png",
+     "hieu-ung/026_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/047",
+    "ten_zh": "极限操作",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/047.png",
+    "cards": [
+     "thien-phu/047_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/048",
+    "ten_zh": "同路人",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/048.png",
+    "cards": [
+     "thien-phu/048_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/049",
+    "ten_zh": "战前叫阵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/049.png",
+    "cards": [
+     "thien-phu/049_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/050",
+    "ten_zh": "重装上阵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/050.png",
+    "cards": [
+     "thien-phu/050_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/051",
+    "ten_zh": "成年礼",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/051.png",
+    "cards": [
+     "thien-phu/051_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/052",
+    "ten_zh": "前线堡垒",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/052.png",
+    "cards": [
+     "thien-phu/052_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/053",
+    "ten_zh": "大电池包",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/053.png",
+    "cards": [
+     "thien-phu/053_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/054",
+    "ten_zh": "限制性进化",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/054.png",
+    "cards": [
+     "thien-phu/054_card1.png",
+     "thien-phu/054_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/055",
+    "ten_zh": "援军",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/055.png",
+    "cards": [
+     "thien-phu/055_card1.png",
+     "thien-phu/055_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/056",
+    "ten_zh": "群英荟萃",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/056.png",
+    "cards": [
+     "thien-phu/056_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/057",
+    "ten_zh": "自适应武装",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/057.png",
+    "cards": [
+     "thien-phu/057_card1.png",
+     "thien-phu/057_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/058",
+    "ten_zh": "虚构装备",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/058.png",
+    "cards": [
+     "thien-phu/058_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/059",
+    "ten_zh": "战术模组",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/059.png",
+    "cards": [
+     "thien-phu/059_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/060",
+    "ten_zh": "三十而达",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/060.png",
+    "cards": [
+     "thien-phu/060_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/061",
+    "ten_zh": "控能达人",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/061.png",
+    "cards": [
+     "thien-phu/061_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/062",
+    "ten_zh": "强者自强",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/062.png",
+    "cards": [
+     "thien-phu/062_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/063",
+    "ten_zh": "破败之力",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/063.png",
+    "cards": [
+     "thien-phu/063_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/064",
+    "ten_zh": "保持进步",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/064.png",
+    "cards": [
+     "thien-phu/064_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/065",
+    "ten_zh": "抢攻",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/065.png",
+    "cards": [
+     "thien-phu/065_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/066",
+    "ten_zh": "随机进化",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/066.png",
+    "cards": [
+     "thien-phu/066_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/067",
+    "ten_zh": "神秘英雄",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/067.png",
+    "cards": [
+     "thien-phu/067_card1.png",
+     "thien-phu/067_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/068",
+    "ten_zh": "厉兵秣马",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/068.png",
+    "cards": [
+     "thien-phu/068_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/069",
+    "ten_zh": "擂台猛虎",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/069.png",
+    "cards": [
+     "thien-phu/069_card1.png",
+     "thien-phu/069_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/070",
+    "ten_zh": "拍卖专家",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/070.png",
+    "cards": [
+     "thien-phu/070_card1.png",
+     "thien-phu/070_card2.png",
+     "thien-phu/070_card3.png",
+     "thien-phu/070_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/071",
+    "ten_zh": "超速成长",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/071.png",
+    "cards": [
+     "thien-phu/071_card1.png",
+     "thien-phu/071_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/072",
+    "ten_zh": "王牌认证",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/072.png",
+    "cards": [
+     "thien-phu/072_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/073",
+    "ten_zh": "祝你好运",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/073.png",
+    "cards": [
+     "thien-phu/073_card1.png",
+     "thien-phu/073_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/074",
+    "ten_zh": "临时增幅",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/074.png",
+    "cards": [
+     "thien-phu/074_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/075",
+    "ten_zh": "河洛来客",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/075_card1.png",
+     "anh-hung/054_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/076",
+    "ten_zh": "紧急行动",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/076.png",
+    "cards": [
+     "thien-phu/076_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/077",
+    "ten_zh": "河洛精兵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/077_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/078",
+    "ten_zh": "富贵险中求",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/078.png",
+    "cards": [
+     "thien-phu/078_card1.png",
+     "thien-phu/078_card2.png",
+     "thien-phu/078_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/079",
+    "ten_zh": "前浪的荣光",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/079.png",
+    "cards": [
+     "thien-phu/079_card1.png",
+     "thien-phu/079_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/080",
+    "ten_zh": "全军列阵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/080.png",
+    "cards": [
+     "thien-phu/080_card1.png",
+     "thien-phu/080_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/081",
+    "ten_zh": "大买卖",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/056.png",
+    "cards": [
+     "thien-phu/081_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/082",
+    "ten_zh": "逐鹿来客",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/082_card1.png",
+     "anh-hung/027_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/083",
+    "ten_zh": "逆袭之路",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/083.png",
+    "cards": [
+     "thien-phu/083_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/084",
+    "ten_zh": "逐鹿精兵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/084_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/085",
+    "ten_zh": "扩编名额",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/085.png",
+    "cards": [
+     "thien-phu/085_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/086",
+    "ten_zh": "绝对领域",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/086.png",
+    "cards": [
+     "thien-phu/086_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/087",
+    "ten_zh": "大河来客",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/087_card1.png",
+     "anh-hung/010_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/088",
+    "ten_zh": "卧薪尝胆",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/088.png",
+    "cards": [
+     "thien-phu/088_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/089",
+    "ten_zh": "大河精兵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/089_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/090",
+    "ten_zh": "小身体大能量",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/090.png",
+    "cards": [
+     "thien-phu/090_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/091",
+    "ten_zh": "重大里程碑",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/091.png",
+    "cards": [
+     "thien-phu/091_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/092",
+    "ten_zh": "日落海来客",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/092_card1.png",
+     "anh-hung/069_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/093",
+    "ten_zh": "一分钱一分货",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/093.png",
+    "cards": [
+     "thien-phu/093_card1.png",
+     "thien-phu/093_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/094",
+    "ten_zh": "日落海精兵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/094_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/095",
+    "ten_zh": "怒神项链",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/095.png",
+    "cards": [
+     "thien-phu/095_card1.png",
+     "thien-phu/095_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/096",
+    "ten_zh": "人才济济",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/096.png",
+    "cards": [
+     "thien-phu/096_card1.png",
+     "thien-phu/042_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/097",
+    "ten_zh": "三分来客",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/097_card1.png",
+     "anh-hung/039_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/098",
+    "ten_zh": "法潮灵杖",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/098.png",
+    "cards": [
+     "thien-phu/098_card1.png",
+     "thien-phu/098_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/099",
+    "ten_zh": "三分精兵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/075.png",
+    "cards": [
+     "thien-phu/099_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/100",
+    "ten_zh": "断念",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/100.png",
+    "cards": [
+     "thien-phu/100_card1.png",
+     "thien-phu/100_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/101",
+    "ten_zh": "破阵战芒",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/101.png",
+    "cards": [
+     "thien-phu/101_card1.png",
+     "thien-phu/101_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/102",
+    "ten_zh": "能量改造",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/102.png",
+    "cards": [
+     "thien-phu/102_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/103",
+    "ten_zh": "破妄之刃",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/103.png",
+    "cards": [
+     "thien-phu/103_card1.png",
+     "thien-phu/103_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/104",
+    "ten_zh": "光棱塔",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/104.png",
+    "cards": [
+     "thien-phu/104_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/105",
+    "ten_zh": "瞬影连斩",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/105.png",
+    "cards": [
+     "thien-phu/105_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/106",
+    "ten_zh": "场外供能",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/042.png",
+    "cards": [
+     "thien-phu/106_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/107",
+    "ten_zh": "积极整备",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/107.png",
+    "cards": [
+     "thien-phu/107_card1.png",
+     "hieu-ung/060_card2.png",
+     "hieu-ung/060_card3.png",
+     "hieu-ung/060_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/108",
+    "ten_zh": "胜之不武",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/108.png",
+    "cards": [
+     "thien-phu/108_card1.png",
+     "thien-phu/108_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/109",
+    "ten_zh": "崛起",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/109.png",
+    "cards": [
+     "thien-phu/109_card1.png",
+     "anh-hung/047_card1.png",
+     "anh-hung/062_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/110",
+    "ten_zh": "协同一致",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/110.png",
+    "cards": [
+     "thien-phu/110_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/111",
+    "ten_zh": "荆棘牢笼",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/111.png",
+    "cards": [
+     "thien-phu/111_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/112",
+    "ten_zh": "因缘际会",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/112.png",
+    "cards": [
+     "thien-phu/112_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/113",
+    "ten_zh": "动能灌注",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/113.png",
+    "cards": [
+     "thien-phu/113_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/114",
+    "ten_zh": "智能装甲",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/114.png",
+    "cards": [
+     "thien-phu/114_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/115",
+    "ten_zh": "多彩古币",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/042.png",
+    "cards": [
+     "thien-phu/115_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/044_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/116",
+    "ten_zh": "坚不可摧",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/116.png",
+    "cards": [
+     "thien-phu/116_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/117",
+    "ten_zh": "图腾启灵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/117.png",
+    "cards": [
+     "thien-phu/117_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/118",
+    "ten_zh": "化为熊灵",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/118.png",
+    "cards": [
+     "thien-phu/118_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/119",
+    "ten_zh": "传家宝",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/119.png",
+    "cards": [
+     "thien-phu/119_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/120",
+    "ten_zh": "古币翻新",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/120.png",
+    "cards": [
+     "thien-phu/120_card1.png",
+     "anh-hung/044_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/121",
+    "ten_zh": "生命绽放",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/121.png",
+    "cards": [
+     "thien-phu/121_card1.png",
+     "anh-hung/003_card1.png",
+     "anh-hung/003_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/122",
+    "ten_zh": "献祭之赐",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/122.png",
+    "cards": [
+     "thien-phu/122_card1.png",
+     "anh-hung/054_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/123",
+    "ten_zh": "贤士登门",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/123.png",
+    "cards": [
+     "thien-phu/123_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/124",
+    "ten_zh": "零钱兑换",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/124.png",
+    "cards": [
+     "thien-phu/124_card1.png",
+     "thien-phu/124_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/125",
+    "ten_zh": "乘胜追击",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/125.png",
+    "cards": [
+     "thien-phu/125_card1.png",
+     "anh-hung/018_card12.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/126",
+    "ten_zh": "最终守卫",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/126.png",
+    "cards": [
+     "thien-phu/126_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/127",
+    "ten_zh": "古币契约",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/127.png",
+    "cards": [
+     "thien-phu/127_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/128",
+    "ten_zh": "鲸吞",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/128.png",
+    "cards": [
+     "thien-phu/128_card1.png",
+     "anh-hung/026_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/129",
+    "ten_zh": "强力小弟",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/129.png",
+    "cards": [
+     "thien-phu/129_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/130",
+    "ten_zh": "幸运硬币",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/130.png",
+    "cards": [
+     "thien-phu/130_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/131",
+    "ten_zh": "红豆之托",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/131.png",
+    "cards": [
+     "thien-phu/131_card1.png",
+     "thien-phu/131_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/132",
+    "ten_zh": "技高一筹",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/132.png",
+    "cards": [
+     "thien-phu/132_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/133",
+    "ten_zh": "膨化生命",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/133.png",
+    "cards": [
+     "thien-phu/133_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/134",
+    "ten_zh": "乐善好施",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/134.png",
+    "cards": [
+     "thien-phu/134_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/135",
+    "ten_zh": "锦囊妙计",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/135.png",
+    "cards": [
+     "thien-phu/135_card1.png",
+     "thien-phu/135_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/136",
+    "ten_zh": "一身是胆",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/136.png",
+    "cards": [
+     "thien-phu/136_card1.png",
+     "anh-hung/032_card1.png",
+     "thien-phu/136_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/137",
+    "ten_zh": "卧龙威势",
+    "nhom_zh": "2阶",
+    "icon": "thien-phu/icon/137.png",
+    "cards": [
+     "thien-phu/137_card1.png",
+     "anh-hung/040_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/138",
+    "ten_zh": "虚构武装",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/138.png",
+    "cards": [
+     "thien-phu/138_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/139",
+    "ten_zh": "怒涛",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/139.png",
+    "cards": [
+     "thien-phu/139_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/140",
+    "ten_zh": "控制感应",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/140.png",
+    "cards": [
+     "thien-phu/140_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/141",
+    "ten_zh": "搏战",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/141.png",
+    "cards": [
+     "thien-phu/141_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/142",
+    "ten_zh": "三三得三",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/142.png",
+    "cards": [
+     "thien-phu/142_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/143",
+    "ten_zh": "挂帅上阵",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/143.png",
+    "cards": [
+     "thien-phu/143_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/144",
+    "ten_zh": "四重奏",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/144.png",
+    "cards": [
+     "thien-phu/144_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/145",
+    "ten_zh": "三分领袖",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/145.png",
+    "cards": [
+     "thien-phu/145_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/146",
+    "ten_zh": "鬼神降临",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/141.png",
+    "cards": [
+     "thien-phu/146_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/147",
+    "ten_zh": "意外之财",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/147.png",
+    "cards": [
+     "thien-phu/147_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/148",
+    "ten_zh": "令行如流",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/148.png",
+    "cards": [
+     "thien-phu/148_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/149",
+    "ten_zh": "穷兵黩武",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/149.png",
+    "cards": [
+     "thien-phu/149_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/150",
+    "ten_zh": "复现",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/150.png",
+    "cards": [
+     "thien-phu/150_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/151",
+    "ten_zh": "暴君归来",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/151.png",
+    "cards": [
+     "thien-phu/151_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/152",
+    "ten_zh": "演武",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/152.png",
+    "cards": [
+     "thien-phu/152_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/153",
+    "ten_zh": "罡气护体",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/153.png",
+    "cards": [
+     "thien-phu/153_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/154",
+    "ten_zh": "钱生战力",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/154.png",
+    "cards": [
+     "thien-phu/154_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/155",
+    "ten_zh": "千金换酒",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/155.png",
+    "cards": [
+     "thien-phu/155_card1.png",
+     "anh-hung/055_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/156",
+    "ten_zh": "丝绸之路",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/156.png",
+    "cards": [
+     "thien-phu/156_card1.png",
+     "anh-hung/044_card2.png",
+     "anh-hung/044_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/157",
+    "ten_zh": "春风化雨",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/157.png",
+    "cards": [
+     "thien-phu/157_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/158",
+    "ten_zh": "水晶穹顶",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/158.png",
+    "cards": [
+     "thien-phu/158_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/159",
+    "ten_zh": "望梅止渴",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/159.png",
+    "cards": [
+     "thien-phu/159_card1.png",
+     "thien-phu/159_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/160",
+    "ten_zh": "四海来援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/160.png",
+    "cards": [
+     "thien-phu/160_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/161",
+    "ten_zh": "命运图腾",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/161.png",
+    "cards": [
+     "thien-phu/161_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/162",
+    "ten_zh": "神明庇佑",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/162.png",
+    "cards": [
+     "thien-phu/162_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/163",
+    "ten_zh": "自我奉献",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/144.png",
+    "cards": [
+     "thien-phu/163_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/164",
+    "ten_zh": "始祖熊灵",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/164.png",
+    "cards": [
+     "thien-phu/164_card1.png",
+     "thien-phu/164_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/165",
+    "ten_zh": "熊魂附甲",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/165.png",
+    "cards": [
+     "thien-phu/165_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/166",
+    "ten_zh": "一起发财",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/166.png",
+    "cards": [
+     "thien-phu/166_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/167",
+    "ten_zh": "古币机",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/167.png",
+    "cards": [
+     "thien-phu/167_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/168",
+    "ten_zh": "虚妄转生",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/168.png",
+    "cards": [
+     "thien-phu/168_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/169",
+    "ten_zh": "升值",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/169.png",
+    "cards": [
+     "thien-phu/169_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/170",
+    "ten_zh": "灵祭升华",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/170.png",
+    "cards": [
+     "thien-phu/170_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/171",
+    "ten_zh": "核心裂痕",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/171.png",
+    "cards": [
+     "thien-phu/171_card1.png",
+     "thien-phu/171_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/172",
+    "ten_zh": "能源置换",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/172.png",
+    "cards": [
+     "thien-phu/172_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/173",
+    "ten_zh": "全域共鸣",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/173.png",
+    "cards": [
+     "thien-phu/173_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/174",
+    "ten_zh": "升格",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/174.png",
+    "cards": [
+     "thien-phu/174_card1.png",
+     "anh-hung/019_card1.png",
+     "anh-hung/061_card1.png",
+     "anh-hung/009_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/175",
+    "ten_zh": "千里相聚",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/175.png",
+    "cards": [
+     "thien-phu/175_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/176",
+    "ten_zh": "身外身",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/176.png",
+    "cards": [
+     "thien-phu/176_card1.png",
+     "anh-hung/082_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/177",
+    "ten_zh": "兄妹",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/177.png",
+    "cards": [
+     "thien-phu/177_card1.png",
+     "anh-hung/049_card1.png",
+     "anh-hung/071_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/178",
+    "ten_zh": "兽觉",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/178.png",
+    "cards": [
+     "thien-phu/178_card1.png",
+     "anh-hung/079_card1.png",
+     "anh-hung/005_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/179",
+    "ten_zh": "巨像",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/179.png",
+    "cards": [
+     "thien-phu/179_card1.png",
+     "anh-hung/019_card1.png",
+     "anh-hung/061_card1.png",
+     "thien-phu/179_card4.png",
+     "thien-phu/179_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/180",
+    "ten_zh": "舞力全开",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/180.png",
+    "cards": [
+     "thien-phu/180_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/181",
+    "ten_zh": "起舞",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/181.png",
+    "cards": [
+     "thien-phu/181_card1.png",
+     "anh-hung/037_card1.png",
+     "anh-hung/053_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/182",
+    "ten_zh": "箭雨",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/182.png",
+    "cards": [
+     "thien-phu/182_card1.png",
+     "anh-hung/075_card1.png",
+     "anh-hung/004_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/183",
+    "ten_zh": "双生突袭",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/183.png",
+    "cards": [
+     "thien-phu/183_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/184",
+    "ten_zh": "双重分配",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/184.png",
+    "cards": [
+     "thien-phu/184_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/185",
+    "ten_zh": "毒奶",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/185.png",
+    "cards": [
+     "thien-phu/185_card1.png",
+     "anh-hung/034_card1.png",
+     "anh-hung/024_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/186",
+    "ten_zh": "逐星",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/186.png",
+    "cards": [
+     "thien-phu/186_card1.png",
+     "anh-hung/014_card1.png",
+     "anh-hung/055_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/187",
+    "ten_zh": "宝盒",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/187.png",
+    "cards": [
+     "thien-phu/187_card1.png",
+     "anh-hung/082_card1.png",
+     "anh-hung/071_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/188",
+    "ten_zh": "旋刃",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/188.png",
+    "cards": [
+     "thien-phu/188_card1.png",
+     "anh-hung/044_card1.png",
+     "anh-hung/075_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/189",
+    "ten_zh": "慕名而来",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/189.png",
+    "cards": [
+     "thien-phu/189_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/190",
+    "ten_zh": "狂野帷幕",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/190.png",
+    "cards": [
+     "thien-phu/190_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/191",
+    "ten_zh": "积少成多",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/191.png",
+    "cards": [
+     "thien-phu/191_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/192",
+    "ten_zh": "超级蓄能",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/192.png",
+    "cards": [
+     "thien-phu/192_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/193",
+    "ten_zh": "镜像迷离",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/193.png",
+    "cards": [
+     "thien-phu/193_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/194",
+    "ten_zh": "摄人心魄",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/194.png",
+    "cards": [
+     "thien-phu/194_card1.png",
+     "anh-hung/075_card1.png",
+     "anh-hung/080_card1.png",
+     "anh-hung/082_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/195",
+    "ten_zh": "控魂",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/195.png",
+    "cards": [
+     "thien-phu/195_card1.png",
+     "anh-hung/075_card1.png",
+     "anh-hung/080_card1.png",
+     "anh-hung/082_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/196",
+    "ten_zh": "能量汲取",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/196.png",
+    "cards": [
+     "thien-phu/196_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/197",
+    "ten_zh": "双生相",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/197.png",
+    "cards": [
+     "thien-phu/197_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/198",
+    "ten_zh": "生生不息",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/198.png",
+    "cards": [
+     "thien-phu/198_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/199",
+    "ten_zh": "定向传输",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/199.png",
+    "cards": [
+     "thien-phu/199_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/200",
+    "ten_zh": "点兵点将",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/200.png",
+    "cards": [
+     "thien-phu/200_card1.png",
+     "thien-phu/200_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/201",
+    "ten_zh": "三分强援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/201_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/202",
+    "ten_zh": "三分增援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/202_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/203",
+    "ten_zh": "护命灵珠",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/203.png",
+    "cards": [
+     "thien-phu/203_card1.png",
+     "thien-phu/203_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/204",
+    "ten_zh": "光辉圣铠",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/204.png",
+    "cards": [
+     "thien-phu/204_card1.png",
+     "thien-phu/204_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/205",
+    "ten_zh": "魂祭绝刃",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/205.png",
+    "cards": [
+     "thien-phu/205_card1.png",
+     "thien-phu/205_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/206",
+    "ten_zh": "根源之力",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/206.png",
+    "cards": [
+     "thien-phu/206_card1.png",
+     "thien-phu/206_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/207",
+    "ten_zh": "灵泉项链",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/207.png",
+    "cards": [
+     "thien-phu/207_card1.png",
+     "thien-phu/207_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/208",
+    "ten_zh": "魂灭灵冠",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/208.png",
+    "cards": [
+     "thien-phu/208_card1.png",
+     "thien-phu/208_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/209",
+    "ten_zh": "日落海强援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/209_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/210",
+    "ten_zh": "强敌克星",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/210.png",
+    "cards": [
+     "thien-phu/210_card1.png",
+     "thien-phu/210_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/211",
+    "ten_zh": "灵泉法杖",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/211.png",
+    "cards": [
+     "thien-phu/211_card1.png",
+     "thien-phu/211_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/212",
+    "ten_zh": "鼓舞之戒",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/212.png",
+    "cards": [
+     "thien-phu/212_card1.png",
+     "thien-phu/212_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/213",
+    "ten_zh": "梦魇之牙",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/213.png",
+    "cards": [
+     "thien-phu/213_card1.png",
+     "thien-phu/213_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/214",
+    "ten_zh": "末世",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/214.png",
+    "cards": [
+     "thien-phu/214_card1.png",
+     "thien-phu/214_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/215",
+    "ten_zh": "日落海增援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/215_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/216",
+    "ten_zh": "大河强援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/216_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/217",
+    "ten_zh": "大河增援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/217_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/218",
+    "ten_zh": "逐鹿强援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/218_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/219",
+    "ten_zh": "逐鹿增援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/219_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/220",
+    "ten_zh": "拾荒者",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/220.png",
+    "cards": [
+     "thien-phu/220_card1.png",
+     "hieu-ung/072_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/221",
+    "ten_zh": "河洛强援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/221_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/222",
+    "ten_zh": "河洛增援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/201.png",
+    "cards": [
+     "thien-phu/222_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/223",
+    "ten_zh": "天兵",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/175.png",
+    "cards": [
+     "thien-phu/223_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/224",
+    "ten_zh": "守护灵",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/224.png",
+    "cards": [
+     "thien-phu/224_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/225",
+    "ten_zh": "群星璀璨",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/225.png",
+    "cards": [
+     "thien-phu/225_card1.png",
+     "hieu-ung/051_card1.png",
+     "hieu-ung/072_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/226",
+    "ten_zh": "特大电池包",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/226.png",
+    "cards": [
+     "thien-phu/226_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/227",
+    "ten_zh": "强者恒强",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/227.png",
+    "cards": [
+     "thien-phu/227_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/228",
+    "ten_zh": "无影手",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/228.png",
+    "cards": [
+     "thien-phu/228_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/229",
+    "ten_zh": "学霸",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/229.png",
+    "cards": [
+     "thien-phu/229_card1.png",
+     "thien-phu/229_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/230",
+    "ten_zh": "随机强化",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/230.png",
+    "cards": [
+     "thien-phu/230_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/231",
+    "ten_zh": "绝境逆袭",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/231.png",
+    "cards": [
+     "thien-phu/231_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/232",
+    "ten_zh": "买橘子去",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/232.png",
+    "cards": [
+     "thien-phu/232_card1.png",
+     "thien-phu/232_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/233",
+    "ten_zh": "破败神威",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/233.png",
+    "cards": [
+     "thien-phu/233_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/234",
+    "ten_zh": "战略中枢",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/234.png",
+    "cards": [
+     "thien-phu/234_card1.png",
+     "hieu-ung/073_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/235",
+    "ten_zh": "延迟满足",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/235.png",
+    "cards": [
+     "thien-phu/235_card1.png",
+     "thien-phu/235_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/236",
+    "ten_zh": "全副武装",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/236.png",
+    "cards": [
+     "thien-phu/236_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/237",
+    "ten_zh": "同心协力",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/237.png",
+    "cards": [
+     "thien-phu/237_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/238",
+    "ten_zh": "泉水",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/238.png",
+    "cards": [
+     "thien-phu/238_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/239",
+    "ten_zh": "三人游",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/239.png",
+    "cards": [
+     "thien-phu/239_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/240",
+    "ten_zh": "扩编高峰",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/240.png",
+    "cards": [
+     "thien-phu/240_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/241",
+    "ten_zh": "补给线：整备",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/241.png",
+    "cards": [
+     "thien-phu/241_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/242",
+    "ten_zh": "补给线：牺牲",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/242.png",
+    "cards": [
+     "thien-phu/242_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/243",
+    "ten_zh": "中流砥柱",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/243.png",
+    "cards": [
+     "thien-phu/243_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/244",
+    "ten_zh": "补给线：登场",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/244.png",
+    "cards": [
+     "thien-phu/244_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/245",
+    "ten_zh": "混沌次元",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/245.png",
+    "cards": [
+     "thien-phu/245_card1.png",
+     "thien-phu/245_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/246",
+    "ten_zh": "小咖秀",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/246.png",
+    "cards": [
+     "thien-phu/246_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/247",
+    "ten_zh": "永不独行",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/247.png",
+    "cards": [
+     "thien-phu/247_card1.png",
+     "thien-phu/247_card2.png",
+     "thien-phu/247_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/248",
+    "ten_zh": "搏命",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/248.png",
+    "cards": [
+     "thien-phu/248_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/249",
+    "ten_zh": "紧急救援",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/249.png",
+    "cards": [
+     "thien-phu/249_card1.png",
+     "hieu-ung/072_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/250",
+    "ten_zh": "危险数字",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/250.png",
+    "cards": [
+     "thien-phu/250_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/251",
+    "ten_zh": "大明星",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/251.png",
+    "cards": [
+     "thien-phu/251_card1.png",
+     "thien-phu/251_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/252",
+    "ten_zh": "王牌部队",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/252.png",
+    "cards": [
+     "thien-phu/252_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/253",
+    "ten_zh": "有舍有得",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/253.png",
+    "cards": [
+     "thien-phu/253_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/254",
+    "ten_zh": "资深猎头",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/196.png",
+    "cards": [
+     "thien-phu/254_card1.png",
+     "thien-phu/254_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "thien-phu/255",
+    "ten_zh": "无限进步",
+    "nhom_zh": "3阶",
+    "icon": "thien-phu/icon/255.png",
+    "cards": [
+     "thien-phu/255_card1.png"
+    ],
+    "tai_duoc": true
+   }
+  ],
+  "trang-bi": [
+   {
+    "id": "trang-bi/001",
+    "ten_zh": "风暴巨剑",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/001.png",
+    "cards": [
+     "trang-bi/001_card1.png",
+     "trang-bi/001_card2.png",
+     "trang-bi/001_card3.png",
+     "trang-bi/001_card4.png",
+     "trang-bi/001_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/002",
+    "ten_zh": "圣者法典",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/002.png",
+    "cards": [
+     "trang-bi/002_card1.png",
+     "trang-bi/002_card2.png",
+     "trang-bi/002_card3.png",
+     "trang-bi/002_card4.png",
+     "trang-bi/002_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/003",
+    "ten_zh": "雷鸣刃",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/003.png",
+    "cards": [
+     "trang-bi/003_card1.png",
+     "trang-bi/003_card2.png",
+     "hieu-ung/092_card2.png",
+     "trang-bi/003_card4.png",
+     "trang-bi/003_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/004",
+    "ten_zh": "守护者之铠",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/004.png",
+    "cards": [
+     "trang-bi/004_card1.png",
+     "trang-bi/004_card2.png",
+     "trang-bi/004_card3.png",
+     "trang-bi/004_card4.png",
+     "trang-bi/004_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/005",
+    "ten_zh": "力量腰带",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/005.png",
+    "cards": [
+     "trang-bi/005_card1.png",
+     "trang-bi/005_card2.png",
+     "trang-bi/005_card3.png",
+     "trang-bi/005_card4.png",
+     "trang-bi/005_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/006",
+    "ten_zh": "破碎圣杯",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/006.png",
+    "cards": [
+     "trang-bi/006_card1.png",
+     "trang-bi/006_card2.png",
+     "trang-bi/006_card3.png",
+     "trang-bi/006_card4.png",
+     "trang-bi/006_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/007",
+    "ten_zh": "速击之枪",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/007.png",
+    "cards": [
+     "trang-bi/007_card1.png",
+     "trang-bi/007_card2.png",
+     "trang-bi/007_card3.png",
+     "trang-bi/007_card4.png",
+     "trang-bi/007_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/008",
+    "ten_zh": "大棒",
+    "nhom_zh": "基础装备",
+    "icon": "trang-bi/icon/008.png",
+    "cards": [
+     "trang-bi/008_card1.png",
+     "trang-bi/008_card2.png",
+     "trang-bi/008_card3.png",
+     "trang-bi/008_card4.png",
+     "trang-bi/008_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/009",
+    "ten_zh": "魔女斗篷",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/009.png",
+    "cards": [
+     "trang-bi/005_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/010",
+    "ten_zh": "极寒风暴",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/010.png",
+    "cards": [
+     "trang-bi/004_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/011",
+    "ten_zh": "御灵之纱",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/011.png",
+    "cards": [
+     "trang-bi/002_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/012",
+    "ten_zh": "生命魔典",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/012.png",
+    "cards": [
+     "trang-bi/002_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/013",
+    "ten_zh": "炽热支配者",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/013.png",
+    "cards": [
+     "trang-bi/002_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/014",
+    "ten_zh": "贤者之书",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/014.png",
+    "cards": [
+     "trang-bi/002_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/015",
+    "ten_zh": "铸梦·逐风",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/015.png",
+    "cards": [
+     "trang-bi/001_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/016",
+    "ten_zh": "无尽巨剑",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/016.png",
+    "cards": [
+     "trang-bi/001_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/017",
+    "ten_zh": "制裁之剑",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/017.png",
+    "cards": [
+     "trang-bi/001_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/018",
+    "ten_zh": "纯净苍穹",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/018.png",
+    "cards": [
+     "trang-bi/001_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/019",
+    "ten_zh": "魔律之刃",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/019.png",
+    "cards": [
+     "trang-bi/003_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/020",
+    "ten_zh": "虚无法杖",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/020.png",
+    "cards": [
+     "trang-bi/008_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/021",
+    "ten_zh": "寒霜侵袭",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/021.png",
+    "cards": [
+     "trang-bi/008_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/022",
+    "ten_zh": "自然法杖",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/022.png",
+    "cards": [
+     "trang-bi/008_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/023",
+    "ten_zh": "金色圣剑",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/023.png",
+    "cards": [
+     "trang-bi/008_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/024",
+    "ten_zh": "红魔",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/024.png",
+    "cards": [
+     "trang-bi/003_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/025",
+    "ten_zh": "影牙",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/025.png",
+    "cards": [
+     "trang-bi/007_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/026",
+    "ten_zh": "破晓",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/026.png",
+    "cards": [
+     "trang-bi/007_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/027",
+    "ten_zh": "凝渊",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/027.png",
+    "cards": [
+     "trang-bi/007_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/028",
+    "ten_zh": "日渊",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/028.png",
+    "cards": [
+     "trang-bi/007_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/029",
+    "ten_zh": "名刀·司命",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/029.png",
+    "cards": [
+     "hieu-ung/092_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/030",
+    "ten_zh": "痛苦面具",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/030.png",
+    "cards": [
+     "trang-bi/006_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/031",
+    "ten_zh": "法源之杯",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/031.png",
+    "cards": [
+     "trang-bi/006_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/032",
+    "ten_zh": "破茧之衣",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/032.png",
+    "cards": [
+     "trang-bi/006_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/033",
+    "ten_zh": "聚灵水晶",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/033.png",
+    "cards": [
+     "trang-bi/006_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/034",
+    "ten_zh": "冥王",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/034.png",
+    "cards": [
+     "trang-bi/003_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/035",
+    "ten_zh": "霸者重铠",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/035.png",
+    "cards": [
+     "trang-bi/005_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/036",
+    "ten_zh": "不死鸟之眼",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/036.png",
+    "cards": [
+     "trang-bi/005_card3.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/037",
+    "ten_zh": "反伤重甲",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/037.png",
+    "cards": [
+     "trang-bi/004_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/038",
+    "ten_zh": "红莲炎甲",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/038.png",
+    "cards": [
+     "trang-bi/005_card5.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/039",
+    "ten_zh": "近卫荣耀",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/039.png",
+    "cards": [
+     "trang-bi/004_card4.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/040",
+    "ten_zh": "不祥征兆",
+    "nhom_zh": "普通装备",
+    "icon": "trang-bi/icon/040.png",
+    "cards": [
+     "trang-bi/004_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/041",
+    "ten_zh": "学识宝石",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/041.png",
+    "cards": [
+     "trang-bi/041_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/042",
+    "ten_zh": "怒莲之刺",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/042.png",
+    "cards": [
+     "trang-bi/042_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/043",
+    "ten_zh": "噬神之书",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/043.png",
+    "cards": [
+     "trang-bi/043_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/044",
+    "ten_zh": "征服之剑",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/044.png",
+    "cards": [
+     "trang-bi/044_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/045",
+    "ten_zh": "盛华",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/045.png",
+    "cards": [
+     "trang-bi/045_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/046",
+    "ten_zh": "静谧之铃",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/046.png",
+    "cards": [
+     "trang-bi/046_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/047",
+    "ten_zh": "捕能手套",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/047.png",
+    "cards": [
+     "trang-bi/047_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/048",
+    "ten_zh": "分身镜",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/048.png",
+    "cards": [
+     "trang-bi/048_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/049",
+    "ten_zh": "驱雷",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/049.png",
+    "cards": [
+     "trang-bi/049_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/050",
+    "ten_zh": "青莲剑谱",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/050.png",
+    "cards": [
+     "trang-bi/050_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/051",
+    "ten_zh": "银莲庇佑",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/051.png",
+    "cards": [
+     "trang-bi/051_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/052",
+    "ten_zh": "机器头",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/052.png",
+    "cards": [
+     "trang-bi/052_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/053",
+    "ten_zh": "阿科米亚之子",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/053.png",
+    "cards": [
+     "trang-bi/053_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/054",
+    "ten_zh": "磐石之心",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/054.png",
+    "cards": [
+     "trang-bi/054_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/055",
+    "ten_zh": "百锻刀",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/055.png",
+    "cards": [
+     "trang-bi/055_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/056",
+    "ten_zh": "小鹿的庇护",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/056.png",
+    "cards": [
+     "trang-bi/056_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/057",
+    "ten_zh": "聚灵法杖",
+    "nhom_zh": "特殊装备",
+    "icon": "trang-bi/icon/057.png",
+    "cards": [
+     "trang-bi/057_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/058",
+    "ten_zh": "断念",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/058.png",
+    "cards": [
+     "thien-phu/100_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/059",
+    "ten_zh": "鼓舞之戒",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/059.png",
+    "cards": [
+     "thien-phu/212_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/060",
+    "ten_zh": "梦魇之牙",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/060.png",
+    "cards": [
+     "thien-phu/213_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/061",
+    "ten_zh": "三分旗帜",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/061.png",
+    "cards": [
+     "trang-bi/061_card1.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/062",
+    "ten_zh": "怒神项链",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/062.png",
+    "cards": [
+     "thien-phu/095_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/063",
+    "ten_zh": "魂灭灵冠",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/063.png",
+    "cards": [
+     "thien-phu/208_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/064",
+    "ten_zh": "灵泉项链",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/064.png",
+    "cards": [
+     "thien-phu/207_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/065",
+    "ten_zh": "魂祭绝刃",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/065.png",
+    "cards": [
+     "thien-phu/205_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/066",
+    "ten_zh": "破阵战芒",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/066.png",
+    "cards": [
+     "thien-phu/101_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/067",
+    "ten_zh": "法潮灵杖",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/067.png",
+    "cards": [
+     "thien-phu/098_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/068",
+    "ten_zh": "末世",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/068.png",
+    "cards": [
+     "thien-phu/214_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/069",
+    "ten_zh": "光辉圣铠",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/069.png",
+    "cards": [
+     "thien-phu/204_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/070",
+    "ten_zh": "护命灵珠",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/070.png",
+    "cards": [
+     "thien-phu/203_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/071",
+    "ten_zh": "灵泉法杖",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/071.png",
+    "cards": [
+     "thien-phu/211_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/072",
+    "ten_zh": "破妄之刃",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/072.png",
+    "cards": [
+     "thien-phu/103_card2.png"
+    ],
+    "tai_duoc": true
+   },
+   {
+    "id": "trang-bi/073",
+    "ten_zh": "不屈意志",
+    "nhom_zh": "天赋装备",
+    "icon": "trang-bi/icon/073.png",
+    "cards": [
+     "trang-bi/073_card1.png"
+    ],
+    "tai_duoc": true
+   }
+  ]
+ }
+}

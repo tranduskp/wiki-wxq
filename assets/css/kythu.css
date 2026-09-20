@@ -1,0 +1,290 @@
+/* Kỳ thủ: a carousel of avatars, then one profile at a time: skin artwork, abilities, and the player's cards as a tile grid. */
+
+.players-toolbar { padding-bottom: 6px; }
+
+.players {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+  max-width: 1500px;
+  margin-inline: auto;
+  padding: 10px var(--pad) 48px;
+}
+.players:focus { outline: none; }
+.players > .status { grid-row: 1; padding: 0; }
+.players > .status[hidden] { display: none; }
+
+/* ---- roster: the Swiper carousel ---- */
+.roster {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  background: var(--glass-list);
+  border: 1px solid var(--glass-line);
+  border-radius: var(--r-lg);
+}
+.roster-swiper { flex: 1; min-width: 0; width: 100%; }
+.roster-swiper.is-plain { overflow-x: auto; scrollbar-width: none; }
+.roster-swiper .swiper-slide { width: auto; }
+
+.roster-nav {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  background: rgb(255 255 255 / 0.1);
+  border: 1px solid var(--glass-line);
+  border-radius: 12px;
+  color: var(--text-2);
+  transition: border-color var(--t-fast), color var(--t-fast), background var(--t-fast), opacity var(--t-fast);
+}
+.roster-nav:hover { border-color: var(--accent); color: #fff; background: rgb(255 255 255 / 0.18); }
+.roster-nav.is-disabled { opacity: 0.35; pointer-events: none; }
+
+.chip {
+  display: grid;
+  justify-items: center;
+  align-content: start;
+  gap: 6px;
+  width: 78px;
+  padding: 7px 4px 8px;
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 14px;
+  color: var(--text-2);
+  transition: background var(--t-fast), border-color var(--t-fast), color var(--t-fast);
+}
+.chip-face {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 17px;
+  background: var(--sky-1);
+  box-shadow: 0 0 0 1.5px rgb(255 255 255 / 0.35), 0 6px 12px rgb(0 0 0 / 0.35);
+  transition: transform var(--t-mid) var(--ease), box-shadow var(--t-fast);
+}
+.chip-name { max-width: 100%; font-size: var(--fs-xs); font-weight: 600; line-height: 1.2; text-align: center; overflow-wrap: anywhere; }
+.chip-name.is-zh { font-family: var(--font-cjk); }
+.chip:hover { background: var(--glass-soft); color: #fff; }
+.chip:hover .chip-face { transform: translateY(-2px); }
+.chip[aria-pressed="true"] { background: var(--accent-wash); border-color: var(--accent); color: #fff; }
+.chip[aria-pressed="true"] .chip-face { box-shadow: 0 0 0 2px var(--accent-hi), 0 6px 12px rgb(0 0 0 / 0.35); }
+
+/* ---- profile ---- */
+.profile {
+  background: var(--glass-list);
+  border: 1px solid var(--glass-line);
+  border-radius: var(--r-lg);
+}
+
+/* the artwork, the ghost name, the name block and the skin picker share one grid cell, so nothing needs to be positioned */
+.banner { display: grid; }
+.banner > * { grid-area: 1 / 1; }
+.banner-img {
+  width: 100%;
+  height: clamp(250px, 36vh, 380px);
+  object-fit: cover;
+  object-position: 74% 28%;
+  border-radius: var(--r-lg) var(--r-lg) 0 0;
+  background: var(--sky-0);
+}
+.banner-img.is-entering { animation: banner-in 900ms var(--ease); }
+@keyframes banner-in { from { opacity: 0; scale: 1.07; } to { opacity: 1; scale: 1; } }
+/* the previous artwork waits underneath until the new one has faded in, then removes itself */
+.banner-img.is-leaving { animation: banner-hold 900ms linear both; }
+@keyframes banner-hold { from, to { opacity: 1; } }
+
+/* the English name as a huge ghost behind everything, like the lettering on the official page */
+.banner-ghost {
+  align-self: start;
+  justify-self: end;
+  max-width: 100%;
+  padding: 0 clamp(16px, 3vw, 36px);
+  overflow: hidden;
+  font-family: var(--font-display);
+  font-size: clamp(5rem, 12vw, 11rem);
+  line-height: 1;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  color: rgb(255 255 255 / 0.2);
+  pointer-events: none;
+  user-select: none;
+}
+.banner-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 28px clamp(18px, 3vw, 36px);
+  border-radius: var(--r-lg) var(--r-lg) 0 0;
+  /* dark where the text sits, clear over the artwork, so the words never depend on the picture */
+  background:
+    linear-gradient(90deg, rgb(15 21 56 / 0.86) 0%, rgb(15 21 56 / 0.5) 36%, transparent 62%),
+    linear-gradient(0deg, rgb(15 21 56 / 0.55), transparent 42%);
+}
+.banner-text .name { font-size: clamp(2.4rem, 5vw, 4rem); line-height: 1.05; text-shadow: 0 3px 14px rgb(0 0 0 / 0.55); }
+.banner-text .name.is-zh { font-size: clamp(1.8rem, 3.6vw, 2.75rem); }
+.banner-text .name-zh { margin-top: 4px; font-size: var(--fs-lg); color: var(--text-2); }
+.quote { max-width: 44ch; margin: 14px 0 0; }
+.quote p { font-size: 1.0625rem; font-weight: 500; line-height: 1.55; color: #fff; text-wrap: pretty; text-shadow: 0 1px 8px rgb(0 0 0 / 0.6); }
+.quote .quote-zh { margin-top: 4px; font-family: var(--font-cjk); font-size: var(--fs-sm); font-weight: 400; color: var(--text-2); }
+
+.banner-skins {
+  align-self: end;
+  justify-self: end;
+  display: grid;
+  justify-items: end;
+  gap: 8px;
+  padding: 18px clamp(14px, 2.4vw, 28px);
+}
+.banner-skins[hidden], .skin-name[hidden] { display: none; }
+.skin-name {
+  padding: 4px 12px;
+  background: rgb(15 21 56 / 0.78);
+  border: 1px solid var(--glass-line);
+  border-radius: 99px;
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  color: #fff;
+}
+.skins { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 6px; }
+.skin {
+  width: 48px;
+  height: 48px;
+  padding: 2px;
+  background: rgb(15 21 56 / 0.7);
+  border: 1px solid var(--glass-line-strong);
+  border-radius: 14px;
+  transition: border-color var(--t-fast), transform var(--t-mid) var(--ease);
+}
+.skin img { width: 100%; height: 100%; object-fit: cover; border-radius: 11px; }
+.skin:hover { transform: translateY(-2px); border-color: #fff; }
+.skin[aria-pressed="true"] { border-color: var(--accent-hi); background: var(--accent-wash); box-shadow: 0 0 0 2px var(--accent-hi); }
+
+/* ---- abilities and cards ---- */
+.profile-body { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); align-items: start; }
+.panel { min-width: 0; padding: 20px clamp(16px, 2.4vw, 30px) 24px; }
+.panel + .panel { border-left: 1px solid var(--glass-line); }
+.panel-title {
+  margin-bottom: 6px;
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  line-height: 1.25;
+  text-transform: uppercase;
+}
+.panel-title::before {
+  content: "";
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  margin-right: 12px;
+  background: var(--accent);
+  rotate: 45deg;
+  translate: 0 -3px;
+}
+
+.ability + .ability { margin-top: 10px; }
+.ability-label {
+  margin: 14px 0 0;
+  font-family: var(--font-tech);
+  font-size: var(--fs-sm);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--accent-hi);
+}
+
+.rows { margin: 0; padding: 0; list-style: none; }
+.prow {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  gap: 14px;
+  padding: 14px 0;
+}
+.prow + .prow { border-top: 1px solid var(--glass-line); }
+.prow-icon { width: 52px; height: 52px; object-fit: cover; border-radius: 14px; background: rgb(15 21 56 / 0.5); }
+.prow-body { min-width: 0; }
+.prow-name { font-size: var(--fs-md); font-weight: 700; line-height: 1.35; color: #fff; }
+.prow-name[lang="zh-Hans"] { font-family: var(--font-cjk); }
+.prow-zh { margin-left: 8px; font-family: var(--font-cjk); font-size: var(--fs-xs); font-weight: 400; color: var(--text-3); }
+.prow-desc { margin-top: 3px; font-size: var(--fs-md); line-height: 1.6; color: var(--text); text-wrap: pretty; white-space: pre-line; }
+.prow-desc.is-zh { font-family: var(--font-cjk); color: var(--text-2); }
+.prow-body .pill { display: inline-block; margin-top: 8px; }
+.empty-note { padding: 14px 0; color: var(--text-2); }
+
+/* the chosen card sits right above the grid it was picked from, so a long list never pushes the text away */
+.card-detail {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  gap: 16px;
+  margin-top: 10px;
+  padding: 14px 16px 16px;
+  background: rgb(255 255 255 / 0.09);
+  border: 1px solid var(--glass-line-strong);
+  border-radius: 14px;
+}
+.card-detail[hidden] { display: none; }
+.detail-icon {
+  width: 72px;
+  height: 72px;
+  padding: 7px;
+  object-fit: contain;
+  border-radius: 18px;
+  background: radial-gradient(circle at 50% 40%, rgb(153 180 254 / 0.28), rgb(15 21 56 / 0.9) 72%);
+}
+.detail-body { min-width: 0; }
+.detail-name { margin: 0; font-family: var(--font-display); font-size: 1.5rem; font-weight: 400; letter-spacing: 0.03em; line-height: 1.15; text-transform: uppercase; }
+.detail-name[lang="zh-Hans"] { font-family: var(--font-cjk); font-size: var(--fs-xl); font-weight: 700; letter-spacing: 0; text-transform: none; }
+.detail-zh { margin-top: 2px; font-family: var(--font-cjk); font-size: var(--fs-sm); color: var(--text-3); }
+.detail-desc { margin-top: 8px; font-size: 1.0625rem; font-weight: 500; line-height: 1.6; color: #fff; text-wrap: pretty; white-space: pre-line; }
+.detail-desc.is-zh { font-family: var(--font-cjk); font-weight: 400; color: var(--text-2); }
+.card-detail .pill { display: inline-block; margin-top: 10px; }
+
+.card-grid { max-height: 470px; overflow-y: auto; margin-top: 8px; padding: 18px 8px 12px; gap: 22px 6px; }
+
+.players .legal { margin-top: 12px; }
+
+@media (max-width: 980px) {
+  .profile-body { grid-template-columns: minmax(0, 1fr); }
+  .panel + .panel { border-left: 0; border-top: 1px solid var(--glass-line); }
+}
+
+@media (max-width: 819px) {
+  .players-toolbar { padding-bottom: 2px; }
+  .players { padding-top: 6px; }
+  .roster { padding: 8px; }
+  .roster-nav { display: none; } /* phones swipe the strip */
+  .banner-ghost { display: none; }
+  .banner-img { height: 320px; object-position: 78% 24%; }
+  .banner-text { padding: 20px 16px; background: linear-gradient(0deg, rgb(15 21 56 / 0.92) 0%, rgb(15 21 56 / 0.55) 46%, transparent 78%); }
+  .banner-skins { justify-self: start; align-self: start; padding: 12px; }
+  .skin { width: 44px; height: 44px; }
+  .card-detail { grid-template-columns: 56px minmax(0, 1fr); gap: 12px; }
+  .detail-icon { width: 56px; height: 56px; }
+  .card-grid { max-height: none; }
+}
+
+@media (min-width: 820px) {
+  .card-detail { min-height: 8.25rem; align-content: start; }
+}
+
+/* ---- motion: a kỳ thủ stages in ----
+   the artwork crossfades (see banner-in), then the name block, ghost lettering, skins, abilities and the first
+   tiles arrive in order; a skin change only crossfades the artwork. */
+@keyframes ghost-in { from { opacity: 0; translate: 64px 0; } to { opacity: 1; translate: 0 0; } }
+
+.profile.is-entering .banner-text > * { animation: rise 640ms var(--ease) both; }
+.profile.is-entering .banner-text > :nth-child(1) { animation-delay: 140ms; }
+.profile.is-entering .banner-text > :nth-child(2) { animation-delay: 220ms; }
+.profile.is-entering .banner-text > :nth-child(3) { animation-delay: 300ms; }
+.profile.is-entering .banner-ghost { animation: ghost-in 900ms var(--ease) 120ms both; }
+.profile.is-entering .banner-skins { animation: rise 600ms var(--ease) 480ms both; }
+.profile.is-entering .panel-title { animation: rise 520ms var(--ease) 380ms both; }
+.profile.is-entering .prow { animation: rise 520ms var(--ease) both; animation-delay: calc(440ms + var(--i, 0) * 60ms); }
+.profile.is-entering .card-detail { animation: rise 520ms var(--ease) 460ms both; }
+.profile.is-entering .card-grid .tile[style*="--t"] { animation: tile-in 420ms var(--ease) both; animation-delay: calc(520ms + var(--t) * 22ms); }
+.card-detail.is-changing { animation: none; }
+.card-detail.is-changing > * { animation: swap 300ms var(--ease) both; }
+

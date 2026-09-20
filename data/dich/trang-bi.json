@@ -1,0 +1,457 @@
+{
+  "风暴巨剑": {
+    "ten": "Phong Bạo Cự Kiếm",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại sát thương.",
+    "ban": {
+      "2": {
+        "ten": "Thuần Tịnh Thương Khung",
+        "mo_ta": "Duy Nhất. Mỗi 2 giây nhận 10 điểm công pháp thuật, đồng thời xóa trạng thái tiêu cực của bản thân."
+      },
+      "3": {
+        "ten": "Chú Mộng · Trục Phong",
+        "mo_ta": "Duy Nhất. Từ lúc bắt đầu giao chiến và sau mỗi 8 giây, nhanh chóng đánh thường 4 lần."
+      },
+      "4": {
+        "ten": "Vô Tận Cự Kiếm",
+        "mo_ta": "Tỉ lệ chí mạng +30%, hiệu quả chí mạng +60%. Hiệu quả chí mạng không cộng dồn."
+      },
+      "5": {
+        "ten": "Chế Tài Chi Kiếm",
+        "mo_ta": "Duy Nhất. Khi gây sát thương, giảm 30% hiệu quả hồi máu và khiên của mục tiêu trong 10 giây, không cộng dồn. Nếu là đòn đánh thường, hiệu quả tăng lên 70%."
+      }
+    }
+  },
+  "圣者法典": {
+    "ten": "Thánh Giả Pháp Điển",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại pháp thuật.",
+    "ban": {
+      "2": {
+        "ten": "Hiền Giả Chi Thư",
+        "mo_ta": "Duy Nhất. Giới hạn pháp lực -10. Sau khi tung kỹ năng nhận 20% công pháp thuật cơ bản, cộng dồn tối đa 6 tầng."
+      },
+      "3": {
+        "ten": "Sí Nhiệt Chi Phối Giả",
+        "mo_ta": "Duy Nhất. Lần đầu chịu hiệu ứng khống chế, nhận khiên 300 điểm và miễn nhiễm hiệu ứng khống chế (trừ áp chế) trong 15 giây tiếp theo."
+      },
+      "4": {
+        "ten": "Sinh Mệnh Ma Điển",
+        "mo_ta": "Duy Nhất. Khi chịu sát thương, hồi 5% máu tối đa cho bản thân và các đơn vị phe ta trong 1 ô xung quanh, thời gian hồi 2 giây."
+      },
+      "5": {
+        "ten": "Ngự Linh Chi Sa",
+        "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, nhận khiên bằng cấp × 15 điểm. Khi khiên bị phá, gây choáng 1 giây cho kẻ địch trong 1 ô xung quanh, người phá khiên chịu gấp đôi."
+      }
+    },
+    "ghi_chu": "Ban 5 (Ngự Linh Chi Sa): \"击破者翻倍\" dịch sát là \"người phá khiên chịu gấp đôi\", ảnh không nói rõ gấp đôi cái gì (nhiều khả năng là thời gian choáng)."
+  },
+  "雷鸣刃": {
+    "ten": "Lôi Minh Nhận",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại sát thương.",
+    "ban": {
+      "2": {
+        "ten": "Minh Vương",
+        "mo_ta": "Duy Nhất. Mỗi đơn vị địch trong 1 ô xung quanh người mang, người mang nhận 10 điểm phòng thủ vật lý và 15% công vật lý cơ bản."
+      },
+      "3": {
+        "ten": "Danh Đao · Tư Mệnh",
+        "mo_ta": "Duy Nhất. Lần đầu người mang chịu sát thương chí tử sẽ vào trạng thái vô địch và không thể bị chọn, kéo dài 1.5 giây."
+      },
+      "4": {
+        "ten": "Hồng Ma",
+        "mo_ta": "Duy Nhất. Khi không có đồng minh trong 1 ô xung quanh, nhận 25% sát thương cộng thêm. Mỗi khi chịu sát thương bằng 3% máu tối đa, nhận 1% sát thương cộng thêm, tối đa 100%."
+      },
+      "5": {
+        "ten": "Ma Luật Chi Nhận",
+        "mo_ta": "Duy Nhất. Khi tung kỹ năng, có 35% xác suất tung lặp lại thêm 1 lần. Mỗi 7 cấp, tăng thêm 1% xác suất."
+      }
+    }
+  },
+  "守护者之铠": {
+    "ten": "Thủ Hộ Giả Chi Khải",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại phòng thủ.",
+    "ban": {
+      "2": {
+        "ten": "Bất Tường Chinh Triệu",
+        "mo_ta": "Duy Nhất. Trong 15 giây đầu giao chiến, chặn 50% sát thương đánh thường; nếu tốc độ đánh của kẻ tấn công không dưới 1.5, chặn 70% sát thương đánh thường."
+      },
+      "3": {
+        "ten": "Cực Hàn Phong Bạo",
+        "mo_ta": "Duy Nhất. Khi chịu đòn đánh thường, giảm 20% tốc độ đánh của mục tiêu trong 2 giây. Sau khi bị cùng một mục tiêu đánh thường 5 lần, mục tiêu tầm xa bị đóng băng 1 giây, mục tiêu cận chiến giảm một nửa."
+      },
+      "4": {
+        "ten": "Cận Vệ Vinh Diệu",
+        "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, các đơn vị phe ta trong 1 ô xung quanh nhận 10 điểm phòng thủ vật lý và pháp thuật, người mang nhận hiệu quả gấp đôi, không cộng dồn."
+      },
+      "5": {
+        "ten": "Phản Thương Trọng Giáp",
+        "mo_ta": "Duy Nhất. Phản lại mục tiêu 30% sát thương đã chịu dưới dạng sát thương chuẩn."
+      }
+    },
+    "ghi_chu": "Ban 3 (Cực Hàn Phong Bạo): \"近战目标减半\" dịch sát \"mục tiêu cận chiến giảm một nửa\", ảnh không nói rõ giảm gì (nhiều khả năng là thời gian đóng băng). Tên ban 2 Bất Tường Chinh Triệu và ban 4 Cận Vệ Vinh Diệu là do agent này chọn, lá bài riêng của chúng nằm ngoài lát 001-037."
+  },
+  "力量腰带": {
+    "ten": "Lực Lượng Yêu Đái",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại phòng thủ.",
+    "ban": {
+      "2": {
+        "ten": "Bá Giả Trọng Khải",
+        "mo_ta": "Duy Nhất. Khi máu trên 70%, nhận 40% giảm sát thương."
+      },
+      "3": {
+        "ten": "Bất Tử Điểu Chi Nhãn",
+        "mo_ta": "Duy Nhất. Tăng 15% máu cơ bản, hiệu quả hồi máu và khiên tăng 30%."
+      },
+      "4": {
+        "ten": "Ma Nữ Đấu Bồng",
+        "mo_ta": "Phòng thủ pháp thuật +30. Khi bắt đầu giao chiến, nhận khiên pháp thuật bằng cấp x5 điểm."
+      },
+      "5": {
+        "ten": "Hồng Liên Viêm Giáp",
+        "mo_ta": "Duy Nhất. Mỗi 2 giây gây 20 (+5% máu tối đa của người mang) điểm sát thương pháp thuật cho kẻ địch trong 1 ô xung quanh, đồng thời giảm 50% hiệu quả hồi máu và hút máu của mục tiêu trong 3 giây."
+      }
+    },
+    "ghi_chu": "Tên ban 5 Hồng Liên Viêm Giáp là do agent này chọn, lá bài riêng của nó nằm ngoài lát 001-037."
+  },
+  "破碎圣杯": {
+    "ten": "Phá Toái Thánh Bôi",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại chức năng.",
+    "ban": {
+      "2": {
+        "ten": "Thống Khổ Diện Cụ",
+        "mo_ta": "Duy Nhất. Khi một lần sát thương ma pháp vượt quá 8% máu tối đa của mục tiêu, khiến mục tiêu bốc cháy: mỗi giây gây sát thương chuẩn bằng 75% công pháp thuật, kéo dài 3 giây."
+      },
+      "3": {
+        "ten": "Pháp Nguyên Chi Bôi",
+        "mo_ta": "Duy Nhất. Mỗi giây hồi 5 điểm pháp lực."
+      },
+      "4": {
+        "ten": "Phá Kiển Chi Y",
+        "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, pháp lực +15, đồng thời gây choáng ngẫu nhiên 1 trong tối đa 3 Anh Hùng địch có cấp cao nhất, kéo dài 1 giây. Mục tiêu cứ mỗi 10 cấp, thời gian choáng tăng thêm 0.5 giây, tối đa 5 giây."
+      },
+      "5": {
+        "ten": "Tụ Linh Thủy Tinh",
+        "mo_ta": "Duy Nhất. Khi bị đánh trúng nhận thêm 10 điểm pháp lực, tối đa 100 điểm. Khi đạt giới hạn, hồi 20% máu tối đa."
+      }
+    },
+    "ghi_chu": "Ban 2 (Thống Khổ Diện Cụ): ảnh in 魔法伤害 (sát thương ma pháp) trong khi các nơi khác in 法术伤害 (sát thương pháp thuật); giữ đúng hai cách gọi."
+  },
+  "速击之枪": {
+    "ten": "Tốc Kích Chi Thương",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại sát thương.",
+    "ban": {
+      "2": {
+        "ten": "Ngưng Uyên",
+        "mo_ta": "Duy Nhất. Tỉ lệ chí mạng +20%. Mỗi lần chịu sát thương tăng 1% tỉ lệ chí mạng; khi tỉ lệ chí mạng đạt 100%, tăng 100% tốc độ di chuyển."
+      },
+      "3": {
+        "ten": "Ảnh Nha",
+        "mo_ta": "Tốc độ đánh +50%."
+      },
+      "4": {
+        "ten": "Phá Hiểu",
+        "mo_ta": "Mỗi lần đánh thường giảm 3 điểm phòng thủ vật lý của mục tiêu trong 5 giây. Lần đầu phòng thủ vật lý của mục tiêu về 0, gây thêm 1 lần sát thương vật lý bằng 15% máu tối đa của mục tiêu."
+      },
+      "5": {
+        "ten": "Nhật Uyên",
+        "mo_ta": "Duy Nhất, chỉ dành cho Anh Hùng tầm xa. Đánh thường sẽ bắn ra mũi tên, gây sát thương vật lý bằng 45% công vật lý cho 2 kẻ địch có máu thấp nhất."
+      }
+    }
+  },
+  "大棒": {
+    "ten": "Đại Bổng",
+    "mo_ta": "Mang cho Anh Hùng, có thể rèn thành 1 Trang bị thường loại sát thương.",
+    "ban": {
+      "2": {
+        "ten": "Hư Vô Pháp Trượng",
+        "mo_ta": "Duy Nhất. Nhận 15 điểm xuyên phòng thủ pháp thuật."
+      },
+      "3": {
+        "ten": "Hàn Sương Xâm Tập",
+        "mo_ta": "Duy Nhất. Đánh thường giảm 15% tốc độ di chuyển của mục tiêu trong 5 giây, cộng dồn tối đa 5 tầng. Khi đủ tầng, sát thương mục tiêu chịu tăng 20% trong 5 giây, thời gian hồi 10 giây."
+      },
+      "4": {
+        "ten": "Tự Nhiên Pháp Trượng",
+        "mo_ta": "Duy Nhất. Công pháp thuật +20%; mỗi khi người mang tầm xa tiêu hao 40 điểm pháp lực (cận chiến 80 điểm pháp lực), biến ngẫu nhiên 1 kẻ địch thành heo con trong 2 giây."
+      },
+      "5": {
+        "ten": "Kim Sắc Thánh Kiếm",
+        "mo_ta": "Duy Nhất. Nhận 30% (+15% công pháp thuật) tốc độ đánh. Mỗi đòn đánh thường kèm 20 (+30% công pháp thuật) điểm sát thương pháp thuật."
+      }
+    }
+  },
+  "魔女斗篷": {
+    "ten": "Ma Nữ Đấu Bồng",
+    "mo_ta": "Phòng thủ pháp thuật +30. Khi bắt đầu giao chiến, nhận khiên pháp thuật bằng cấp x5 điểm."
+  },
+  "极寒风暴": {
+    "ten": "Cực Hàn Phong Bạo",
+    "mo_ta": "Duy Nhất. Khi chịu đòn đánh thường, giảm 20% tốc độ đánh của mục tiêu trong 2 giây. Sau khi bị cùng một mục tiêu đánh thường 5 lần, mục tiêu tầm xa bị đóng băng 1 giây, mục tiêu cận chiến giảm một nửa.",
+    "ghi_chu": "\"近战目标减半\" dịch sát \"mục tiêu cận chiến giảm một nửa\"; ảnh không nói rõ giảm gì (nhiều khả năng là thời gian đóng băng)."
+  },
+  "御灵之纱": {
+    "ten": "Ngự Linh Chi Sa",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, nhận khiên bằng cấp × 15 điểm. Khi khiên bị phá, gây choáng 1 giây cho kẻ địch trong 1 ô xung quanh, người phá khiên chịu gấp đôi.",
+    "ghi_chu": "\"击破者翻倍\" dịch sát là \"người phá khiên chịu gấp đôi\"; ảnh không nói rõ gấp đôi cái gì (nhiều khả năng là thời gian choáng)."
+  },
+  "生命魔典": {
+    "ten": "Sinh Mệnh Ma Điển",
+    "mo_ta": "Duy Nhất. Khi chịu sát thương, hồi 5% máu tối đa cho bản thân và các đơn vị phe ta trong 1 ô xung quanh, thời gian hồi 2 giây."
+  },
+  "炽热支配者": {
+    "ten": "Sí Nhiệt Chi Phối Giả",
+    "mo_ta": "Duy Nhất. Lần đầu chịu hiệu ứng khống chế, nhận khiên 300 điểm và miễn nhiễm hiệu ứng khống chế (trừ áp chế) trong 15 giây tiếp theo."
+  },
+  "贤者之书": {
+    "ten": "Hiền Giả Chi Thư",
+    "mo_ta": "Duy Nhất. Giới hạn pháp lực -10. Sau khi tung kỹ năng nhận 20% công pháp thuật cơ bản, cộng dồn tối đa 6 tầng."
+  },
+  "铸梦·逐风": {
+    "ten": "Chú Mộng · Trục Phong",
+    "mo_ta": "Duy Nhất. Từ lúc bắt đầu giao chiến và sau mỗi 8 giây, nhanh chóng đánh thường 4 lần."
+  },
+  "无尽巨剑": {
+    "ten": "Vô Tận Cự Kiếm",
+    "mo_ta": "Tỉ lệ chí mạng +30%, hiệu quả chí mạng +60%. Hiệu quả chí mạng không cộng dồn."
+  },
+  "制裁之剑": {
+    "ten": "Chế Tài Chi Kiếm",
+    "mo_ta": "Duy Nhất. Khi gây sát thương, giảm 30% hiệu quả hồi máu và khiên của mục tiêu trong 10 giây, không cộng dồn. Nếu là đòn đánh thường, hiệu quả tăng lên 70%."
+  },
+  "纯净苍穹": {
+    "ten": "Thuần Tịnh Thương Khung",
+    "mo_ta": "Duy Nhất. Mỗi 2 giây nhận 10 điểm công pháp thuật, đồng thời xóa trạng thái tiêu cực của bản thân."
+  },
+  "魔律之刃": {
+    "ten": "Ma Luật Chi Nhận",
+    "mo_ta": "Duy Nhất. Khi tung kỹ năng, có 35% xác suất tung lặp lại thêm 1 lần. Mỗi 7 cấp, tăng thêm 1% xác suất."
+  },
+  "虚无法杖": {
+    "ten": "Hư Vô Pháp Trượng",
+    "mo_ta": "Duy Nhất. Nhận 15 điểm xuyên phòng thủ pháp thuật."
+  },
+  "寒霜侵袭": {
+    "ten": "Hàn Sương Xâm Tập",
+    "mo_ta": "Duy Nhất. Đánh thường giảm 15% tốc độ di chuyển của mục tiêu trong 5 giây, cộng dồn tối đa 5 tầng. Khi đủ tầng, sát thương mục tiêu chịu tăng 20% trong 5 giây, thời gian hồi 10 giây."
+  },
+  "自然法杖": {
+    "ten": "Tự Nhiên Pháp Trượng",
+    "mo_ta": "Duy Nhất. Công pháp thuật +20%; mỗi khi người mang tầm xa tiêu hao 40 điểm pháp lực (cận chiến 80 điểm pháp lực), biến ngẫu nhiên 1 kẻ địch thành heo con trong 2 giây."
+  },
+  "金色圣剑": {
+    "ten": "Kim Sắc Thánh Kiếm",
+    "mo_ta": "Duy Nhất. Nhận 30% (+15% công pháp thuật) tốc độ đánh. Mỗi đòn đánh thường kèm 20 (+30% công pháp thuật) điểm sát thương pháp thuật."
+  },
+  "红魔": {
+    "ten": "Hồng Ma",
+    "mo_ta": "Duy Nhất. Khi không có đồng minh trong 1 ô xung quanh, nhận 25% sát thương cộng thêm. Mỗi khi chịu sát thương bằng 3% máu tối đa, nhận 1% sát thương cộng thêm, tối đa 100%."
+  },
+  "影牙": {
+    "ten": "Ảnh Nha",
+    "mo_ta": "Tốc độ đánh +50%."
+  },
+  "破晓": {
+    "ten": "Phá Hiểu",
+    "mo_ta": "Mỗi lần đánh thường giảm 3 điểm phòng thủ vật lý của mục tiêu trong 5 giây. Lần đầu phòng thủ vật lý của mục tiêu về 0, gây thêm 1 lần sát thương vật lý bằng 15% máu tối đa của mục tiêu."
+  },
+  "凝渊": {
+    "ten": "Ngưng Uyên",
+    "mo_ta": "Duy Nhất. Tỉ lệ chí mạng +20%. Mỗi lần chịu sát thương tăng 1% tỉ lệ chí mạng; khi tỉ lệ chí mạng đạt 100%, tăng 100% tốc độ di chuyển."
+  },
+  "日渊": {
+    "ten": "Nhật Uyên",
+    "mo_ta": "Duy Nhất, chỉ dành cho Anh Hùng tầm xa. Đánh thường sẽ bắn ra mũi tên, gây sát thương vật lý bằng 45% công vật lý cho 2 kẻ địch có máu thấp nhất."
+  },
+  "名刀·司命": {
+    "ten": "Danh Đao · Tư Mệnh",
+    "mo_ta": "Duy Nhất. Lần đầu người mang chịu sát thương chí tử sẽ vào trạng thái vô địch và không thể bị chọn, kéo dài 1.5 giây."
+  },
+  "痛苦面具": {
+    "ten": "Thống Khổ Diện Cụ",
+    "mo_ta": "Duy Nhất. Khi một lần sát thương ma pháp vượt quá 8% máu tối đa của mục tiêu, khiến mục tiêu bốc cháy: mỗi giây gây sát thương chuẩn bằng 75% công pháp thuật, kéo dài 3 giây.",
+    "ghi_chu": "Ảnh in 魔法伤害 (sát thương ma pháp) trong khi các nơi khác in 法术伤害 (sát thương pháp thuật); giữ đúng hai cách gọi."
+  },
+  "法源之杯": {
+    "ten": "Pháp Nguyên Chi Bôi",
+    "mo_ta": "Duy Nhất. Mỗi giây hồi 5 điểm pháp lực."
+  },
+  "破茧之衣": {
+    "ten": "Phá Kiển Chi Y",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, pháp lực +15, đồng thời gây choáng ngẫu nhiên 1 trong tối đa 3 Anh Hùng địch có cấp cao nhất, kéo dài 1 giây. Mục tiêu cứ mỗi 10 cấp, thời gian choáng tăng thêm 0.5 giây, tối đa 5 giây."
+  },
+  "聚灵水晶": {
+    "ten": "Tụ Linh Thủy Tinh",
+    "mo_ta": "Duy Nhất. Khi bị đánh trúng nhận thêm 10 điểm pháp lực, tối đa 100 điểm. Khi đạt giới hạn, hồi 20% máu tối đa."
+  },
+  "冥王": {
+    "ten": "Minh Vương",
+    "mo_ta": "Duy Nhất. Mỗi đơn vị địch trong 1 ô xung quanh người mang, người mang nhận 10 điểm phòng thủ vật lý và 15% công vật lý cơ bản."
+  },
+  "霸者重铠": {
+    "ten": "Bá Giả Trọng Khải",
+    "mo_ta": "Duy Nhất. Khi máu trên 70%, nhận 40% giảm sát thương."
+  },
+  "不死鸟之眼": {
+    "ten": "Bất Tử Điểu Chi Nhãn",
+    "mo_ta": "Duy Nhất. Tăng 15% máu cơ bản, hiệu quả hồi máu và khiên tăng 30%."
+  },
+  "反伤重甲": {
+    "ten": "Phản Thương Trọng Giáp",
+    "mo_ta": "Duy Nhất. Phản lại mục tiêu 30% sát thương đã chịu dưới dạng sát thương chuẩn."
+  },
+  "红莲炎甲": {
+    "ten": "Hồng Liên Viêm Giáp",
+    "mo_ta": "Duy Nhất. Mỗi 2 giây gây 20 (+5% máu tối đa của người mang) điểm sát thương pháp thuật cho kẻ địch trong 1 ô xung quanh, đồng thời giảm 50% hiệu quả hồi máu và hút máu của mục tiêu trong 3 giây."
+  },
+  "近卫荣耀": {
+    "ten": "Cận Vệ Vinh Diệu",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, các đơn vị phe ta trong 1 ô xung quanh nhận 10 điểm phòng thủ vật lý và pháp thuật, người mang nhận hiệu quả gấp đôi, không cộng dồn."
+  },
+  "不祥征兆": {
+    "ten": "Bất Tường Chinh Triệu",
+    "mo_ta": "Duy Nhất. Trong 15 giây đầu giao chiến, chặn 50% sát thương đánh thường; nếu tốc độ đánh của kẻ tấn công không dưới 1.5, chặn 70% sát thương đánh thường.",
+    "ghi_chu": "征兆 đọc Hán Việt chuẩn là 'trưng triệu' (điềm báo); giữ 'Chinh Triệu' cho khớp bản dịch của trang-bi-a. Chủ site chốt."
+  },
+  "学识宝石": {
+    "ten": "Học Thức Bảo Thạch",
+    "mo_ta": "Duy Nhất. Khi bắt đầu mỗi vòng, cấp +8% (tối thiểu +3 cấp) và giảm 2 điểm giới hạn pháp lực.",
+    "ghi_chu": "回合 dịch là 'vòng'."
+  },
+  "怒莲之刺": {
+    "ten": "Nộ Liên Chi Thích",
+    "mo_ta": "Duy Nhất. Tăng 100% tốc độ đánh, toàn bộ sát thương phải chịu được chuyển sang đơn vị đang mang Ngân Liên Tí Hựu.",
+    "ghi_chu": "Tên Ngân Liên Tí Hựu (银莲庇佑, trang-bi/051) phải khớp với bản dịch của lá đó."
+  },
+  "噬神之书": {
+    "ten": "Phệ Thần Chi Thư",
+    "mo_ta": "Công pháp thuật +100, hút máu pháp thuật +60%."
+  },
+  "征服之剑": {
+    "ten": "Chinh Phục Chi Kiếm",
+    "mo_ta": "Hút máu vật lý +30%. Khi máu dưới 50%, hiệu quả hút máu này nhân đôi."
+  },
+  "盛华": {
+    "ten": "Thịnh Hoa",
+    "mo_ta": "Duy Nhất, không thể tháo. Sau mỗi trận giao chiến, tăng vĩnh viễn 200 điểm máu, thắng thì nhân đôi. Khi máu đã tăng vượt quá 2000, tăng thêm 15% máu tối đa."
+  },
+  "静谧之铃": {
+    "ten": "Tĩnh Mịch Chi Linh",
+    "mo_ta": "Duy Nhất. Trong 5 giây sau khi 2 Anh Hùng có cấp cao nhất của đối phương tung kỹ năng, không thể hồi pháp lực; trong thời gian này, mỗi 0.5 giây nhận sát thương pháp thuật bằng 20% công pháp thuật của người mang."
+  },
+  "捕能手套": {
+    "ten": "Bộ Năng Thủ Sáo",
+    "mo_ta": "Duy Nhất. Mỗi khi đánh bại 1 Anh Hùng, nhận 1 năng lượng. Khi đánh bại từ 5 Anh Hùng trở lên trong một vòng, nhận Chuyển Đổi Năng Lượng. Chuyển Đổi Năng Lượng: tiêu hao 3 năng lượng, nhận lá Cẩm Nang Hiệu Ứng tương ứng với cấp của kỳ thủ (không quá bậc 5).",
+    "ghi_chu": "棋手等级 dịch 'cấp của kỳ thủ'; 效果锦囊牌 dịch 'lá Cẩm Nang Hiệu Ứng' (锦囊 = Cẩm Nang). 能量转换 in đậm trên ảnh, dịch 'Chuyển Đổi Năng Lượng'. Chủ site kiểm tra thuật ngữ."
+  },
+  "分身镜": {
+    "ten": "Phân Thân Kính",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, triệu hồi 1 bản sao chịu 350% sát thương (không có hiệu ứng lá bài)."
+  },
+  "驱雷": {
+    "ten": "Khu Lôi",
+    "mo_ta": "Duy Nhất. Mỗi 2 giây triệu hồi 2 tia sét đánh vào 2 đơn vị bất kỳ của cả hai bên (trừ người mang). Gây sát thương pháp thuật bằng 30% máu tối đa của mục tiêu (trúng đồng đội không kích hoạt hút máu). Nếu trúng Tư Không Chấn thì thay bằng khiến họ nhanh chóng tấn công 4 lần.",
+    "ghi_chu": "司空震 dịch Tư Không Chấn, cần khớp bản dịch Anh Hùng."
+  },
+  "青莲剑谱": {
+    "ten": "Thanh Liên Kiếm Phổ",
+    "mo_ta": "Duy Nhất, chỉ dành cho Anh Hùng cận chiến. Tỉ lệ chí mạng +40%. Kỹ năng người mang tung ra được thay bằng Thanh Liên Kiếm Ca.",
+    "ghi_chu": "青莲剑歌 dịch Thanh Liên Kiếm Ca (tên kỹ năng, chưa có trong glossary)."
+  },
+  "银莲庇佑": {
+    "ten": "Ngân Liên Tí Hựu",
+    "mo_ta": "Duy Nhất. Tăng 10 điểm phòng thủ vật lý và pháp thuật, chịu sát thương thay cho Anh Hùng đang mang Nộ Liên Chi Thích."
+  },
+  "机器头": {
+    "ten": "Đầu Robot",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, Anh Hùng có tốc độ đánh cố định 0.4, nhận 60% tăng sát thương. Miễn nhiễm hiệu ứng tiêu cực.",
+    "ghi_chu": "机器头 dịch nghĩa 'Đầu Robot' (từ đời thường, hiện đại) thay vì 'Cơ Khí Đầu'. Chủ site chốt."
+  },
+  "阿科米亚之子": {
+    "ten": "A Khoa Mễ Á Chi Tử",
+    "mo_ta": "Duy Nhất. Tham gia phân bổ cấp của A Khoa Mễ Á Hạch Tâm. Người mang và các đơn vị trong 1 ô xung quanh mỗi giây hồi 4 pháp lực và 2% máu tối đa. Khi đồng đội đi ngang qua, nhận hiệu quả tương đương, kéo dài 8 giây.",
+    "ghi_chu": "Tên phiên âm 阿科米亚 (Acomia?) dịch A Khoa Mễ Á, phải khớp với 阿科米亚核心 (có biểu tượng nhỏ trước tên trên ảnh; chưa thấy trong bảng bài). 等级分配 dịch 'phân bổ cấp', cơ chế chưa rõ."
+  },
+  "磐石之心": {
+    "ten": "Bàn Thạch Chi Tâm",
+    "mo_ta": "Duy Nhất. Mỗi lần chịu sát thương không vượt quá 15% máu tối đa."
+  },
+  "百锻刀": {
+    "ten": "Bách Đoạn Đao",
+    "mo_ta": "Duy Nhất, không thể tháo. Công vật lý +30. Mỗi khi đánh bại 1 Anh Hùng, nhận vĩnh viễn 5 điểm công vật lý, thắng trận thì nhân đôi (đã đánh bại: 0)."
+  },
+  "小鹿的庇护": {
+    "ten": "Tiểu Lộc Tí Hộ",
+    "mo_ta": "Duy Nhất. 30% sát thương người mang phải chịu sẽ chuyển sang Tiểu Lộc.",
+    "ghi_chu": "小鹿 (nhân vật hươu con trên ảnh) dịch Tiểu Lộc; 的庇护 dịch 'Tí Hộ' thay vì 'Chi Tí Hộ'. Có thể là tên riêng, chủ site chốt."
+  },
+  "聚灵法杖": {
+    "ten": "Tụ Linh Pháp Trượng",
+    "mo_ta": "Duy Nhất, không thể tháo. Công pháp thuật +30, đánh thường kèm 70% công pháp thuật của bản thân. Mỗi khi đánh bại 1 Anh Hùng, nhận vĩnh viễn 5 điểm công pháp thuật, thắng trận thì nhân đôi (đã đánh bại: 0)."
+  },
+  "断念": {
+    "ten": "Đoạn Niệm",
+    "mo_ta": "Duy Nhất. Khi gây sát thương, trong trận này giảm 20% máu tối đa của đơn vị địch (không cộng dồn)."
+  },
+  "鼓舞之戒": {
+    "ten": "Cổ Vũ Chi Giới",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, Anh Hùng cùng phe với người mang tăng 30% máu tối đa."
+  },
+  "梦魇之牙": {
+    "ten": "Mộng Yểm Chi Nha",
+    "mo_ta": "Duy Nhất. Công pháp thuật +35%. Khi gây sát thương pháp thuật, gắn Ấn Mộng Yểm, kéo dài 5 giây. Khi đơn vị mang ấn tử trận, gây cho kẻ địch trong 1 ô xung quanh sát thương pháp thuật bằng công pháp thuật của người mang ×2."
+  },
+  "三分旗帜": {
+    "ten": "Tam Phân Kỳ Xí",
+    "mo_ta": "Chỉ Anh Hùng Tam Phân mới mang được. 30% sát thương gây ra được chuyển thành hồi phục, chia đều cho tất cả Anh Hùng Tam Phân.",
+    "ghi_chu": "三分 = Tam Phân (nhóm 三分之地 = Tam Phân Chi Địa trong nhom.json). Không có chữ 唯一 trên ảnh này."
+  },
+  "怒神项链": {
+    "ten": "Nộ Thần Hạng Liên",
+    "mo_ta": "Duy Nhất. Tỉ lệ chí mạng +50%, sát thương pháp thuật có thể chí mạng."
+  },
+  "魂灭灵冠": {
+    "ten": "Hồn Diệt Linh Quán",
+    "mo_ta": "Duy Nhất. Khi tử trận, gây cho kẻ địch trong 1 ô xung quanh sát thương chuẩn bằng 35% máu tối đa của mục tiêu."
+  },
+  "灵泉项链": {
+    "ten": "Linh Tuyền Hạng Liên",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến, các đơn vị trong 1 ô xung quanh mỗi giây hồi 4 điểm pháp lực. Giới hạn pháp lực của người mang -10."
+  },
+  "魂祭绝刃": {
+    "ten": "Hồn Tế Tuyệt Nhận",
+    "mo_ta": "Duy Nhất. Tốc độ đánh +50%, hút máu vật lý và pháp thuật +30%. Khi bắt đầu giao chiến, trừ 50% máu tối đa."
+  },
+  "破阵战芒": {
+    "ten": "Phá Trận Chiến Mang",
+    "mo_ta": "Duy Nhất, chỉ Anh Hùng bậc 1-3 mới mang được. Khi bắt đầu giao chiến, nhận tăng sát thương và tốc độ đánh bằng cấp ×1%, tối đa 50%."
+  },
+  "法潮灵杖": {
+    "ten": "Pháp Triều Linh Trượng",
+    "mo_ta": "Duy Nhất. Công pháp thuật +25%. Khi bắt đầu giao chiến, nhận 100% công pháp thuật của các Anh Hùng ở 1 ô bên trái và bên phải."
+  },
+  "末世": {
+    "ten": "Mạt Thế",
+    "mo_ta": "Duy Nhất. Đánh thường giảm 2% máu tối đa của mục tiêu và hồi lượng máu tương đương. Khi người mang là Anh Hùng cận chiến, hiệu quả nhân đôi."
+  },
+  "光辉圣铠": {
+    "ten": "Quang Huy Thánh Khải",
+    "mo_ta": "Duy Nhất. Mỗi giây hồi 50+4% máu tối đa."
+  },
+  "护命灵珠": {
+    "ten": "Hộ Mệnh Linh Châu",
+    "mo_ta": "Duy Nhất. Mỗi 4 giây nhận khiên bằng 25% máu cơ bản. Khi có khiên, sát thương tăng 25%; khiên bị phá thì bị gỡ bỏ."
+  },
+  "灵泉法杖": {
+    "ten": "Linh Tuyền Pháp Trượng",
+    "mo_ta": "Duy Nhất. Nhận Thiểm Hiện, mỗi lần Thiểm Hiện xong đòn đánh thường kèm một đòn trọng kích: gây 300% sát thương và làm choáng kẻ địch 1 giây, mỗi khi đánh bại 1 đơn vị địch sẽ kích hoạt Thiểm Hiện lần nữa.",
+    "ghi_chu": "闪现 (có biểu tượng nhỏ trước tên trên ảnh) dịch Thiểm Hiện; 重击 dịch 'đòn trọng kích'. Chủ site chốt thuật ngữ."
+  },
+  "破妄之刃": {
+    "ten": "Phá Vọng Chi Nhận",
+    "mo_ta": "Duy Nhất. Tăng 60% tốc độ di chuyển, 50% sát thương gây ra chuyển thành sát thương chuẩn. Miễn nhiễm hiệu ứng làm chậm."
+  },
+  "不屈意志": {
+    "ten": "Bất Khuất Ý Chí",
+    "mo_ta": "Duy Nhất. Khi bắt đầu giao chiến và cứ mỗi 3 giây sau đó, nhận số cấp tạm thời bằng số lượng Bất Khuất Ý Chí mà đồng đội trên sân đang mang ×2. Khi tử trận, chia đều 30% cấp của bản thân cho các đồng đội đang mang Bất Khuất Ý Chí.",
+    "ghi_chu": "临时等级 (có biểu tượng đồng hồ cát trước chữ) dịch 'cấp tạm thời'."
+  }
+}

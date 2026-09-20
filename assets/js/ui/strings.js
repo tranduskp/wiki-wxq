@@ -1,0 +1,30 @@
+/** Every user-facing string the UI classes write into the page. HTML holds the static ones. */
+export const STRINGS = {
+  untranslated: 'Chưa Việt hóa',
+  sampleTranslation: 'Bản dịch mẫu',
+  descriptionHeading: 'Mô tả tiếng Việt',
+  descriptionMissing: 'Chưa có bản dịch mô tả. Chữ gốc tiếng Trung xem ngay trên ảnh bài.',
+  versionCaption: 'Bản',
+  imageAlt: (name, variant, total) => `Ảnh lá bài ${name}${total > 1 ? `, bản ${variant + 1}` : ''}`,
+  copied: 'Đã sao chép liên kết',
+  copyFailed: 'Không sao chép được liên kết',
+  summaryAll: (total, groupCount, groupKind) => [String(total), ` bài · ${groupCount} ${groupKind.toLowerCase()}`],
+  summaryQuery: (shown, total, query) => [String(shown), ` trên ${total} bài khớp “${query}”`],
+  emptyTitle: 'Không tìm thấy bài nào',
+  emptyHint: 'Thử gõ ngắn hơn, bỏ dấu tiếng Việt, hoặc tìm bằng tên tiếng Trung.',
+  emptyAction: 'Xóa tìm kiếm',
+  loadFailedTitle: 'Không tải được dữ liệu bài',
+  loadFailedFile: 'Trang đang mở trực tiếp từ file. Hãy chạy serve.bat rồi mở http://localhost:8080.',
+  loadFailedNetwork: 'Kiểm tra kết nối mạng rồi thử lại.',
+  retry: 'Thử lại',
+
+  // Kỳ thủ page
+  playersSection: 'Kỳ thủ',
+  groupLabels: { 技能: 'Kỹ năng', 秘技: 'Bí kỹ', 专属: 'Chuyên thuộc' },
+  commonSource: '初始获得卡牌',
+  cardsHeading: 'Bài của kỳ thủ',
+  cardsEmpty: 'Kỳ thủ này chưa có bài riêng.',
+  skinLabel: 'Trang phục',
+  bannerAlt: (name, skin) => `Ảnh nghệ thuật của ${name}, trang phục ${skin}`,
+  originalSkin: 'Nguyên bản',
+};

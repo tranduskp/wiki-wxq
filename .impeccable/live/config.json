@@ -1,0 +1,7 @@
+{
+  "files": ["index.html", "*/index.html"],
+  "exclude": [".claude/**", ".impeccable/**", "assets/**", "data/**", "scripts/**"],
+  "insertBefore": "</body>",
+  "commentSyntax": "html",
+  "cspChecked": true
+}

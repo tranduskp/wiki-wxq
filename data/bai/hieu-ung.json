@@ -1,0 +1,620 @@
+[
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "吸纳人才",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ca9449c6c41909c985177732df93f691f0942d9c9b3cab3ba8d8b8706a3a0cb3.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "1阶英雄兑换券",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/15e75ea13e3b108fcb870f947c8a5f41cef65629676e37d34db4401675c40b00.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "研读会",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0a84458057542810e54379afe481b0509c3183153368a76bbc8fcac65f9116de.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "高级人才",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4915404a4cbe86e90f1786e5e087f5afb26c3b0cc1ff2be7cc4b7335c4451a11.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "援护战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/17ce20336b35466b7fc336f7dd01922e3868b9222de61838d9c0e45fd4dffa4a.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "古币",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "惊喜补贴",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/528837df1fe9032597f4bb0ef4c91e9bfc5bdc63e56c7a3ecfbaf439bff8703a.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "跳级",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/03d93134ec1539a2cdb915942ac0e99a0c47a391dda123411f9b0a50916e6d20.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "图腾仪式",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0f71f4bff2f95d1f0b9db423412d5051584a8bb92bd510e1f5aa8494a2a836bb.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "2阶英雄",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/66eac4f70736858a6ba5238a64a475339e7f56ea5a4d2cbe8b5077cf0ea92fae.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "古币多多",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/eaa16fe6fa85720dcd1180bb7ad2e4b95d5d2c1db3cd2c658cd332498864fc21.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "弦音",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9db5e5ed15f19a04b39fb432b0fbdae3bb5355d2cc91e24291e93ec671b84e4f.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "2阶英雄兑换券",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/070b76b15b514c09fcfbc2602a8a01201527c18ad5471a34992309a73d91f16d.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "临阵磨枪",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0e8e8543db1071f407a59775b7e76159d842066e316c9c16628a519688934f54.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "唤醒",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5cee3eb5f1621bba630d211fbf8c890d03c525c8a7132b61f4d2a9fe9a1f3880.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "演练战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2bc2259fd840f74260e80a17bf5e5c61cba31fcb27e4c20154a901dabc4f02d2.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "推演战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bd453496a3a29e4407e287ead0aa02c0d2e767bdf7b91a7009a196e57551a09f.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "特训战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6a55a3a7148f999f6986643d13075fb0c4812b38a807406b443618488296ab61.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "招募战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e32d21d34d7255048a4fd807d3df794f7aeac0a24d3235e3c2fc4a1b566a7a88.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "简易协作",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7e135a01bb9acc9cf523c9809d948afccf7483842a35a5e8d2c609750775717e.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "精致古币",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "无阵营征召令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8003b42ec5e2d329bbea864aab5d9557b7299fdb5b2ab0d23691b162c47882da.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "精密协作",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f95cfe298b4b579fad863a68fe687d180b5c08dee705801d757a21b108538414.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "经典研读会",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f35f4dafd87c9099febdcc4f7d03548fa07b3fd46ec5e7c4d09a0f9bf6ee9d0f.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "八方来援",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4cffd7967159a4e7dfc55acfad6e30def0932e5b49683301b3e43600b029ef60.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "3阶英雄兑换券",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/013fcc358656d2e143361349b78a89d2afd7544a3bcf52360915d01127b279a0.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "武装之力",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8c8884f82d944cf8549b9997b57227eb2ad5ca6d073ea893c6da5b112f4a034b.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "遗志",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0fc1d9ff83c5dc67e8271aac189b14d1431ba8530f2d3d5968b1689da802d4de.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "呼朋唤友",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4062b85850f0424aafe71f08af12405351e93e28b3cc44b46873c40c1b93d0a2.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "整备高手",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cb9d60e3472b91c60c4b8bf8bde195705cbbb63247f8c4a40b2b6b0d21ed1261.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "登场人物",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5e0501f9c56a8f8d858e365c810a47bbcbe216cd0aa422c21eab700b23891c80.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "广纳良才",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/de3c9ab07e2542f8a4b736c33b17e6bf33ceb8c0b63123364a47f2d58e464d03.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "大河流域征召令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/47e3420419ae13cd831f9a4d29a5fd1059ef795140d28046fd72a5e08b42d369.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "日落海征召令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7bfdc842faa6d46fc57fb400add3e4106011a13e2b61ca0d1eb1da390f2105ee.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "逐鹿征召令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8ec969b0ea316cf2cefca169f9f67fa252ca73ea0ce2cb2199ad4064c76644cc.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "三分征召令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/65b98d50c2df5a8b1e57045ec5b66799f76a381218e95170e46c15b9fe6d3671.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "河洛征召令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3ccaa340f9852861277ef78a9564f93d6e8b0143b706bfeeaa10a5512fee49a2.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "换帅",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ad4a60813ce928c490bac7c2925c40329f783bd1bc3635a73afb109161270dcd.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "照影",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/acc8b74e6a113b982cff5646b9271f3ebdcff1ea6aa7f6a836c50430dd001c1a.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "助力核心",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b9fd66687122db98a11e7372489a44ba80587dc800ea37a0e43aadb413ed5b63.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "超级补贴",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a9df16b9d2cd1b6298192023e1940fad54cf2784d83c853b3ee467dac1f824e4.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "夺取之术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ef8667a4fb43ba63f3cb9b22911632ebf5cbd326d2bac9762a4f12d99f58ef8a.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "4阶英雄",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d584e72a6d29c8d1e6c056ba8ea610f51341698c689c8631f1148f5a19367357.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "高阶演练战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9c696f5cfc0d7db73d654fc304fe2f929b08a3b1329c2bef6403b479a5794d3c.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "武装重构",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f48a25b58e4e6021972e5724abcaec2d2a50bfa490ac5f8188f3550e4253cb8d.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "阵营祝福",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e7fd62fe9c77132da6af714fe09d780a347391a2068e000bf18bb74b25e04e4a.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "发号施令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2cc25e63a5ebe7257a0383ef1742fc13a6ff4d8aed60a92ed8c189724067e311.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "高阶招募战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0b6f620c07473aa321adf9be2ac9c31cdf673d55d58e95a9c7e5f2439c8a177f.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "高阶特训战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d8f121eb14fe5cb815955d9d1f8a2a79f8ce636c624f623cda392f7520cba277.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "高阶援护战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e40e273b1998e0757cdf7f1285acaf85af032e9e519322a7d29d1f3a89e79435.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "4阶英雄兑换券",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/389302ff201ffcaa227a7d73bbab68a9627adb1712c09dd113f9877b76106395.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "扶倾济弱",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b44139e8592f07939c83d4afc3e3025c2d787d7abe4ae4427b760dec2aba0c56.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "妙音",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4973cb0ea7447b09bbcb11c37fab14e6a6e40a00b1db628d40db4ab59b932816.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "乱世",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1556169df117f852e49b248c94b56455b5eec4855da816f2be8e08cfdc8b5f64.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "战前宣誓",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cb3244f93d4313729d74e22167887cc7880cba87da1c1f4b4179b22cbd7abdc2.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "逍遥自在",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b1af0e3d77ad92246bb5a9d6ccc1281b35e4a3b8a44816ed8a99b5b68b8367e4.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "牺牲品",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b5ceeb7730eb4fb4453867a06d8cd7fa81b2b73efadcf14f3e1981ba230a0912.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "闪现突击者",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d5da596ad4db4053ccb391d3b9f3cd89a217c87c19f4625047c495ece658013b.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "开团号令",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9e30d4b087351065c8715c0f15a61a79ae67e7fb8bd06cb4b3b78996e060d64b.png"
+  },
+  {
+    "ten_khu_vuc": "4阶",
+    "ten_tuong_hoac_the": "远洋宝藏",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fb04345deb664cc16d496546ed179aba524c28f0ffacdb364c3f2547fcaefffa.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1640c60a95499b1bf95232e6188dc9e81b2ce7a29b413fc74e9507e9856e7250.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2b05ed78916e7ba9e9bd488a554e183de2095d91fb6f0b284ce0092108d0ff82.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f73927ff24a36bf7272bb809b8e4034e2a98a26a8fe5c837ec0b0d52d83e78a4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/14604b6d8fe76b6e878442f84668302965eb8e509af2c5d3ccc77fc5148c1b95.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0efab9b29bf6746038c37a2c73d0be61bfd3283508ec849396f6e44bb88c9f4a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "因材施教",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fd7f866dc792f21b45dc2150f54c21dc3bda1da0a678003ad72982454098bbde.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "传承",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/346ca9bb0c4b52a3c8fc1f87b733fabab8d2e7658d1a86583bba3eef18d9a44f.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "高阶推演战术",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b0dd188c63976a932cf1287410cd8c935646dbc74a72152361af8fa22fee96f.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "度命之护",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/34a96eec8fd1cb91d98939c4d6294f55bb85d51c6454d7d703702325796c51e0.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/07face87b8eae7386d4dc656127ae2472566f0ca60ffbc89c60ec7f0f6a42381.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "武装分解",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7c3c8c5b7109c5d1cccff8610065cc9cf726247815f8e89aa3f3fe8a20ff4fa3.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4973cb0ea7447b09bbcb11c37fab14e6a6e40a00b1db628d40db4ab59b932816.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/58370ef5c6975f209560ca18114fcde47ff3c3099d8bb461058ffebd0c6290c8.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "久经沙场",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/68ee8e005377322596331626869df435bf674827cee861e378cc45a79e3692e8.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "机关秘典",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/35fa72ed469586ac14640993783f530b28bdf1eb8eda75394ae386cfd9011352.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/aa78850b7c7295fd95e76471d737a19a0af426ab848940f5a67f3457a8a1b0cc.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/684ba892d26d26429fef2757554d007dec4a730676e62cf4dd8de97d281f4355.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "图腾祝福",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3b428194d7d7c91d0c202a5f558b720c33caa7a54ee4d803e6fb3bde3d00974f.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "珍品宝箱",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/58370ef5c6975f209560ca18114fcde47ff3c3099d8bb461058ffebd0c6290c8.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "移花接木",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/814ec77adb6257fc6e374d2201fb7b5acf23de5c9ba4092013206326cfb2c489.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "5阶英雄",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5508fa14820390f0b8343de33372252394b85ad2d6528a060be72591112461ca.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "5阶英雄兑换券",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/996da28f1d4f1047c79aabd26dae6d4c603203c165871aeea74feb536746700a.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "有福同享",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/aa87a9a8dc2e8ac29986682c06e937918303f32c328d723c35d048228feba233.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "求贤",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0bcec352297b78b712a320be4dab4dc2fca5439fb0f5c859a9c9cc212cf485ad.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "奇谋",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a06f63fe7474ccb144710c98f5728b696e9830910265731170551c7a1a4cb459.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "开局狂飙",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5f25aefe1ae7d1241f63d56bd5b28f9567ff047798acbca8250f2952e87dcd85.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "能量大爆炸",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ded74e13627b320f14e436c7034965b3f207be0691e375ce0c62cbdbfd07d38a.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "集体唤醒",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8ee206050c2698d0916977ef3b6abf1c3ab7f79404cd5b6dee6e0b8f1c671d47.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "全军动员",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ca8945d245b80be15f51d4d5c98cf8d41e4d405b4197546fa869d4085d223651.png"
+  },
+  {
+    "ten_khu_vuc": "5阶",
+    "ten_tuong_hoac_the": "精选武装",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/de5b0e5a9656dc426fd0fa1899008f92bbdd2640719531602e45f2936dc4bcd9.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "众星闪耀",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/85ab69f27b3d9c6fb90ccf31b2bb26cbb10f6097b57f793b8a7e37afc3ed8ab5.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "展翅腾飞",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/07f03ebf0b01df2d7ca6a7c3ee3e0c8d1c7e0e3eb8ff898aed6b7311b583e313.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "军械库",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c22001f0f34cccd6bd3c097f68aeb8cfbb1307c2bb0c160bbcc75fde40836b59.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "众星拱月",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f6c433da24b62aea2c99f99b3903725bc16be7d6ea4d8fdf63d04fb4765d28b1.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "神兵天降",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a31eaacd14cf9e392012a695469f98882fde2dba2f4673a4dc19823750464a89.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/996da28f1d4f1047c79aabd26dae6d4c603203c165871aeea74feb536746700a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "呼风唤雨",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7c6c90837fd18097c348cfa4df1b5db515ea6b537e140f4e6766f0a21959a131.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "破境之证",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d2c9e92238dedd8ec9b83a0c49c1214cfaa04a66af55446d00960c52830b073f.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "天籁琴音",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1edc5cee2696dadb0eda1936e93c3000b137400f351a65fccc18e16a57cb30ed.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4973cb0ea7447b09bbcb11c37fab14e6a6e40a00b1db628d40db4ab59b932816.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "绝处逢生",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4e5960d25870842c9d1fbeb2aff0059a473fd4fc6b36dd6d285f720e5111e7b4.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "化铁为金",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b65f6233e36b8a76fec89bb567ae8198064388f993dbdb2e1962ef09f9ebab2e.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "超级复印机",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f747a6f73fc5c96b879d8ef41e844f2baa25c7401cf26e617dd646c86d346af3.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "一线生机",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bbc6b01d88fb67771af5bf8aabeb45f6585273c913b5995d36efb7bbb125daed.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1315559fc6d464861e32b825726a5cb0efae2555600929a68dd256e2dbd0b15f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "能量超新星",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/58f0857012962ca0f2995ffb17ac93396c9ad2c5091e4777bc9cc774540e1651.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "扶摇直上",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9b79a614db46ca576bd8eb8904c2e03d9facf71f2a80bbd940f58bb16834626f.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "狂飙三倍速",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/efc380cbc8e6efb5788f91237126e16050592eb93fdae840d3776549a1d255be.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5f25aefe1ae7d1241f63d56bd5b28f9567ff047798acbca8250f2952e87dcd85.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "四人同行",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/147a3ae9a95bf180510a0fc55ce2aa2dbe563f1f5a2953fb72bcc518b8661eb5.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "新生力量",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/006d7b8b057c2c326129430fdfd470d7d63c25a6561faa6ee3cfa2c36cecacfa.png"
+  },
+  {
+    "ten_khu_vuc": "6阶",
+    "ten_tuong_hoac_the": "沧海拾遗",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bdaaa6c4d3483abf55ec7b0ea191c6198320c05a99413bbbf99952324aecccde.png"
+  }
+]

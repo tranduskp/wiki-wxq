@@ -1,0 +1,832 @@
+[
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "干将莫邪",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b6359f8eb67e595d2dcf5de665286ff043a2af745a22a6d0a1d209c13430a3a2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/51d6fda8c3969ed977bd0814bf636e725048a00dd7ed80c1b2835a4b82055e1c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0ef67dc6cbcfa63c5f4651f622a635e434aa35f7922278cc7c9f72f4129126dc.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "项羽",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c9af6b4440e456badb7d6e37f6d10fecd30d14f8d7cb761644feb640c9b0c40a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/00a57ad162263c1f27329e254432215b8bea4ba760833b38da1b0bfc596170fc.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "鬼谷子",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/32bdc0abdca908ce9b472818cb2b3ce014d5330ba52ac18257da174cc8152c5f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/23dc3f783938e2a43de62ceca193a6535c16ad4e40b00f4ce6bc1a07dbd34eec.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/67280a7a50748a019424c59d57a9c2f814049430654e111accb09135a177970b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c2056dd572c39001152abc752d6b5c87ea6dc9c1c169f6bf64154459e5e94215.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "虞姬",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b7c6cbe94ce5efa235524ccd559c5e163b4f7a8e0ebca1752051590333045806.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/980e8d40c4095d2b470bc4902c79ba4042404397aff40e563c7f3b75491b5cdb.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "云中君",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/baed85268e688539790ada518c43314545914f68a8b676fe388b2a74be5430d1.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4fb46ed3690abbecf4a08950acafa3c623b75b85225bc5e51d184b895b69efb2.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "张良",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/50ae42f31f610c5b132e5da40d77bcdb2f4b0e4f7da691f99a144e6b7e2c69f2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/00e39d9f7d4393c9836dab243cb177c4bc5166ca9990fbadc2ce5c4a8de6b871.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "少司缘",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7d28bd4043b3a8b0e316ff917338ecb3a27d2da95496a72861c6d4c8b105c37d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5223c71b9225bddc47cc0091d70bcc7d20da7360e6454509de4cadfd70fe443f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fe297ad5fabfeeb5a29dfb2d418f5480df1af2ac4cd12bd8f6a2498a75c99af7.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "瑶",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d72b3093fa254ca194e9bd995a4ff29814bebdfea1555184262b0d5de9d467b7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/715b73552c893a7842500418663d6597116a01d5efac54c4ca10b050d996119b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "大司命",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c2bd4a2d7ee8caf0f51ced5e31ca7a3d3dbd3b626d91f4f5633b08ec19900476.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6e0aaff516c82ee356196fef51bb0903f3f33b2e17b3d344e2c343bed3e424f4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cc8e54866b60273279b782afdb550c2348d5bc42919c3506d2ee55d3dd95567a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a12b67aef4cf597fc8848213d4403bf48791336bd9e6f41910b83ee617d78ba2.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "刘邦",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b9c10f5268e3969d6c4b13bf09ab84120df16b4fdbfd8d64f28bb26a1f7063b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ad96cfdfbd78f9fad2eeb8ede4bee95b9accbf3cc520634d3b5e1c3acf7d4b18.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "韩信",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/66749d2e40a937cf310c019fd51dcd42fe805415cb1a30aa04af9c4e3d6def12.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b4510448f2233f754e4190b9b8ffa7241ed0b336a8320b6ce2c76a61d9264cba.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "东皇太一",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3adfbff152539e43217b755b4ad225a63c1f46e81d3b5ceec36dbd73f2670ae0.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1d0d0e5eac92983bf0522d45426d9fd1e01908b8c05fa0bd38c27000afc68a53.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "大河流域",
+    "ten_tuong_hoac_the": "敖隐",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4718e64dca8de60c9d0281dd2571ee0d752223001bc9a8e35a85936a4ea86d8f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/991172a24e3b2461c03bf4ed3b8071dc921d0bc842d58a346feac1f2c5fb4ca5.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "曜",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c2c96e7d449937d63b82cf934652b1d34e118f521b54c39b8bfbed81a68ea930.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9fc994c1eaa834f6624dc200ddf741e0b29ac413006d18bb94b2efb9c4835b03.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "孙膑",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/be9347f2c0ce8a59109c6edf43be40272a53f4b6f797d158220f16c95dac71bf.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ef7fdb12c9867ea756256e351beb515f21c2b41daf46989f9009129cabbfcd89.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "芈月",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6948c2e6e1a7c8766215d3c452e1e407022c72f5bf19651a5ebd6e91e22a31c2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/44288d8cc38cbbc3b172a94356e99cf27645e420eb18072ae2501c905cdd3443.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "墨子",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4751dfecdb4d2d101c1c5efed6b797669010f5233776a57c4c284bfcc1b7d182.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/43b73225ff0749d920acce94b923fc38f9ed62bfcba14ff87e6961d48f2439f1.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "廉颇",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b468408f57cdbb61158c6e00addb6da9bc4e6db077d8f8240fff3d7eb14e28c1.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/17ce20336b35466b7fc336f7dd01922e3868b9222de61838d9c0e45fd4dffa4a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e32d21d34d7255048a4fd807d3df794f7aeac0a24d3235e3c2fc4a1b566a7a88.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2bc2259fd840f74260e80a17bf5e5c61cba31fcb27e4c20154a901dabc4f02d2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bd453496a3a29e4407e287ead0aa02c0d2e767bdf7b91a7009a196e57551a09f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6a55a3a7148f999f6986643d13075fb0c4812b38a807406b443618488296ab61.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f077d34599639003f95400fcb5feed1beb69451e8e31f2b84e0df0aa51d9af8c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9c696f5cfc0d7db73d654fc304fe2f929b08a3b1329c2bef6403b479a5794d3c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0b6f620c07473aa321adf9be2ac9c31cdf673d55d58e95a9c7e5f2439c8a177f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d8f121eb14fe5cb815955d9d1f8a2a79f8ce636c624f623cda392f7520cba277.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e40e273b1998e0757cdf7f1285acaf85af032e9e519322a7d29d1f3a89e79435.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b0dd188c63976a932cf1287410cd8c935646dbc74a72152361af8fa22fee96f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "蒙恬",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1786e59815900d6b1c24211bcb5231b8d3dd77d8d576cd5e484c75cf6f853597.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4e980f381c05b9b2ad1a7bde180f405108c906a7b4c9a714890e546064a3012a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/eb7a71cbe4044bd8306a025df3d10b88437958da2ab6c540f2a343039340a7c4.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "白起",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/dc784ff2c87ba58b6b7895e1f319e5ae63a73bf895bcbdfffbb390e2a41f87f9.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/17ce20336b35466b7fc336f7dd01922e3868b9222de61838d9c0e45fd4dffa4a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/483af4563828f0aa8e1aaf03362864ceea0b66266f983396b4ab8b8847ac5e24.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e40e273b1998e0757cdf7f1285acaf85af032e9e519322a7d29d1f3a89e79435.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "老夫子",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d6838038077fdc4759af8366d9740c323c5e91dacd45901ef6afdf15788cc9be.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e32d21d34d7255048a4fd807d3df794f7aeac0a24d3235e3c2fc4a1b566a7a88.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1559711815cb26fe3cfbf9183a60d971dcb45beb9fd7eaf08fe150338d8a0d44.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0b6f620c07473aa321adf9be2ac9c31cdf673d55d58e95a9c7e5f2439c8a177f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "西施",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2d8c7c2aca129daff59d0d839565b3deb8f2e73526de17d011eb0f6d1a05dab9.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bd453496a3a29e4407e287ead0aa02c0d2e767bdf7b91a7009a196e57551a09f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5f1952bb2de981698cbac1346e3d0a1184b538c6bfdcabed135f5b4402def2eb.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b0dd188c63976a932cf1287410cd8c935646dbc74a72152361af8fa22fee96f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "镜",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bcc3bda5a85766f311fd30e49ee53515fb51368b16b9cefb96ff5765bd36e27b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3f8ece2261c87e43895756726a3c1eaaaf87cf6c2adfd2e9e9dd3eaebd7e44e7.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "扁鹊",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1d6eea2a45643fd5f503ed52b5d2cdac6d19c0ae21aec3df2a732705a654bf91.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cd3f1ca43e713c998d8a5820d0a03328f98e06afb553b2db6b2004d153a1a449.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "嬴政",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/aa6d8b834296f845effc3833907a8a1bcde1f5abf816fadf37dcba87c15cb164.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/17ce20336b35466b7fc336f7dd01922e3868b9222de61838d9c0e45fd4dffa4a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e32d21d34d7255048a4fd807d3df794f7aeac0a24d3235e3c2fc4a1b566a7a88.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2bc2259fd840f74260e80a17bf5e5c61cba31fcb27e4c20154a901dabc4f02d2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bd453496a3a29e4407e287ead0aa02c0d2e767bdf7b91a7009a196e57551a09f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6a55a3a7148f999f6986643d13075fb0c4812b38a807406b443618488296ab61.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/41e1278c1589f5c2879254697bab40da8761665b9791649712f6f5a10b43283c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9c696f5cfc0d7db73d654fc304fe2f929b08a3b1329c2bef6403b479a5794d3c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0b6f620c07473aa321adf9be2ac9c31cdf673d55d58e95a9c7e5f2439c8a177f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d8f121eb14fe5cb815955d9d1f8a2a79f8ce636c624f623cda392f7520cba277.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e40e273b1998e0757cdf7f1285acaf85af032e9e519322a7d29d1f3a89e79435.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b0dd188c63976a932cf1287410cd8c935646dbc74a72152361af8fa22fee96f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "庄周",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/507c2e56921ec80e4b4a0378deeba343154d043a1993c34eb89493a80e2c17a7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e32d21d34d7255048a4fd807d3df794f7aeac0a24d3235e3c2fc4a1b566a7a88.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/139d2ba6420f8eb4614d0f0faa8131a8688cd30f91569087ca04769d688d3c22.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0b6f620c07473aa321adf9be2ac9c31cdf673d55d58e95a9c7e5f2439c8a177f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "蒙犽",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7b0bb4cb7377a5f0f7bf9042a013335cfc3765a8e78f00470afd54a9634b3898.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6a55a3a7148f999f6986643d13075fb0c4812b38a807406b443618488296ab61.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1c8de0eb5ee6ff0cc84d728f852af21532d176a3c5ac3170e8f2156b959d2a1d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d8f121eb14fe5cb815955d9d1f8a2a79f8ce636c624f623cda392f7520cba277.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "鲁班大师",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3d48c08f5eb1c68cf9421752174ddb35fedd0bad0f6357c04fb9a272e3e71312.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c547fd792dd29a5c874246298bdbb7c5adb5237d76ad8e20e2941a241943d9f0.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5ba50ac181be0439f029f8e5d4c464901733226982ec65d169c2b6729694cbda.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "逐鹿",
+    "ten_tuong_hoac_the": "鲁班七号",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d13ca04e253f37468e44cc53c1bb26c93aecdd766d431b2b24d6802efc5aa0f5.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/17ce20336b35466b7fc336f7dd01922e3868b9222de61838d9c0e45fd4dffa4a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e32d21d34d7255048a4fd807d3df794f7aeac0a24d3235e3c2fc4a1b566a7a88.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2bc2259fd840f74260e80a17bf5e5c61cba31fcb27e4c20154a901dabc4f02d2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bd453496a3a29e4407e287ead0aa02c0d2e767bdf7b91a7009a196e57551a09f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6a55a3a7148f999f6986643d13075fb0c4812b38a807406b443618488296ab61.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cc86287d1a81244fbd7d87f17d6b8f4dff12fc82036fe29b1ee60fd4882c4af8.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9c696f5cfc0d7db73d654fc304fe2f929b08a3b1329c2bef6403b479a5794d3c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0b6f620c07473aa321adf9be2ac9c31cdf673d55d58e95a9c7e5f2439c8a177f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d8f121eb14fe5cb815955d9d1f8a2a79f8ce636c624f623cda392f7520cba277.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e40e273b1998e0757cdf7f1285acaf85af032e9e519322a7d29d1f3a89e79435.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b0dd188c63976a932cf1287410cd8c935646dbc74a72152361af8fa22fee96f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "孙尚香",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4247eca93d2ce827d1d6a10c81fd34207ca6a63a7efbce1103897012a4bc9e3c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c914009e4642d74e68b40845f2b2f9378cab5ccafa3679ff753f17a39cd2915f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "曹操",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4d7481b3018b7c213a557987238905fce25e399d2033cee6bbd2db9b001f9392.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/45e137661f09ed20bb0ac1f0c06cbc6606def1997caed91befccd7f64d335c19.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "赵云",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0315e5a968b820dcd64bdaab308596b85dd9c6f7a1c9fba8b36677f71b7284b7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/df0ea5de108e1e866f064dd90e6dca274cee843a7c034fb4d8e0c52d9c20e065.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "大乔",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/60d8edc134560b74885f0f4a1ec18c7e604163cf1f21cf588f0081e36e766b1d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7d0e1c22ea9674ee7a93760eb4707705f9430c615ea367b727961f2e492a68fc.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "蔡文姬",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4b5d1392e1d44dde507946393731cbc68a21a105ceba60f27beb3a7751c54f5e.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8e49a7a95369073c9c058287f65fa44477937150c35c032ff03d636d31843179.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "马超",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0be3d8b924abcd6e8e26f896f3e11a28ba5cf256c660c9493b6fb0d26f8e70f4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c98fe392f1b7ee14af2fba062cbe525e6a51d3b519586ce89818781b05798cbe.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "刘禅",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fe5144aaac580bdf7a1afce2d69656a91411477b5e5b9f802f6ba98eb5d51ec9.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2600ffbf9487b3c7ec38979005095eaa1b48e84cec77b5cc9deeef7f579bea3c.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "貂蝉",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1d7ef84a87af36485399fa8d07423bc0c7cced605bc5f97b333e093ca9a73ea6.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e5f620410a2b9156351286994ba7a0d1bfc48548b15f9ff2222432d54dc4a232.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "甄姬",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/29a6307acad4d2593970605542ac5680461292436333f7cd54cf97614de76b26.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5392f17caab6769d2ee852993c516d1a3d6c2c9a0cb6c127bcb5526fe9485f60.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "小乔",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d07ac335c4628ead1f58a1641fcb7400af8e2c2104ee720566416385caea563c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2d5bb9121c0fc9814ee777d54d5a8489ce25a30610738d6de15397d1130072e4.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "诸葛亮",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/545a11ee6dfda6c108293598d0d3a090c0876bbb03321878c45c7018c845c32f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5f0f6dd05b79e0219aca22b6d966b836bce3de04267f294c94c47e0b35ef4cdc.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "吕布",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/19a4c709ad781946d00aa38f9770d4a8853919fe5558b84b80caa29decc036a0.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0e7f007a58998f912ae8419702b3d5d9f4e86fcba74bf1d1b000d277ca30e8ed.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "三分之地",
+    "ten_tuong_hoac_the": "周瑜",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3ff6bf8dad5b0803c044a710578da8823a300fa0e0f202bd4e0deefae4199a26.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f5d5c9380fc05f4eac8ebe2e041eafc2469e002203135aa00f0728311c108753.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "苏烈",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/103021d19aa06dc7a04ef5cecea30ad25f4e72f50f2c41d3aab2976b3c70956b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/facae22da204985c3d5852630532e81b445554ee989f74b1be91e2e661a7bda4.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "李元芳",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a427e7998097e4598c6e673295c85ef9b7b9eadeb202eb03f2de3f8ac0bfa059.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ad91d39322c9a4e1d2b628a0ce5d380588d80d31e1966ee560b970e848b4a14a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "沈梦溪",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6ad3672c08bb504022af4eb54f16455254ae0b5d1a9bdb7ba8588829a3b339c2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ed96f6f526ff368234efb107dfe3d3966a8546718d357f157a3a07730733ad44.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "盾山",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/731f5a630c17f7a2507d4b1d416cca634f0a88ba1288cc4e7e71dd363d158506.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/86873f43b9a5451507b8f4a202b69ae304c17f0ed09a8f408f79322b2e4406b7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "百里守约",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0fb632201e671af2c76ba03efd65f4db6c3b16256fb358a79d410be5b7a53dc8.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/aa61fa8202425e2867626a643b0dfd8b1bda3492456d5082934454533b498d11.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "百里玄策",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/03baaba82ebce1c95aba2e8c30ba8de7180f57ac771ae43ec8d9e45f42addfaf.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3babbf82dc475659c4b23c5640b821cbe02ba80177180b304372fce61799d4ab.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "铠",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d6c0732b6d141d454e8806f0e86341397e62754e971a767d00be7c8acc58a1b4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fe59015ca36343685a6c0886c84e54565c38686f78ddd221ad326ff50b928311.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "程咬金",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f3a7db5e4dd19d0893ca23f518b12cdba3e40d9ce284aa707630990af032fc4c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/017d31afb18b190eb9438e13d67a0d54dcfe99d3c46d4029fcad9ebdb2fed792.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "狄仁杰",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/64cb293a1ddd26009eae1d9b89611d4c6d2929b062737974c30cb33be680f383.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ca15e2d935867a07a3a831e5e18cfa4dde1a91db6f52f9df8986ccd60415bafc.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "钟馗",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e4f55deae352e80d1e337190f16879c4951e94127e1ffdcede6026c486e85d19.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ece4aefda3f3448d6accc850659971fbe9d09644b81a0535892d9ede69aa7290.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "上官婉儿",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/dc2c6e78d7e3072a190fdd34e0d54a7f06471fe298913348d7e5be7064a84ad8.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d162704c373f2b16de9a046c6a5c22a8b8ff29fcfabf21df3cf8553ed5db6007.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "李信",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2024da73569a0dcb5982216cc267e6430ccbab1e441c448e87f68804f339d019.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1958d7a07a937c0912f0efc855b19ba41c8bc017887733511b99533ff0e4f0e0.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "李白",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7b645dc0e9f36492d51645eb66f10d489dcaa5c53a4f08860bd363806dec61af.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9a1f29c58642f6bdfd9775f4562ba01fb65e90c2978369c729300b4e8c3ef06b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "花木兰",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/095affb294f71086f819c41d78519637a1a7ffa014b24347b8d9bebb64d410db.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/45fe6c48db3541c13db79363e19bc09799a5518f8ed2ed2884770a811e91eeee.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "司空震",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a1c573c749dee8abf2a34c0c09ac8bd777c7c293838c1ce1fdc82d48a6d9c7be.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/224c1603baa2c2a8073b49c3179ae2c9fc8a74882f027b97027fa84c4e597aed.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "河洛",
+    "ten_tuong_hoac_the": "武则天",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ebb72366bef180d3ceb74e57e6fb81647afe41f00a171468af945af3c8a378a6.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/52a612aca15f62a1fd4f015bf4607b2e4dd97c27db6b778387cc9b11f7eb86c2.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "狂铁",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/71f1bf922835fa6eb07477b8595f2b8c0e2fef9d52bac29140ae0927f8240760.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/43bbc102e63f3ca7d0928f2edb19259b93b6025bdbdc42b79989bda755776577.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "亚连",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f0525afddde114956ee90dcaaba8817b539fc3d3c40cad486bdf8109a8d229c2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/17cd3825c7c06cf715bb3cb961321439237d40035ca01bc03a7f54c851c87152.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "米莱狄",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ec44d4959e81ff5b1438986b4ba00850668c660abd5495cf1289f09ec993e3b5.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1341341b133ea3dd8d776ca22154fd9c64630ed38ca1c66ad3aaa3ee66b32cf6.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "马可波罗",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/13156fdd1ad117805d1c08cd4d959ced506d5ecc675069bad3224b924c87feca.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/76878876042d455d1e21bd541565b1caf4c75e2a49bd57c669c6a5f5db6553f0.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "姬小满",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3e6d91d89dcc4a5aafa9da2bc64ab7ba6b86a1309d9a95db05e7a0215086fb8e.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1dcf2c827856a2e3d04178a0615a871a423a18cb45e3e9d2967b1d8cbab9cb2c.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "亚瑟",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/db003fffd9ac7067e8db45c4d10c7dc26567b0f48822d4813922f86f932d0b7d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c2f3f26b7e936258f2979e91784d432213f63676a7427d6d9cdd8a459371f8d5.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "安琪拉",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1824897693f0644b4c7a1b9531400d5e365ff387a01de06886de392372941638.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1c29466b3be7538b44b2a264afe71bd35f8e0e9746dc57fb3c37523d349cc723.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "朵莉亚",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/da48061795a348fdf77f7d64fdc5b13bcd98d7fa28628ca0a866f978444bd769.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e1edb30eabbc10b2980ce31fc6c65cf54d5efefd28825b619880eb3b1a1266eb.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "莱西奥",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7e91f0afb351f2f5936418f6026e1a42c0225af8f680ceb4152ff28e4a2fa3be.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8ef9cee3fd7af2e4db9be3775b7202ea3dfceb545991dff240e36d9a5a095414.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "艾琳",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9fc3a6c43ec97d8573b4ac8573fee4905a1496c67baf700d3314f30e8527e7b1.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a62b9f96530cb632bcc1ab2fda60e95f0eb6b908b70687b015d1174be29a7f48.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "雅典娜",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f2e92396c04711d4bb6046d0d56828950a85241bb6a3c9fa8b8fe2d4ed315b14.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/31d34b7ae2e79ddcdbdc1ddf98c986b3bea0777bb7b34840c8cd591e3879aa9e.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "海诺",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ff28bd38fa4889b7383fe109318d55971a59a14043549ca0621fc981eb106752.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/80f989033863232ef98a09b05045e3b42cca9b94385a089dc38e84e7d1bd7a0a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "日落海",
+    "ten_tuong_hoac_the": "露娜",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/999051775d6decc1f99b9823895013aee3f6fbf21d9757dc5d3bcb0486af786f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ff30de8b5d4d03a04cccd5f8994a618a283742ce7dec5c2d68c0b65c7fad3f2a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "弈星",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1a4a4756da43eea86e00ea802b00af4fe41f38cde99a98df304ec4a0266e8d58.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/220ce37ca6605fa8700b4dd66a5568c7dcdf376a7528fd5485e581eb3485e513.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "牛魔",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/1.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7e13a8094fdadaa12ca69242b6ad7cb151b97c5499e8610c82f1941408861d0e.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/41e3ff7c5ec27836bf05325bf8c59a2a1895b41d226b54bab6fa7fd79b7686be.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "梦奇",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4700079ceed77406baaeb67eef21c3e321f3167f7242f454d1cd52a2699cee8c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c1dcf73125683859dabfe77f463199f8814cbaa6b71cdd5b52e448945b36c571.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "公孙离",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fb2bf850335afe7b3fb2e787d9f5a9d63066ed8df0dfcb96525f1cefffa04d2d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4ea74e59a656519f9f7ba442a16b51cc40f11814a288e0f455e56a818bce6697.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "苍",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ea9700b226b62d3aaa574cbd56e53d2e7fb4b382e58698e676e9f432a635e0d0.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/563bca013f5bba8abfcffb25ae9fbe38ef80e96c5eb648a22420c26d068f5fee.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "明世隐",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ab8bbb427a83fe032979c124286847989e4866ffdf54eabb438abc17040833d2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/30b2182d48881d69d45b7d0bbba3f914e13877c81389925752307bc5af78cb67.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "阿轲",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4eeedc9e2b9d1728c12dc7bc6af4e1a8de2a31d48db33c65a2fc64aa5630fe73.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c117aa97f258f0c17edbb5369e810db3c1e32c50db274481ba154d21965f7aa7.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "裴擒虎",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/aa2d61f499d89001f7e27762d555894f7aafcea0a09cc68a4ceb823291a0ea5a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c62eb2856b3788640e2072c1ebebd7fbb49a59bb6ebfa4af81b571689b6384f8.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "猪八戒",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/930708500c7a8726e1f6d0500c3f6f94acc154add14a7b4594331f4fa3818873.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/17cdb9c32c1c2835c55dc1c98b3ec62ebcc3ef18b392ffbc29904bdea459db19.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "太乙真人",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a8309ec364ad4681309376847d33785771924c0792079daf279ac5ece4279fe1.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/14d851b93b10953e77aafaa4cbc4c4a934c971c05ff9217f1a40b889dad97d65.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "孙悟空",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/4.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3c3054e1a0e5bb52111df9e351f6daf54d45b5e4b7b5e0aaafebf7f44d6330eb.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a41de6ff645aacf69d4f81618a088b7edb6426e3b39bd8e0e4711ff9979ac73c.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "姜子牙",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c9384b4ab62704fb9ec40390d8391e9b7590c04e6f4b0354a228c59eab8b1e8b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4848ff058060d728c78f66b0de4858809f83513f70dd6c39e4e1258f841a26f9.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "海月",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7047c9bbbb9bf6e25317f871f8bb82fcc6e45285244391fa6db8dd7a107278a8.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/596dbded7458760308a14a21f1f94b29ac1bdd754296d5f7d37ba0f3c7d392f3.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "无阵营",
+    "ten_tuong_hoac_the": "杨玉环",
+    "anh_icon": "https://game.gtimg.cn/images/osgame/cp/a20260707sfgw/qualityIcon/5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7083ee31158950678acd6f1e35f7a2321b7e9552aa1b917ae4cd9f9f41fc871a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9db5e5ed15f19a04b39fb432b0fbdae3bb5355d2cc91e24291e93ec671b84e4f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/47057ba0d0f80320302f4e766bcbd687abf76f0129c8de239fc487906e2608ae.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4973cb0ea7447b09bbcb11c37fab14e6a6e40a00b1db628d40db4ab59b932816.png"
+    ]
+  }
+]

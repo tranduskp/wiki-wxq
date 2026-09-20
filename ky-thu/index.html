@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Kỳ thủ · Vương Giả Vạn Tượng Kỳ Quán</title>
+  <meta name="description" content="Các kỳ thủ của 王者万象棋: kỹ năng, bí kỹ, bài riêng và trang phục, có tên và mô tả tiếng Việt.">
+  <meta name="theme-color" content="#141b3d">
+  <link rel="icon" href="../assets/img/favicon-64.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Be+Vietnam+Pro:wght@400;500;600;700&family=Chakra+Petch:wght@500;600;700&family=Lobster&display=swap">
+  <link rel="stylesheet" href="../assets/css/tokens.css">
+  <link rel="stylesheet" href="../assets/css/base.css">
+  <link rel="stylesheet" href="../assets/css/codex.css">
+  <link rel="stylesheet" href="../assets/vendor/swiper/swiper-bundle.min.css">
+  <link rel="stylesheet" href="../assets/css/kythu.css">
+</head>
+<body>
+  <a class="skip" href="#ho-so">Bỏ qua tới hồ sơ kỳ thủ</a>
+
+  <header class="topbar">
+    <a class="brand" href="../" aria-label="Vương Giả Vạn Tượng Kỳ Quán, trang tra cứu">
+      <img class="brand-mark" src="../assets/img/mark-192.webp" alt="" width="44" height="44">
+      <span class="brand-name"><span class="b1">Vương Giả</span><span class="b2">Vạn Tượng Kỳ Quán</span></span>
+    </a>
+    <nav class="mainnav" aria-label="Các trang chính">
+      <a href="../">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/></svg>
+        <span class="nav-text"><span class="cap" aria-hidden="true">Compendium</span><span class="lab">Tra cứu</span></span>
+      </a>
+      <a href="./" aria-current="page">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.5" r="3.6"/><path d="M5 20c.9-3.9 3.7-6 7-6s6.1 2.1 7 6"/></svg>
+        <span class="nav-text"><span class="cap" aria-hidden="true">Players</span><span class="lab">Kỳ thủ</span></span>
+      </a>
+      <a href="../doi-hinh/">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M5 12h10M5 17h6"/></svg>
+        <span class="nav-text"><span class="cap" aria-hidden="true">Lineup</span><span class="lab">Đội hình</span></span>
+      </a>
+      <a href="../xep-doi-hinh/">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M12 8.5v7M8.5 12h7"/></svg>
+        <span class="nav-text"><span class="cap" aria-hidden="true">Builder</span><span class="lab">Xếp đội hình</span></span>
+      </a>
+      <a href="../cap-nhat/">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 4h8l3.5 3.5V20h-11.5z"/><path d="M9.5 11h5M9.5 15h5"/></svg>
+        <span class="nav-text"><span class="cap" aria-hidden="true">News</span><span class="lab">Cập nhật</span></span>
+      </a>
+    </nav>
+  </header>
+
+  <div class="toolbar players-toolbar">
+    <h1 class="page-title"><span class="t1">Kỳ thủ</span><span class="t2">nhân vật</span></h1>
+  </div>
+
+  <main class="players" id="ho-so" tabindex="-1">
+    <p class="status" id="trang-thai" role="status" aria-live="polite">Đang tải danh sách kỳ thủ…</p>
+    <nav class="roster" aria-label="Chọn kỳ thủ">
+      <button class="roster-nav" id="ky-thu-truoc" type="button" aria-label="Các kỳ thủ trước">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m14.5 6-6 6 6 6"/></svg>
+      </button>
+      <div class="swiper roster-swiper" id="ky-thu"><div class="swiper-wrapper"></div></div>
+      <button class="roster-nav" id="ky-thu-sau" type="button" aria-label="Các kỳ thủ sau">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9.5 6 6 6-6 6"/></svg>
+      </button>
+    </nav>
+
+    <article class="profile" aria-labelledby="ten">
+      <header class="banner">
+        <img class="banner-img" id="anh-bia" alt="" decoding="async">
+        <span class="banner-ghost" id="ten-en" aria-hidden="true"></span>
+        <div class="banner-text">
+          <h2 class="name" id="ten"></h2>
+          <p class="name-zh" id="ten-zh" lang="zh-Hans" hidden></p>
+          <blockquote class="quote">
+            <p id="cau-noi"></p>
+            <p class="quote-zh" id="cau-noi-zh" lang="zh-Hans" hidden></p>
+          </blockquote>
+        </div>
+        <div class="banner-skins">
+          <p class="skin-name" id="ten-trang-phuc" hidden></p>
+          <div class="skins" id="trang-phuc" role="group" aria-label="Trang phục" hidden></div>
+        </div>
+      </header>
+
+      <div class="profile-body">
+        <section class="panel" aria-labelledby="tieu-de-nang-luc">
+          <h3 class="panel-title" id="tieu-de-nang-luc">Năng lực</h3>
+          <div id="nang-luc"></div>
+        </section>
+        <section class="panel" aria-labelledby="tieu-de-bai">
+          <h3 class="panel-title" id="tieu-de-bai">Bài của kỳ thủ</h3>
+          <div class="card-detail" id="chi-tiet-bai" aria-live="polite" hidden></div>
+          <div class="grid card-grid" id="bai-rieng"></div>
+        </section>
+      </div>
+    </article>
+
+    <p class="legal">Trang cộng đồng, chưa chính thức. Hình ảnh và nội dung game thuộc Tencent. Logo: @finnducway. [Chờ chủ site xác nhận lời ghi công và điều khoản.]</p>
+  </main>
+
+  <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script type="module" src="../assets/js/ky-thu-main.js"></script>
+</body>
+</html>

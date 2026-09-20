@@ -1,0 +1,68 @@
+/* Design tokens: a periwinkle dusk seen through navy glass, one periwinkle accent, logo colors kept for the brand. */
+:root {
+  color-scheme: dark;
+
+  /* the dusk sky, deep navy to pale periwinkle (used as background layers) */
+  --sky-0: #161e56;
+  --sky-1: #34438a;
+  --sky-2: #3d4d97;
+  --sky-3: #6274bb;
+  --sky-4: #98a9e2;
+  --sky-5: #d6e2ff;
+  --ground: #141b3d; /* solid fallback behind the sky */
+
+  /* glass panels laid over the sky */
+  --glass: rgb(17 24 62 / 0.45);
+  /* work surfaces let the dusk show through; they darken toward the bottom where the sky is brightest */
+  --glass-list: linear-gradient(180deg, rgb(17 24 62 / 0.34), rgb(17 24 62 / 0.58));
+  --glass-text: linear-gradient(180deg, rgb(17 24 62 / 0.42), rgb(17 24 62 / 0.62));
+  --glass-strong: rgb(15 21 56 / 0.9);
+  --glass-soft: rgb(255 255 255 / 0.08);
+  --glass-line: rgb(170 188 255 / 0.28);
+  --glass-line-strong: rgb(200 214 255 / 0.55);
+
+  /* text; every tone leans blue, none is gray */
+  --text: #f5f7ff;
+  --text-2: #dfe3f2;
+  --text-3: #cdd5f0;
+
+  /* the single interface accent: the official page's periwinkle */
+  --accent-hi: #dfe8ff;
+  --accent: #99b4fe;
+  --accent-lo: #6f8cf0;
+  --accent-deep: #34478f;
+  --accent-grad: linear-gradient(150deg, #f4f7ff 0%, #99b4fe 46%, #6f8cf0 100%);
+  --accent-wash: rgb(153 180 254 / 0.18);
+
+  /* the logo's own colors: brand badge and script flourish only */
+  --brand-crimson: #8b1229;
+  --brand-cream: #f4e9d6;
+  --brand-pink: #f08fb0;
+
+  /* type */
+  --font-ui: "Be Vietnam Pro", system-ui, "Segoe UI", sans-serif;
+  --font-display: "Anton", "Be Vietnam Pro", "Arial Narrow", sans-serif;
+  --font-script: "Lobster", "Brush Script MT", cursive;
+  --font-tech: "Chakra Petch", "Be Vietnam Pro", system-ui, sans-serif;
+  --font-cjk: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", sans-serif;
+
+  --fs-cap: 0.625rem;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.8125rem;
+  --fs-md: 0.9375rem;
+  --fs-lg: 1.125rem;
+  --fs-xl: 1.375rem;
+
+  /* shape and space */
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 18px;
+  --pad: 28px;
+  --header-h: 72px;
+  --rail-w: 188px;
+  --detail-w: 380px;
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --t-fast: 150ms;
+  --t-mid: 240ms;
+}

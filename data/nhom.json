@@ -1,0 +1,57 @@
+{
+  "anh-hung": {
+    "ten": "Anh Hùng",
+    "loaiNhom": "Khu vực",
+    "nhom": {
+      "大河流域": "Đại Hà Lưu Vực",
+      "逐鹿": "Trục Lộc",
+      "三分之地": "Tam Phân Chi Địa",
+      "河洛": "Hà Lạc",
+      "日落海": "Nhật Lạc Hải",
+      "无阵营": "Vô Trận Doanh"
+    },
+    "anhDaiDien": "card",
+    "bieuTuong": "hero",
+    "phuDe": "Hero"
+  },
+  "hieu-ung": {
+    "ten": "Hiệu Ứng",
+    "loaiNhom": "Bậc",
+    "nhom": {
+      "1阶": "Bậc 1",
+      "2阶": "Bậc 2",
+      "3阶": "Bậc 3",
+      "4阶": "Bậc 4",
+      "5阶": "Bậc 5",
+      "6阶": "Bậc 6"
+    },
+    "anhDaiDien": "card",
+    "bieuTuong": "effect",
+    "phuDe": "Effect"
+  },
+  "thien-phu": {
+    "ten": "Thiên Phú",
+    "loaiNhom": "Bậc",
+    "nhom": {
+      "1阶": "Bậc 1",
+      "2阶": "Bậc 2",
+      "3阶": "Bậc 3"
+    },
+    "anhDaiDien": "icon",
+    "bieuTuong": "talent",
+    "phuDe": "Talent"
+  },
+  "trang-bi": {
+    "ten": "Trang Bị",
+    "loaiNhom": "Nhóm",
+    "nhom": {
+      "基础装备": "Cơ bản",
+      "普通装备": "Thường",
+      "特殊装备": "Đặc biệt",
+      "天赋装备": "Thiên phú"
+    },
+    "anhDaiDien": "icon",
+    "bieuTuong": "equipment",
+    "phuDe": "Equipment"
+  }
+}

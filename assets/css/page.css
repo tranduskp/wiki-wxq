@@ -1,0 +1,46 @@
+/* Pages that are waiting for content: Đội hình, Xếp đội hình, Cập nhật. */
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 28px var(--pad) 72px;
+}
+.page h1 {
+  position: relative;
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 2.75rem;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+  text-transform: uppercase;
+  text-shadow: 0 3px 0 rgb(0 0 0 / 0.4), 0 12px 24px rgb(0 0 0 / 0.4);
+}
+.page .lead { max-width: 60ch; margin-top: 14px; color: var(--text-2); line-height: 1.65; }
+
+.wait {
+  margin-top: 32px;
+  padding: 24px;
+  background: var(--glass);
+  border: 1px dashed var(--glass-line-strong);
+  border-radius: var(--r-lg);
+}
+.wait strong { display: block; font-size: var(--fs-lg); }
+.wait p { margin-top: 6px; max-width: 58ch; color: var(--text-2); line-height: 1.6; }
+.wait .btn { margin-top: 16px; text-decoration: none; }
+
+
+.page .legal {
+  display: inline-block;
+  margin-top: 32px;
+  padding: 10px 14px;
+  background: var(--glass);
+  border: 1px solid var(--glass-line);
+  border-radius: var(--r-md);
+  color: var(--text-2);
+}
+
+@media (max-width: 819px) {
+  .page { padding-top: 20px; }
+  .page h1 { font-size: 2.1rem; }
+}

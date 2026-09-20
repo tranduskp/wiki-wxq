@@ -1,0 +1,507 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-20T18:45:00.000Z",
+  "title": "Design System: Vương Giả Vạn Tượng Kỳ Quán (wxq wiki)",
+  "extensions": {
+    "colorMeta": {
+      "accent": {
+        "role": "primary",
+        "displayName": "Dusk Periwinkle",
+        "canonical": "oklch(78% 0.110 268)",
+        "tonalRamp": [
+          "#030038",
+          "#0d1855",
+          "#233473",
+          "#415698",
+          "#647dc2",
+          "#8aa5ee",
+          "#afcbff",
+          "#dfeeff"
+        ]
+      },
+      "accent-hi": {
+        "role": "primary",
+        "displayName": "Periwinkle Mist",
+        "canonical": "oklch(93% 0.033 269)",
+        "tonalRamp": [
+          "#060a19",
+          "#1b2131",
+          "#333a4c",
+          "#535a6e",
+          "#788094",
+          "#9fa7bd",
+          "#c5cde4",
+          "#eaeefa"
+        ]
+      },
+      "accent-lo": {
+        "role": "primary",
+        "displayName": "Periwinkle Light Deep",
+        "canonical": "oklch(66% 0.152 270)",
+        "tonalRamp": [
+          "#09004a",
+          "#0d0868",
+          "#1f2c88",
+          "#3a51af",
+          "#5d78da",
+          "#82a1ff",
+          "#a7c8ff",
+          "#daedff"
+        ]
+      },
+      "accent-deep": {
+        "role": "primary",
+        "displayName": "Periwinkle Ink",
+        "canonical": "oklch(42% 0.121 270)",
+        "tonalRamp": [
+          "#04003d",
+          "#0e155a",
+          "#233278",
+          "#40559e",
+          "#637bc8",
+          "#89a4f4",
+          "#aecaff",
+          "#deeeff"
+        ]
+      },
+      "brand-crimson": {
+        "role": "secondary",
+        "displayName": "Logo Crimson",
+        "canonical": "oklch(41% 0.153 18)",
+        "tonalRamp": [
+          "#340000",
+          "#550001",
+          "#760019",
+          "#9e2938",
+          "#cb535c",
+          "#f97c82",
+          "#ffa2a7",
+          "#ffdbdb"
+        ]
+      },
+      "brand-cream": {
+        "role": "secondary",
+        "displayName": "Logo Cream",
+        "canonical": "oklch(94% 0.028 81)",
+        "tonalRamp": [
+          "#110a01",
+          "#282012",
+          "#42392a",
+          "#635a49",
+          "#897f6e",
+          "#b1a694",
+          "#d7ccba",
+          "#f3eee4"
+        ]
+      },
+      "brand-pink": {
+        "role": "secondary",
+        "displayName": "Logo Pink",
+        "canonical": "oklch(76% 0.123 359)",
+        "tonalRamp": [
+          "#2b000a",
+          "#490021",
+          "#681339",
+          "#8f385a",
+          "#b95e7f",
+          "#e585a6",
+          "#ffabcc",
+          "#ffdeee"
+        ]
+      },
+      "sky-navy": {
+        "role": "neutral",
+        "displayName": "Sky Navy",
+        "canonical": "oklch(27% 0.101 272)",
+        "tonalRamp": [
+          "#040034",
+          "#121951",
+          "#28346e",
+          "#475693",
+          "#6b7cbd",
+          "#91a4e8",
+          "#b6caff",
+          "#e2edff"
+        ]
+      },
+      "sky-deep": {
+        "role": "neutral",
+        "displayName": "Sky Deep",
+        "canonical": "oklch(41% 0.119 271)",
+        "tonalRamp": [
+          "#05003c",
+          "#111559",
+          "#263277",
+          "#43549d",
+          "#677bc7",
+          "#8da3f3",
+          "#b1c9ff",
+          "#e0edff"
+        ]
+      },
+      "sky-mid": {
+        "role": "neutral",
+        "displayName": "Sky Mid",
+        "canonical": "oklch(58% 0.112 272)",
+        "tonalRamp": [
+          "#050039",
+          "#121756",
+          "#273374",
+          "#455599",
+          "#697bc3",
+          "#8fa3ee",
+          "#b4caff",
+          "#e1edff"
+        ]
+      },
+      "sky-pale": {
+        "role": "neutral",
+        "displayName": "Sky Pale",
+        "canonical": "oklch(74% 0.085 271)",
+        "tonalRamp": [
+          "#04032e",
+          "#141c49",
+          "#2b3666",
+          "#4a578b",
+          "#6e7db3",
+          "#94a5de",
+          "#b9cbff",
+          "#e4eeff"
+        ]
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "Ground",
+        "canonical": "oklch(24% 0.065 272)",
+        "tonalRamp": [
+          "#040626",
+          "#171e41",
+          "#2e385d",
+          "#4e5980",
+          "#727ea8",
+          "#99a6d2",
+          "#beccfa",
+          "#e6eeff"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Text",
+        "canonical": "oklch(98% 0.011 275)",
+        "tonalRamp": [
+          "#0a0b10",
+          "#202127",
+          "#393a40",
+          "#595a61",
+          "#7e8087",
+          "#a5a7af",
+          "#cbcdd5",
+          "#edeef2"
+        ]
+      },
+      "text-2": {
+        "role": "neutral",
+        "displayName": "Text 2",
+        "canonical": "oklch(92% 0.021 274)",
+        "tonalRamp": [
+          "#080a14",
+          "#1e212c",
+          "#373a46",
+          "#575a67",
+          "#7c808d",
+          "#a3a7b5",
+          "#c9cddc",
+          "#eceef6"
+        ]
+      },
+      "text-3": {
+        "role": "neutral",
+        "displayName": "Text 3",
+        "canonical": "oklch(88% 0.038 272)",
+        "tonalRamp": [
+          "#06091b",
+          "#1b2034",
+          "#34394f",
+          "#535a71",
+          "#787f98",
+          "#9fa7c0",
+          "#c5cde8",
+          "#eaeefc"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "page-title": {
+        "displayName": "Page Title",
+        "purpose": "Heavy italic Anton caps; the home title carries a Lobster flourish."
+      },
+      "card-name": {
+        "displayName": "Card Name",
+        "purpose": "Vietnamese card name in the stage."
+      },
+      "chapter": {
+        "displayName": "Chapter Head",
+        "purpose": "Sticky chapter headings in the list."
+      },
+      "brand": {
+        "displayName": "Brand",
+        "purpose": "Header wordmark, over a Lobster subtitle."
+      },
+      "flourish": {
+        "displayName": "Script Flourish",
+        "purpose": "Lobster accent beside an Anton line only."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default UI text."
+      },
+      "body-reading": {
+        "displayName": "Reading",
+        "purpose": "Card descriptions, 65ch max."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Tab names and nav labels."
+      },
+      "small": {
+        "displayName": "Small",
+        "purpose": "Rails, status, meta, tile names."
+      },
+      "numeral": {
+        "displayName": "Numeral",
+        "purpose": "Counts, Chakra Petch tabular figures."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Decorative aria-hidden English captions on nav and tabs."
+      },
+      "name-zh": {
+        "displayName": "Chinese Name",
+        "purpose": "Noto Sans SC for Chinese names."
+      }
+    },
+    "shadows": [
+      {
+        "name": "card-lift",
+        "value": "drop-shadow(0 22px 22px rgb(4 8 34 / 0.5))",
+        "purpose": "Static drop shadow under the swaying card (filter)."
+      },
+      {
+        "name": "card-backlight",
+        "value": "radial-gradient(closest-side, rgb(153 180 254 / 0.5), rgb(153 180 254 / 0.14) 55%, transparent 74%)",
+        "purpose": "Static periwinkle glow behind the card; user-sanctioned radial."
+      },
+      {
+        "name": "card-floor",
+        "value": "radial-gradient(closest-side, rgb(4 8 34 / 0.6), transparent)",
+        "purpose": "Contact ellipse under the card."
+      },
+      {
+        "name": "tile-seated",
+        "value": "0 10px 20px rgb(4 8 34 / 0.5)",
+        "purpose": "Selected portrait tile."
+      },
+      {
+        "name": "brand-badge",
+        "value": "0 0 0 1.5px rgb(255 255 255 / 0.55), 0 6px 16px rgb(4 8 34 / 0.45)",
+        "purpose": "Header badge ring and drop."
+      },
+      {
+        "name": "glass-blur",
+        "value": "blur(6px) saturate(1.2)",
+        "purpose": "Backdrop filter on the rail, list and detail panels (blur 10px on search and chapter heads, 16px on the mobile nav)."
+      },
+      {
+        "name": "sky-dusk",
+        "value": "linear-gradient(180deg, #161e56 0%, #34438a 12%, #6274bb 32%, #98a9e2 100%) with radial blooms and a vertical-streak curtain",
+        "purpose": "Fixed page background; sanctioned radial gradients recreate the official blurred sky."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.22, 1, 0.36, 1)",
+        "purpose": "Default easing for seat, settle, fade and sheet."
+      },
+      {
+        "name": "t-fast",
+        "value": "150ms",
+        "purpose": "Color and background state changes."
+      },
+      {
+        "name": "t-mid",
+        "value": "240ms",
+        "purpose": "Tab, image fade, variant dot, sheet transitions."
+      },
+      {
+        "name": "seat",
+        "value": "320ms ease, scale 0.92 to 1, brackets from 14px to 6px",
+        "purpose": "Portrait tile selection."
+      },
+      {
+        "name": "settle",
+        "value": "360ms ease, translate 10px and scale 0.965 to rest",
+        "purpose": "Card frame on card change."
+      },
+      {
+        "name": "sway",
+        "value": "25s infinite, rotateY 0 / -10deg / +10deg in 10% steps, perspective 1200px",
+        "purpose": "Card stage sway; disabled under prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow-desktop",
+        "value": "1399px"
+      },
+      {
+        "name": "tablet",
+        "value": "1179px"
+      },
+      {
+        "name": "phone",
+        "value": "819px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Glass Slab Tab",
+      "kind": "chip",
+      "refersTo": "tab",
+      "description": "Angular glass tab with a chamfered corner; the selected one turns to bright glass.",
+      "html": "<div class=\"ds-tabs\"><button class=\"ds-tab\"><svg class=\"ds-ico\" viewBox=\"0 0 24 24\"><rect x=\"5\" y=\"3.5\" width=\"14\" height=\"17\" rx=\"3\"/><circle cx=\"12\" cy=\"10\" r=\"2.6\"/><path d=\"M7.8 17.5c.8-2.2 2.4-3.3 4.2-3.3s3.4 1.1 4.2 3.3\"/></svg><span class=\"ds-tt\"><span class=\"ds-tn\">Anh Hùng</span><span class=\"ds-tc\">Heroes</span></span><span class=\"ds-tk\">85</span></button><button class=\"ds-tab ds-on\"><svg class=\"ds-ico\" viewBox=\"0 0 24 24\"><path d=\"M12 3.4 19 6v5.6c0 4.2-2.8 7.4-7 9-4.2-1.6-7-4.8-7-9V6z\"/><path d=\"M12 7.6v7.4M9.4 10.4h5.2\"/></svg><span class=\"ds-tt\"><span class=\"ds-tn\">Trang Bị</span><span class=\"ds-tc\">Gear</span></span><span class=\"ds-tk\">73</span></button></div>",
+      "css": ".ds-tabs{display:flex;gap:4px;padding:16px;background:linear-gradient(180deg,#34438a,#6274bb)}.ds-tab{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:9px;width:176px;height:58px;padding:0 22px 0 16px;border:0;border-top:2px solid rgb(255 255 255/.4);background:linear-gradient(180deg,rgb(255 255 255/.16),rgb(255 255 255/.05));clip-path:polygon(0 0,100% 0,100% calc(100% - 12px),calc(100% - 12px) 100%,0 100%);color:#dfe3f2;text-align:left;font-family:'Be Vietnam Pro',system-ui,sans-serif;cursor:pointer;transition:background 240ms,color 150ms}.ds-tab:hover{background:linear-gradient(180deg,rgb(255 255 255/.26),rgb(255 255 255/.1));color:#fff}.ds-tab:focus-visible{outline:none;box-shadow:inset 0 0 0 2px #dfe8ff}.ds-ico{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}.ds-tt{display:grid;gap:3px}.ds-tn{font-size:.9375rem;font-weight:600;line-height:1.15}.ds-tc{font-family:'Chakra Petch',sans-serif;font-size:.625rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;line-height:1;color:#cdd5f0}.ds-tk{font-family:'Chakra Petch',sans-serif;font-size:.8125rem;font-weight:600;color:#cdd5f0}.ds-on{border-top-color:#fff;background:linear-gradient(115deg,#eef3ff 0%,#b7cbff 52%,#dde7ff 100%);color:#34478f}.ds-on .ds-tc,.ds-on .ds-tk{color:#34478f}"
+    },
+    {
+      "name": "Top Nav",
+      "kind": "nav",
+      "refersTo": "nav-link",
+      "description": "Transparent nav links with tiny English captions and a light bar on the current page.",
+      "html": "<nav class=\"ds-nav\"><a class=\"ds-nl ds-cur\" href=\"#\"><span class=\"ds-nt\"><span class=\"ds-cap\">Compendium</span><span class=\"ds-lab\">Tra cứu</span></span></a><a class=\"ds-nl\" href=\"#\"><span class=\"ds-nt\"><span class=\"ds-cap\">Lineup</span><span class=\"ds-lab\">Đội hình</span></span></a></nav>",
+      "css": ".ds-nav{display:flex;gap:4px;padding:16px;background:linear-gradient(180deg,#161e56,#34438a)}.ds-nl{position:relative;display:flex;align-items:center;padding:8px 16px 8px 20px;border-radius:8px;color:#dfe3f2;text-decoration:none;font-family:'Be Vietnam Pro',system-ui,sans-serif;transition:color 150ms,background 150ms}.ds-nl:hover{color:#fff;background:rgb(255 255 255/.08)}.ds-nl:focus-visible{outline:2px solid #dfe8ff;outline-offset:2px}.ds-nt{display:grid;gap:3px}.ds-cap{font-family:'Chakra Petch',sans-serif;font-size:.625rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;line-height:1;color:rgb(255 255 255/.7)}.ds-lab{font-size:.875rem;font-weight:600;line-height:1.2}.ds-cur{color:#fff}.ds-cur .ds-cap{color:#99b4fe}.ds-cur::before{content:'';position:absolute;left:8px;top:50%;translate:0 -50%;width:3px;height:30px;border-radius:3px;background:linear-gradient(180deg,#fff,#6f8cf0)}"
+    },
+    {
+      "name": "Pill Search",
+      "kind": "input",
+      "refersTo": "search",
+      "description": "Navy glass pill search with a leading icon; focus shows the periwinkle outline.",
+      "html": "<div class=\"ds-search\"><svg class=\"ds-si\" viewBox=\"0 0 24 24\"><circle cx=\"11\" cy=\"11\" r=\"6.5\"/><path d=\"m16 16 4 4\"/></svg><input class=\"ds-in\" placeholder=\"Tìm tên Việt hoặc tên Trung…\"></div>",
+      "css": ".ds-search{position:relative;width:320px;padding:16px;background:linear-gradient(180deg,#34438a,#6274bb)}.ds-si{position:absolute;left:33px;top:50%;translate:0 -50%;width:18px;height:18px;fill:none;stroke:#cdd5f0;stroke-width:1.6;stroke-linecap:round;pointer-events:none}.ds-in{width:100%;height:44px;padding:0 44px 0 46px;background:rgb(17 24 62/.55);backdrop-filter:blur(10px);border:1px solid rgb(170 188 255/.28);border-radius:999px;color:#f5f7ff;font-family:'Be Vietnam Pro',system-ui,sans-serif;font-size:.9375rem;caret-color:#99b4fe;transition:border-color 150ms}.ds-in::placeholder{color:#cdd5f0}.ds-in:hover{border-color:rgb(200 214 255/.55)}.ds-in:focus-visible{outline:2px solid #dfe8ff;outline-offset:1px;border-color:#99b4fe}"
+    },
+    {
+      "name": "Chapter Rail",
+      "kind": "nav",
+      "refersTo": "rail-button",
+      "description": "Radio-dot chapter filters under a periwinkle diamond heading; the current one fills its dot.",
+      "html": "<div class=\"ds-rail\"><div class=\"ds-rt\">Khu vực</div><button class=\"ds-rb ds-cur\"><span>Tất cả</span><span class=\"ds-n\">85</span></button><button class=\"ds-rb\"><span>Đấu sĩ</span><span class=\"ds-n\">24</span></button></div>",
+      "css": ".ds-rail{display:flex;flex-direction:column;gap:2px;width:188px;padding:16px 10px;background:linear-gradient(180deg,rgb(17 24 62/.26),rgb(17 24 62/.5)),#6274bb;border:1px solid rgb(170 188 255/.28);border-radius:18px}.ds-rt{display:flex;align-items:center;gap:8px;margin:0 0 8px;padding:0 10px;font-family:'Chakra Petch',sans-serif;font-size:.8125rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;line-height:1;color:#99b4fe}.ds-rt::before{content:'';width:7px;height:7px;rotate:45deg;background:linear-gradient(150deg,#f4f7ff,#99b4fe 46%,#6f8cf0)}.ds-rb{display:flex;align-items:center;gap:10px;width:100%;padding:9px 10px;background:none;border:0;border-radius:10px;color:#dfe3f2;font-family:'Be Vietnam Pro',system-ui,sans-serif;font-size:.8125rem;text-align:left;cursor:pointer;transition:background 150ms,color 150ms}.ds-rb::before{content:'';flex:none;width:15px;height:15px;border:1.5px solid rgb(170 188 255/.65);border-radius:50%}.ds-rb>span:first-of-type{flex:1}.ds-n{font-family:'Chakra Petch',sans-serif;font-size:.75rem;font-weight:600;color:#cdd5f0}.ds-rb:hover{background:rgb(255 255 255/.08);color:#fff}.ds-rb:focus-visible{outline:2px solid #dfe8ff;outline-offset:2px}.ds-cur{background:rgb(153 180 254/.18);color:#fff;font-weight:700}.ds-cur::before{border-color:#99b4fe;background:radial-gradient(circle,#99b4fe 0 38%,transparent 42%)}.ds-cur .ds-n{color:#99b4fe}"
+    },
+    {
+      "name": "Portrait Tile",
+      "kind": "card",
+      "refersTo": "tile-frame",
+      "description": "64px portrait in a thin light frame; hover lifts, selected seats itself with corner brackets.",
+      "html": "<div class=\"ds-tiles\"><button class=\"ds-tile\"><span class=\"ds-art\"><span class=\"ds-face\"></span></span><span class=\"ds-nm\">Tên bài</span></button><button class=\"ds-tile ds-sel\"><span class=\"ds-art\"><span class=\"ds-face\"></span></span><span class=\"ds-nm\">Đang chọn</span></button></div>",
+      "css": ".ds-tiles{display:flex;gap:24px;padding:24px;background:linear-gradient(180deg,#34438a,#6274bb)}.ds-tile{display:flex;flex-direction:column;align-items:center;gap:8px;width:92px;padding:0;background:none;border:0;color:#dfe3f2;font-family:'Be Vietnam Pro',system-ui,sans-serif;cursor:pointer}.ds-tile:focus-visible{outline:none}.ds-art{position:relative;width:64px;padding:2px;border-radius:12px;background:linear-gradient(160deg,rgb(255 255 255/.65),rgb(153 180 254/.3) 58%,rgb(255 255 255/.4));transition:background 150ms,transform 240ms cubic-bezier(.22,1,.36,1)}.ds-tile:focus-visible .ds-art{outline:2px solid #dfe8ff;outline-offset:3px}.ds-face{display:block;aspect-ratio:3/4;border-radius:10px;background:rgb(15 21 56/.85)}.ds-nm{font-size:.75rem;line-height:1.3;text-align:center}.ds-tile:hover .ds-art{background:linear-gradient(160deg,#fff,#99b4fe);transform:translateY(-3px)}.ds-sel .ds-art{background:linear-gradient(150deg,#f4f7ff 0%,#99b4fe 46%,#6f8cf0 100%);box-shadow:0 10px 20px rgb(4 8 34/.5)}.ds-sel .ds-art::before{content:'';position:absolute;inset:-6px;pointer-events:none;background:linear-gradient(#dfe8ff,#dfe8ff) 0 0/10px 2px,linear-gradient(#dfe8ff,#dfe8ff) 0 0/2px 10px,linear-gradient(#dfe8ff,#dfe8ff) 100% 0/10px 2px,linear-gradient(#dfe8ff,#dfe8ff) 100% 0/2px 10px,linear-gradient(#dfe8ff,#dfe8ff) 0 100%/10px 2px,linear-gradient(#dfe8ff,#dfe8ff) 0 100%/2px 10px,linear-gradient(#dfe8ff,#dfe8ff) 100% 100%/10px 2px,linear-gradient(#dfe8ff,#dfe8ff) 100% 100%/2px 10px;background-repeat:no-repeat}.ds-sel .ds-nm{color:#fff;font-weight:600}"
+    },
+    {
+      "name": "Page Title",
+      "kind": "custom",
+      "refersTo": "page-title",
+      "description": "Heavy italic Anton caps with the Lobster script flourish over its corner: the logo's own pairing.",
+      "html": "<h1 class=\"ds-title\"><span class=\"ds-t1\">Tra cứu</span><span class=\"ds-t2\">lá bài</span></h1>",
+      "css": ".ds-title{position:relative;display:inline-block;margin:0;padding:16px 68px 24px 16px;line-height:1;background:linear-gradient(180deg,#161e56,#34438a)}.ds-t1{display:block;font-family:Anton,'Be Vietnam Pro','Arial Narrow',sans-serif;font-size:2.75rem;font-weight:400;font-style:italic;letter-spacing:.02em;line-height:1.15;text-transform:uppercase;color:#fff;text-shadow:0 3px 0 rgb(15 21 56/.4),0 12px 24px rgb(4 8 34/.4)}.ds-t2{position:absolute;right:16px;bottom:8px;font-family:Lobster,'Brush Script MT',cursive;font-size:1.75rem;line-height:1;color:#f4e9d6;rotate:-7deg;text-shadow:0 2px 0 rgb(139 18 41/.7),0 5px 12px rgb(4 8 34/.35)}"
+    },
+    {
+      "name": "Icon Button",
+      "kind": "button",
+      "refersTo": "icon-button",
+      "description": "Glass square button for pager, copy link and close; hover brightens and turns the border periwinkle.",
+      "html": "<div class=\"ds-btns\"><button class=\"ds-ib\" aria-label=\"Bài trước\"><svg viewBox=\"0 0 24 24\"><path d=\"m14.5 6-6 6 6 6\"/></svg></button><button class=\"ds-ib\" aria-label=\"Bài sau\"><svg viewBox=\"0 0 24 24\"><path d=\"m9.5 6 6 6-6 6\"/></svg></button></div>",
+      "css": ".ds-btns{display:flex;gap:6px;padding:16px;background:linear-gradient(180deg,#34438a,#6274bb)}.ds-ib{display:inline-grid;place-items:center;width:40px;height:40px;background:rgb(255 255 255/.1);border:1px solid rgb(170 188 255/.28);border-radius:12px;color:#dfe3f2;cursor:pointer;transition:border-color 150ms,color 150ms,background 150ms}.ds-ib svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}.ds-ib:hover{border-color:#99b4fe;color:#fff;background:rgb(255 255 255/.18)}.ds-ib:focus-visible{outline:2px solid #dfe8ff;outline-offset:2px}"
+    },
+    {
+      "name": "Card Stage Frame",
+      "kind": "card",
+      "refersTo": "card-frame",
+      "description": "The card on its static periwinkle backlight with a static drop shadow; sways in 3D on a 25s cycle.",
+      "html": "<div class=\"ds-stage\"><div class=\"ds-swing\"><div class=\"ds-frame\"></div></div></div>",
+      "css": ".ds-stage{position:relative;display:grid;place-items:center;width:300px;padding:22px 0 16px;perspective:1200px;isolation:isolate;background:linear-gradient(180deg,#34438a,#6274bb)}.ds-stage::before{content:'';position:absolute;z-index:-1;left:50%;top:50%;width:118%;aspect-ratio:1;translate:-50% -52%;background:radial-gradient(closest-side,rgb(153 180 254/.5),rgb(153 180 254/.14) 55%,transparent 74%)}.ds-swing{animation:ds-sway 25s infinite;filter:drop-shadow(0 22px 22px rgb(4 8 34/.5))}@keyframes ds-sway{0%,100%{transform:rotateY(0)}10%,30%,50%,70%,90%{transform:rotateY(-10deg)}20%,40%,60%,80%{transform:rotateY(10deg)}}@media (prefers-reduced-motion:reduce){.ds-swing{animation:none}}.ds-frame{width:220px;aspect-ratio:400/565;border-radius:10px;background:linear-gradient(160deg,#f4f7ff,#99b4fe 60%,#6f8cf0)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Dusk Compendium",
+    "overview": "The interface is a periwinkle dusk seen through navy glass. The sky runs from deep navy at the top to pale periwinkle low on the right, with a fine vertical-streak curtain over it, recreating the blurred background of the official wxq.qq.com compendium page. Everything a visitor reads or touches is a navy glass panel with a light hairline laid over that sky. The one object that is allowed to glow is the card itself: it floats in front of a periwinkle backlight and sways in 3D as it does on the official site.\n\nThe voice is game-native and quick: heavy Anton caps for titles, a Lobster script flourish that echoes the logo's caps-plus-script pairing, tiny Chakra Petch captions and numerals, and Be Vietnam Pro for all reading. Density is high but small: portrait tiles about 64px wide in thin light frames, tight rails, one detail column. The interface has exactly one accent, periwinkle. The logo's own crimson, cream and pink belong to the brand alone and appear only in the header badge and the script flourish.\n\nThis system rejects the black-vault-with-gold it replaced and the generic dark dashboard. There is no gold anywhere in the shipped code.",
+    "keyCharacteristics": [
+      "A dusk gradient sky with a vertical-streak curtain, fixed behind everything; content sits on navy glass, never on flat black.",
+      "One interface accent (periwinkle #99b4fe, often as a white-to-periwinkle gradient); crimson, cream and pink are brand-only.",
+      "Angular glass slab tabs with a cut corner; the selected tab turns to bright glass.",
+      "Radio-dot chapter rail, sticky chapter heads with a diamond and a fading rule.",
+      "Portrait tiles in a thin light frame with corner brackets and a \"seat\" motion when selected.",
+      "A 3D-swaying card stage (perspective 1200px, rotateY plus or minus 10deg, 25s cycle) over a static backlight.",
+      "Mobile: bottom glass nav and a glass bottom sheet for the card."
+    ],
+    "rules": [
+      {
+        "name": "The One Interface Accent Rule",
+        "body": "Periwinkle is the only accent the interface uses. Selection, current page, active tab glow and focus all speak periwinkle.",
+        "section": "colors"
+      },
+      {
+        "name": "The Brand Colors Stay Home Rule",
+        "body": "Crimson, cream and pink live only in the brand badge and the script flourish. They never color a button, link, chip or state.",
+        "section": "colors"
+      },
+      {
+        "name": "The Scrim Toward the Sky Rule",
+        "body": "The sky gets brighter toward the bottom, so text panels darken that way: the list panel runs 0.26 to 0.5 navy, the detail panel 0.36 to 0.56. Any new panel that carries text over the sky follows the same direction.",
+        "section": "colors"
+      },
+      {
+        "name": "The Blue-Leaning Neutral Rule",
+        "body": "Every text and surface neutral carries blue. No gray.",
+        "section": "colors"
+      },
+      {
+        "name": "The Anton Plus Script Rule",
+        "body": "Anton caps carry every heading and the card name; the Lobster script appears only as a flourish over or beside an Anton line, never as running text.",
+        "section": "typography"
+      },
+      {
+        "name": "The Numbers Are Chakra Rule",
+        "body": "Counts and numerals use Chakra Petch with tabular figures.",
+        "section": "typography"
+      },
+      {
+        "name": "The Glass, Not Black Rule",
+        "body": "Surfaces are translucent navy over the dusk. A solid near-black panel is out of world; the only near-opaque surfaces are the mobile nav and bottom sheet (0.9), where legibility outranks transparency.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Only The Card Floats Rule",
+        "body": "The card is the one object with a real drop shadow and glow. Other surfaces stay on the glass plane.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do build every surface as translucent navy glass over the dusk, with a 1px `glass-line` hairline.",
+      "Do use periwinkle (#99b4fe, or its white-to-periwinkle gradient) as the only interface accent.",
+      "Do keep the crimson, cream and pink to the brand badge and the script flourish.",
+      "Do darken text-bearing panels toward the bottom (the sky brightens there) and keep the text tokens at #f5f7ff, #dfe3f2 and #cdd5f0 or lighter.",
+      "Do set headings in Anton caps, add a Lobster flourish only beside an Anton line, and set numerals in Chakra Petch tabular figures.",
+      "Do give Chinese names the Noto Sans SC stack.",
+      "Do mark the current item with a light bar and keep the 2px `accent-hi` focus ring on every focusable control.",
+      "Do honor `prefers-reduced-motion`: the sway stops and transitions collapse."
+    ],
+    "donts": [
+      "Don't reintroduce gold or violet; that was the previous system and none of it remains in the code.",
+      "Don't use a solid black or near-black panel over the sky; the mobile nav and sheet at 0.9 navy are the ceiling.",
+      "Don't use gray text; every neutral leans blue.",
+      "Don't color controls, links or states with crimson, cream or pink.",
+      "Don't animate anything but the card's sway on a loop; the backlight and drop shadow stay static.",
+      "Don't extend the English captions to new elements: they exist only on the nav items and tabs, decoratively, and stay `aria-hidden`.",
+      "Don't add a second accent hue."
+    ]
+  }
+}

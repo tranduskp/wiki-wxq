@@ -1,0 +1,1835 @@
+[
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "复印机",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3c3d61ddf7268e2d245138fcf5ce384e.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3777d0ec37ff574c5f996c306e6f95410399f80624a4a5c73cbd59728a9fd665.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7cd42db32428e85bfd73c5790356aee24d8a99fa152becbc2821a29da25172aa.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "里程碑",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/8b964f3e6fde22ca9f1d35dcab952b12.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/caeafde8a5bc6ecfbe4a600719eadb62c274d79d383e5468ef22d74fc6936ddc.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "三分新援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/314008de75e25564e29831ea33708acb.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b23e8cca0966249aab769e6c7cecc160f8d83ea02167fe642500dcfaedbe8cf6.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "整装待发",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4b1734b634dfe55e0f7da0bee5fc0aff.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d6fd86e1b491bcafcd41f69685a2a1ea214cbfc29c7e129562af5a9724f2e0fd.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "先苦后甜",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/542ce56938c47d456f9241303b8fbf60.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3db83320d99b838eea49f87a723335fed852e73ef50c0a6711e3687686c3cec2.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "防御领域",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/83d63d8637d1b66aa704f2262f308d42.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4fbf9c7a68df927ce135abce1dc2d936c3fd7ec763cafcb3d1241bff47d2916c.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "日落海新援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/314008de75e25564e29831ea33708acb.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/942835af6e3509d4779c085db213732b3a6e4e19e8d21c5f8ae852eb91a2f5ef.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "存款利息",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2c7481df5d77c8c9a8f422deb17d8f31.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fe6789926a4aed4639e75c50010b621b9fbda5abdc7116c83d0a465ef05a226f.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "大河新援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/314008de75e25564e29831ea33708acb.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1cf4011873c634c8f78c288dd236349c1e4b37cac861b1dd60ba8c0379de944a.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "破格",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/0a43d6a7390a70300d38350a141154ed.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/635506fbef76ce53ab8d563e3484c234b3b4b6a7adc69ee5b185208dc5a27fce.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "逐鹿新援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/314008de75e25564e29831ea33708acb.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b0eda64a224f624d132fa0426ca54e7a81d2cba8ec87f7224995a8d6369a488e.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "二象性",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/1118abe237316d3db2dac2c6636f4f8c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4b6cccee626ee5c2e819627ff18a78ef66db495c2c1168a2d2655eb7a714400d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/89343541addca94fb2d1411abc4bffcf6c10e12f0d2b9400caf2db3ac65fbb46.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "河洛新援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/314008de75e25564e29831ea33708acb.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/36989a0dbb5d2badab7ad7fc06b2be35db23ab8ff9535e53d76b376fd9aaa376.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "预言家",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b59379749602c119c5310c16425860c8.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1c67044ed7011b2ee236c41fdd8ca652bdd7a27dac3ec472bba87803fcbc54e7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d75f19accd53ad1a73f806d87e4f622ceb53ae798ee343543ad2eaa911850048.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/42ff666252234deda781dee66ca4c0967df4fadc7c1a2bcab96daf104180555f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "三十而立",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b59f8c72b65d6dad471b7855b4cd71c6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/14c44737e604215332bd1d1f6a4083e3309f5d41178eade27e9aaa8148e5ab2e.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "好聚好散",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/21ad548b528d48d0523828bfb280bda5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/83a53a15e61c3b27626f4e3a139b2f3a3ff9c0238436dd926a8da9b319e648d1.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/99abfb58dfc74a3e348f486540864bb504c7eb7b5f84bdc2959164541b1a6746.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "瓶中人",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/490bf18d87002ac069ff1f6edd14dbc6.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1f7bc1fc4a5b47dc3f564ddf8b9d6308a004a020aad98ced609eb6ba8b299a15.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cff93e05c2a6082564a1604133fbf7ba5f5fe2ce957dc70139bb1a7599fd8e4b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "随机成长",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2345cd2f8a3d7617d9c1936602fbd185.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b69894cbbf86d63c9c27efcd570665ed8ade46d033ea8f2d0146d8c40f26e596.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "战争头牌",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/5edc49a3e0c64da9f6720c74595d801e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d3e6fee1a27456e001c36d0672fb2f5d4c90bd96ed3c4b071b81e1bc6e5f88ee.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "节能商店",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/29e71d971655fcfce4bc767c5f5af5c4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a3c63829d4ce00b9078b02c4d797d1341b5b5821d688fa528eec3778c3206fe8.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "加速成长",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/15a0f9c5eea4202d04f1ab70470beeed.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/126f08d17e981952810903aefd1a41272a42f727b525f417afc366a35241061f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d74e995a3943346a5d27f41fdfab2de43fec06b0a715a12a347b2661649c0ca5.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "微弱优势",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/94ca18fd135b74d13e822230371da4c3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e4ecf587f52bbd1579c26f7527a4dcf347aae6f56ee863cf4a25958b06ceaa80.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "双人游",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/9abc10f92c4fff0c982cbc6458a98554.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cdd69833ff1085efd8c122d7d00d0b7b1c5c0ebe6bca4bba813f7ab6f8f8e512.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "猪猪",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2c19fa4d18965a3c4eda2f92be0980d2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ce676f46284ec598617c6109b89d91b8c0137899d7a9683a52b75d28ff7f94de.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "刻舟减蓝",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3760022e130b83716d80f1a322d606ee.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cf0a3fd98a9daa45afbfb8b745619246211e3d4dafe916bea0652e262cfedb2d.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "专注射击",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/d00d1da03bb8b09d7886c04dd53885b7.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8cee1231b51389b62c950b464d248dc3879e77ca837d4cc320fc557eb31e0352.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "银算盘",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2c7481df5d77c8c9a8f422deb17d8f31.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7c239f0c2d5a434fd0aaef721cea350e5c9178f6489a303577b9c7de82bd58ca.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "班叔的遗留物",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/0912d38b403e17f12165a3d2cf466435.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c21708165f1847142f98f51c5c0ad45929eec5c2bf6c727f7facccf7dbc050b2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/69a29305f1848dc7c9591d6618dd696541e15f0ab05aa9983f668c347942167d.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "五福临门",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e00532847573ea10a90c98db84ae18c3.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/521967c226f2de1c3d5e2c6137647b40f7a4f895fdbb8337a5f8e8e033075af4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/523ed7141f8e143303188b6134dfaacd5a09a8de8c4fa38958850ff38e48015d.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "小电池包",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/268e1abbc6be26ab900372dd0e0ed51e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b4ea8dbfed26f4d6cf30069d68772531a06a4d55fe341aa3680ef8fb4c150812.png"
+  },
+  {
+    "ten_khu_vuc": "1阶",
+    "ten_tuong_hoac_the": "兵行诡招",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3c3d61ddf7268e2d245138fcf5ce384e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8ddde461cfc8ca419a4fcedef337d81833509618241e3dec6717641e49c1764a.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "一个响指",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cc455a244d1a6c4522a33ab472bbf592.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/37edd4ac7bd50d339606a0dcc162a65027d4db950000b25e449ebdfd5f7c3a35.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e90753da9def836e8e8ebf2c890c8a34a61371f95fe04b08626c668563434cd2.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "小小的助力",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/eeb0667f92a3741ba9ed4f9221f37dab.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d126530e798ea0e9b6749bdece65325b9f8a5b411ad1353b09cf2f18d8816f81.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "伤害转化器",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3d9f41e500f334edd91b714c740c30b5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ae34ee1f87c40b1dbdcf4388e8c6d854ba26a23f675f52c0f9bf995fa2eb2a2d.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "终极复印机",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4bf01b3fe0f8336e5c9847dd88303548.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2372acb19ed7e9cdd4394bd6c96025118e0799e72c8476f9c6115a87d213c4c7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a9c2ff2e637ad6867fce11d73bc7a78cac9bee880420b28571e6e6a68ed2604f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "补给线：开团",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/247c8bc7c6a0971e16f22441547fd42f.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/835836c1a75318cadbef5c76169483d7d4c0aa06b2a5e0aeeae3bfd2f96c9d31.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "常胜将军",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/7b5153efb03de269414e8b4e1a8c7595.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2d7b999e9c2033274fad6e0f7099bb392a6a51056d2d6f3eef2c7aefed00d777.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "中坚力量",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/dca39d34962d82a8280a49a5d946834e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/08583ed0022d26b72f60018067d523a64b38cd2301508928ebc8047fa0135086.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "凯旋征召",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6fb6f023bc0401b3908cc66251ab1245.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b218556669310c74987c60cdfd5f01490ed2a86eec0b7108acdebd1edacbfce2.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "如法炮制",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4dc9cc76734c89ce3935fb47e3510910.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1e203ee5f9d9bd17e347bf9ae5f24eece8f53336a1a4c98bbf1f3637a33ad22e.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "消费返利",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/229ea8a1e18f998d6098d7f87ce63821.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ece59fa8a665812b317d83377b336601e4decf65052e54abc4749879d34fce46.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d74e995a3943346a5d27f41fdfab2de43fec06b0a715a12a347b2661649c0ca5.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "人才市场",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/15ef91962547a15983636090bfe2fb50.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/77983ac45b78d35335109e4dee4a22268549f1ba4597ec0df3246cb53b1a2939.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/98630374d55796da713d9fbc6bd7ac5400474015fd16c3c76f4812a1ba8b42f2.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "金算盘",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/15ef91962547a15983636090bfe2fb50.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/283f4877125b2433e2969fc947a7bf003e9d1b6d9ba2513e7265865c56f901db.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "超专注射击",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/06ef53cdfabd535b247a969263bf17eb.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/95ecc624ce2caf845401d2d9befa0d293c9827b6bbe552df7cb9f71dc9437997.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "电池包",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b579e6ef76857f836bd39be4e6c638e8.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a229c812a8bbf1117be6e58a61565f9d4eb4453af0bab5f6674a821b308578d6.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "结伴",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/afcb335b225464324505cac3b30349b8.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/da4c22046c4e81c4bac64bca1cccd52c4db2de7f11a73e0d4b06446925514942.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/013fcc358656d2e143361349b78a89d2afd7544a3bcf52360915d01127b279a0.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "极限操作",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2af25c0b55fbc7ea14576e92feddd96b.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/79f6a9eb73215733be54762cde6531bd253d9b09e79a60d399d26ab641b5168e.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "同路人",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/ed95ebf41b84719cd094c0349f5fe9c5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/35733ea7e78aca9a0009503d1a86ef56b21108ccfd284f2a3876ce1f3b3cd481.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "战前叫阵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/179da1d3804e1dea56cff16d289a0ef0.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a5014f8049cf376f4e448e5c583b66ece14ac6b66d781d14d66a9954021729c8.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "重装上阵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/fd60bede1c3b581b6adde1e8826ac08c.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8f6c7843c714cda62e4506d0aa9f8a932e68b9bd8ff8198dc8bc3d41f223cfa3.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "成年礼",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/1b8d50bdeb4049463dcb9f5e30c016b5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ca72632de614329bc0b1ffc814d58843fea4445005a46a1995a9e7a0e103f003.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "前线堡垒",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/f060628b7db6f2c925402c7e77644cbd.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/97bf3bb370e8724db5b004fa1404d6affc888892c917c9852b82e61260356d04.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "大电池包",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e2080fc960ca8350864df7e387619620.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3bc05d89ac447ce8faad998bd0b750e19148a34a49c132f526eef5d8fe63fcaf.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "限制性进化",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/129958b19de69b17e0b0e518ebb8b279.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/68f3f4a128376b255bd33e8c943d8d40063ad4b0231690854d037bf389ba4bf2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0ca59855354bb8362d7c7f41373476a55bf8ee478c08e7f88c2c45778e6f67df.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "援军",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/d7940e4e2050f691b13388aeb139b7be.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/69b4b60cfeb5294cce8c66671e697411e9e27b5d981d32a177ce6230ee8e60e4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0bc60ce6ff1e0d16ba4b715edf65e23bca552c7ed30a2bdfdbda92351f889968.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "群英荟萃",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cf704834c8b022700b6c92f971c7d6c6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fa4a699bd719b91fca9c599fac94cbb2ba8635d2dad28c54bbf4e900684f7589.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "自适应武装",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/382327882ccf7cd03cd8407d7c35337f.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/638ac85dce09d733c6e2903b46ee7453eb97d9b7e03fe14408059a77d5aeff30.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ab34a7d20585c56a4e6ba8e1b70f2c6d1fcd5f5092921882fe0634b467973e17.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "虚构装备",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b1b1a8ddab8c64783a43c550cb967aaf.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7827c9e00f032a44caab66658ce7f517365c3a5f4d14a2fe8430e5cf1cc88115.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "战术模组",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/10635da75eb7af5aeb8461cb89031c5f.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/73f035addfca10f2e965633e6a4170136921740a73e58d9ac68b6f9617946075.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "三十而达",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/891af1efbd7bacaf38794763514a21cf.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f0e6dd35a042197329ef06e8b92bdbd48a798e6609de04f7af54bcb7dbf24382.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "控能达人",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/71d1482b5f18b90d5fc60e217bc7a969.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/190c4ccf03bf837fa928b5373b193c02a475e3228f4ce9abdab486d836ac36b0.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "强者自强",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6dd55c83f98bf13912aed8771b7832c4.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bde21b3cf4bc7022a2c5fa2e0fbaad175bd8f3ad284151ae8c17722cb585d6bf.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "破败之力",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/af9e1fee6c3b30be7964dece477b6db8.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c2b1a71bc3997edc6e145e33c443e379977b223c4805e13bc17c6339b9c56b2d.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "保持进步",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cdf3dcb365db0be2bbda64cee0449521.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7779aa5684939ca66e459c876be4f7559826524b0b059fae3ba523843a7fe663.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "抢攻",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/bbe37188994cf425f6702d103adb33fc.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ebf11027709a72173170e0bb35c2cbbad79c4ad2978a6b4ca4f19b03977b5c45.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "随机进化",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/9c782a4af4fa23fe6f2fdd589c5c16a0.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/00c56c5efef657a16df96504e9ff9467937c053036f23a142ad25a6f727c21f4.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "神秘英雄",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/bf8c0b48c596b8912eb04ae481a4c89b.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/eca2f4f04296824743c32d1061682904abe988b586afc43f76fe7cd3f075f31f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f54525a2eea163a5c03f86cde5c66b49ba7648d9528e42d4f6786f57f5c4228c.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "厉兵秣马",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cb62520f20bd634dbbffd16ea49a2842.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e7553bb36f191d3b6e6b2ea8f1f875dfe360392497d8c3cc4188c616df75118e.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "擂台猛虎",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/ce747dae57195b75f427700d12b85c81.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/37ef198f719221602aff6e6154b08ea52acde3e8beddd82b2fc37f65e8571904.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0af9cb8d10a3855ea491da40ca8ae636e44d4444d9dd110c616d5766f4bb334b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "拍卖专家",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/ab7c68a59fef98b5f52949790db0951f.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c07b11daa339ccd2b0fa9758333328cd24feec675deff50bab11df1aa0a51776.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/69c5ff4cf2bea837a62ed4101c0f1df680622fe47d6cc902e0f481b949025291.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/908b59cf4e65de538bb7e1f9c116417d6dc9226f2b2d976b0cf971f21338ab6b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/190cf00eefa0890e7c2dc52da9cd44d01710d96606daeb587e91f26979ce93fa.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "超速成长",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/15972e38b36cc202d1b6916179f258aa.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a640f44810bbfd054bd45fb8adafd7cab3876f1e3ebfe41be88da163a46d5690.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/af484e572c22cbfec5353882a15198d443877906c197d898ae7b32f93d6b126d.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "王牌认证",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/13afaddd3ec322545f4bc19ec4e364b0.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bb7f8e41e16093246473083c9ef488c52a7fd96383922d9a51dbfd04609173d1.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "祝你好运",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/f3d95a7af4d7c4f85dad4acab3c3891a.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ca2a7f2d32d510698983df2f1237dcd476551ab20706db6e6e7ad545ae504d60.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f4c7cd48f6f5f3436450f235b11c451c052835976574a04d71bc9b42c097e12e.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "临时增幅",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/7ad3e314a0159cfa153d4224e22cd216.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/feceb8cdd486e7ac24c4c9d7cdaa891351380cdd40fea97d8b1d45493aeeb459.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "河洛来客",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/481dd9513c0c91bc241e89a31659a4bf92ff66ed2a18b2679e0e1bd389e47209.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2024da73569a0dcb5982216cc267e6430ccbab1e441c448e87f68804f339d019.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "紧急行动",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9e1a28ecc86a58aa62b891be64d23b1.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c3c5f435bc8b6133d322dd1800e08719e48d9e0cd270e68a345ea8e3554cebe6.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "河洛精兵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a1bd9f7f8735026e71a4aac852c1417ce389aaa793000a897247b5e8499fc75d.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "富贵险中求",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/082225556c21869ef26b54cdcdd0117c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1ee489c4d4c2e97daa07dd281a446b2a03dcc63e2f7ce6ca93ec972282ed1fb9.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4528077b88e95bffa3961498d12fc48a6fd661e18adcdab6925790142b666b66.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c7ca8ce23be4d6ef8273198755e606caaf29111f1f72ffd9fdf4aee0bd5cc7fe.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "前浪的荣光",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cb959f05887688426dd52391549c5d68.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7f3e567a444ff2a16f629aadff784df72fce8d7456794bf4a3a3ae74527cc80c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7921adfbb28f875ebec4158365ab5b187b9dc03802dc8e409d779f3b4342f426.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "全军列阵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6acf8c251a4d80a2a6fe21f881f1272d.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cdf03d63d9d963d0b1039e15cd70f681c4112cef47361f9eeb12fb25bd5a9422.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6d9704103013b1dfd1a67de0fe5d0bbfd44822977f4398be53be55d8cdc90201.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "大买卖",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cf704834c8b022700b6c92f971c7d6c6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/54841946dde8779fab157907e8a0198573f6f7ed8db889a90d65ad497662a22a.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "逐鹿来客",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a4cb1ae94bea4f732a65543ecf1c3fdefcc95d01115c69b0f45fddc78e811e88.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7b0bb4cb7377a5f0f7bf9042a013335cfc3765a8e78f00470afd54a9634b3898.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "逆袭之路",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/511274e7af66e590b2aeb5ca848c2e0e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/145bffed25051630dbf9bde49bcdeb56292dd874d34aaccfae9e1f5609d140f6.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "逐鹿精兵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6914267dfb6d76700d29371efc124b2d257a9f2fe437e388f7687903eaae6ed7.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "扩编名额",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/287b56917b07a847fc1b1f80308dca7b.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/085de491452c31c12339cfaff5c7eeb78221dae05148977a2c02cc31c4bb72f1.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "绝对领域",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/d6239db5e49f7a687c7148ae33dc1ee7.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c94f0dc01adf7d3d624819f340e5f36564f46d9a72cc89ffe42aabaa9bf3b8db.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "大河来客",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ca981cedfdcc3981648073a6641c6c9e94ddc57d87825a415a65a95cfcc899f0.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b9c10f5268e3969d6c4b13bf09ab84120df16b4fdbfd8d64f28bb26a1f7063b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "卧薪尝胆",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/7e62947cb4eaa0e90ccde0eeea459a15.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1e7f948e317c8ee5520a218495a0acb803a0a94a14ed8160779298917917017d.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "大河精兵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6e265186d36b8202a0db0dcca52ece5d0bdfcdc4aff985fdcf39b8f8650d3aa3.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "小身体大能量",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c221103d03f686d480ca1f4219d66829.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6f457f01b8915f5ede80b84d8cbdc57835eca4884ae5a87aaa3dce08753924e7.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "重大里程碑",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/22d4d77f50614d27a2ecd783990c1361.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4dfe198e65d6a226f433ad0856e0c73c9fa7d83524586d375dbe0427347f42de.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "日落海来客",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/52b3fb0a4cde167200b72b8d47480ddb064742301a10b232645ad1e6f937e5ab.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f2e92396c04711d4bb6046d0d56828950a85241bb6a3c9fa8b8fe2d4ed315b14.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "一分钱一分货",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3ff6b69195f0f720500ee23512b0f988.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/268dc25e9225120c9e79dc88109c6d04581530080acbc73438503e1326e90362.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f2d28f3ad4b3582222fb5dea620a397ced5e6248d88f81bb504e266a4c7437e1.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "日落海精兵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6170570aaa7c0fb2370a4386d836f97128593d16762199496045030ec931f4ce.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "怒神项链",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/36d372e25258a7270bc52e585b3de979.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6617e06e9a5fdae87e27a83b9b5b81e5cc517b7a912925677d905a2c98a24e6a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6a36bc367b7a09654971fecd4ecfc7d959d958e90bf1098d1cf77b8319f7f3dd.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "人才济济",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/843d26ade1a2dca6555481ac1544d577.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/46b2139a7da723fda9eb9f3983c4cb98d9f851c70f813c23442a35177ca95815.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/98630374d55796da713d9fbc6bd7ac5400474015fd16c3c76f4812a1ba8b42f2.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "三分来客",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b7648d159ee892e6e2befda3fdba9e85d2b244c0c167bef4ef18a2c98251d9a4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d07ac335c4628ead1f58a1641fcb7400af8e2c2104ee720566416385caea563c.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "法潮灵杖",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b3fbe27aa060ac3c3bd4094dd6d99f0f.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6e1c7e1082dc408006757f9b9177ac7bed291b6aab8ee56aa646a472b71ef810.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a1ea56385c810eae72db813733c4891be22f6293e63b1b21a2185b5d836029b4.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "三分精兵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9246d8e86c02c31427bd658f8df6c6c.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c8746fd2978613df15cdec50efe9e31e6f4271c932a8d62151ac150a81927cb9.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "断念",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a9104c614ef692ba47ba30064c2309ff.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a17c1ade5b4d460a917f59c09702e5542f852d74d0ebcf2eef334de8ce545033.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/54aef49e3d02d3448a27056135add17650861e426c6af5c1b55586b6e5d91923.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "破阵战芒",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/db6c401986d1688ce552439524260839.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/553ec0100ece602cf1f463de4ad168e97bd252f64cdb2395d73e79ce68352987.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4acbd581ec2965c2f9fc2df912bb2108ecf2db8c5fb907c4967e65b74438c14d.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "能量改造",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/11569367631b8635993919c821872ba3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5989363c7851e5314da2f6c99e05030c200051664f360cca96bd1683e4fe77c5.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "破妄之刃",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/f1f645217086a518c8d417f6c6ac4e64.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/81b917b17b846a5fbcd48d27ff3953c68ea37140fc333fb399793872709aa972.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/75da663ad273efbbd2c6da305230b0e608b5df8d8bedefd1876be5417fdb8908.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "光棱塔",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/51e16000e63d1e55d0ffa99f0bb67bb9.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3a664045cbbc7918cb8427b35bd10f22151963e5552a632e7b5e7fe66471dd81.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "瞬影连斩",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/71bf0189ed7f1e50a579ad1cac96a386.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bd6c9b26050ee5d47530221a2d5e3d1da8594402631b408e0ebaf4de8e59fd74.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "场外供能",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/15ef91962547a15983636090bfe2fb50.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b9d60476383243497f9e59a0044c79635627942b84b8172c167d51fad427fa6c.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "积极整备",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/1500308a65a1936c4fccf62230cdfcfd.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/20e75de88a176369ff92ec41232314104a84a7be35016e7b41578764e120f8da.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1640c60a95499b1bf95232e6188dc9e81b2ce7a29b413fc74e9507e9856e7250.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2b05ed78916e7ba9e9bd488a554e183de2095d91fb6f0b284ce0092108d0ff82.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/14604b6d8fe76b6e878442f84668302965eb8e509af2c5d3ccc77fc5148c1b95.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "胜之不武",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/d78c51ae9c9faf69f09c44d76b8fa13a.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/41cfb15babe9d803f5687d85afed859a36ec12307f33ea8e48493d99af756c0f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e142bf8888dd79fb0a7af0dde0128b84bb660e68060d10bb3c7f7ca0e1a78605.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "崛起",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e98ebedc230de729d6033305c859b0f5.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fb2eeca80094cedad989df7ab1eb79776612c1c1fbe21dc8c6c333451cfd98ad.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0fb632201e671af2c76ba03efd65f4db6c3b16256fb358a79d410be5b7a53dc8.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/13156fdd1ad117805d1c08cd4d959ced506d5ecc675069bad3224b924c87feca.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "协同一致",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e2c0bcda9f83d97b82449a7ebd870192.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/78dbd70c98eb299a8ac9daa6b66ad67c69a660a2cae78af58dcdb2a11fe96d0f.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "荆棘牢笼",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c096938d737bb43db4242679ddf8f150.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/31fde0718e9049d88498ddfc466e29a948432977e1b0f166b02d2e57cdbcf169.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "因缘际会",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/65a0381f856a0613ab4c93ed4889c50e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/beb772003769dfdceebe2c45ea5d172a2d7c0aa9dad94dd3691f54d915a35f7f.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "动能灌注",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/5e28ae5cb83f8bacfd65f5ac13b991d3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9b48cb34e8cb9a13d4da6e6ad9203a3ad825a1459247b40c14ea8355434bd157.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "智能装甲",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/5d05015942b564e8c5e63da126d9e1d9.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cc1a70ea5480c857cb54717df471100809b31069cc315e34635d7867c6776bcb.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "多彩古币",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/15ef91962547a15983636090bfe2fb50.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4e0fffe28dc8cb221db4351d257682d42585d62686bd40db26282b0f4eea440e.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "坚不可摧",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/7bd49ecad71c5e7c91495017ce3cb621.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4d9896d510c8f8b87071b32869cb5ba76f7957fa26e96a63511d7479d2bf5b1a.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "图腾启灵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/011acc2768c083803f916e2464a96b33.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/be117c82d762b25fe16c83baacf851f1ff357416eca4bc2d26bbd212b6ddced8.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "化为熊灵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2e63e1979aedba66f287a38be436ced9.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/db2cccbe01f68bae0067cffcfe54c45fd3926562099a6a97ca65a874d3b0a780.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "传家宝",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/06766fca6ea40b506b37d82c268ef986.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e7873abc3e6c7bc7d53dd6933f0c829a297e42736a5fdcaa66e7fdba99fec7e2.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "古币翻新",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b3ecdb7a11e28f7e5ae375e038f9c27b.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8255cac5acd25faf04bef3d79d77e74869d93864bfaf050f3f7e051e77ff6592.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "生命绽放",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/d6665771601822c75bfdcab3827ffbc8.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f72e61b34f8328160cec346f921e80f88c678b38e594d33e8bc49c53d4c1dbe5.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/32bdc0abdca908ce9b472818cb2b3ce014d5330ba52ac18257da174cc8152c5f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/23dc3f783938e2a43de62ceca193a6535c16ad4e40b00f4ce6bc1a07dbd34eec.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "献祭之赐",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/94874dfc276b5f5c234b5a72bbacbd02.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/116600342564e33685c102b74ddbbcf1556ae00cdb604ecfab3ed80f7fee908a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2024da73569a0dcb5982216cc267e6430ccbab1e441c448e87f68804f339d019.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "贤士登门",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6e66a42d047af0ec7c6ed2e660416eb6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/831d876b29d064138c9044100674095d822e9055dd7440b823f484cadea675e0.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "零钱兑换",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/1b937e4a750873f3cb13cee21add1cbb.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/676a724f49ccb8e8cc5461bf73ab35fa3e1240f3eac57277d8e9aaa21925e7ed.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/18e82acd075cd02b6bec4e052a346ee6038a9bf15dbb9b331b992fbf44c3804c.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "乘胜追击",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/bd389f97f1f56c070a12eaa5d3acc48c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2ac9c1c5b6836c813750488e94a3260eab4db8d82da9913b27bc4d0ea49ebf50.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b0dd188c63976a932cf1287410cd8c935646dbc74a72152361af8fa22fee96f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "最终守卫",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cd2ee42747a406f19a6f32deb612b27e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ebbb9628191ec71ed6638980509aef92cd568ad3f46790a9efd62600ed073440.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "古币契约",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cee84208eba92c003822ba3e313d7993.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/09c1867b0945c5eea5fc1fa31563f07f2560c1d5eead903f3c451f1399ed4845.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "鲸吞",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/fe7c90bbbbb942adaf3cd3a84abdad2d.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5792b9e7a3cca8eb94fb73129c239c0c45c4d97b4e03233c92bfe1e847f909b5.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/507c2e56921ec80e4b4a0378deeba343154d043a1993c34eb89493a80e2c17a7.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "强力小弟",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/859e4b9cc8f173dcf8910025b06582c9.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/79f54d79bee8d6bf757b9aab388a13a2e1f906f605fcedb73852ad32b76ed947.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "幸运硬币",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6ef272284f66579261671e1a52955059.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/71f86f137612fb8d1ec5ab90b2246db75eb9ebf566f6048e6b992281d2dd1917.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "红豆之托",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/bd4e04dd8e1d06ea61aab24058fb0708.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0ac6b99e08d132995904d58ae3e2356097f846e950e741a74887bc3100d188be.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a38830920db6d1089825029cc75790fd6b2842bae3250059705e1886293afcec.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "技高一筹",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/23953071d332b129b059b3082e20ec52.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4f0c635674768da03dce92f51cb3c8a3889deb1f3b552250e59913cbc67805b4.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "膨化生命",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/0765ca7f237da5eebf2cf56c37a10850.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/93d8fb8a4967b35ff1ca25a024394965b5507f571dc76c3b16dc36a27a4d239c.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "乐善好施",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/5cae30c6b79af06456b9458fa80ba446.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9778cd85a81f8cb29aa027049309cb2c622a539f7cd4f85ba100af44dd917623.png"
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "锦囊妙计",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3c2cc90237812b54314b3d967483aee7.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/08353b26b4bdeda199adda02954e3f81f88efe0994c3813ce299bc4123a0c3b8.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8344dfd980e4c0991184356c734f0bd670d531a9bef4da3b8ba809c5dedb4683.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "一身是胆",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/58f9d25ee3085f3d8dab490292cc6d53.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ac5165bd33814bc820440d6e4e6ef047a647f96ad4f29a73f0c516b3d26981e3.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0315e5a968b820dcd64bdaab308596b85dd9c6f7a1c9fba8b36677f71b7284b7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e93a29b375cce5d892594bb26eeab7af63799d5d632d0e5d464e0470e1c45363.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "2阶",
+    "ten_tuong_hoac_the": "卧龙威势",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/31bbd6133c8b6e83a82741eac39afa5b.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/408964939ba184d832dc4d75070c95de7e4087630ae5ed6f140e39a70aa2e015.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/545a11ee6dfda6c108293598d0d3a090c0876bbb03321878c45c7018c845c32f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "虚构武装",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/074fe9f64b92b90d26a9f79ed8b858b0.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/baae973e3b790aa4aaf7c3d01efbef0e8221b920dd9e923392331ecf04569078.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "怒涛",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/9b8d3eca48b558c746084788c24ffe1a.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2d5ff86e8d83113487d287c04cfddc77d9ef86283a619d3d8246b93ef951b222.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "控制感应",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c002c0dd304e4440e750f4463a85e644.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/94c6ef83d1ed09b157225a97d629fb810edf8007d83f789738cabd75f77749ed.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "搏战",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b837739ef67ba5135609eac270337a57.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9b53f1acd3c41a0d78bc73ca5d59e76467920f9b18ec27ba727a71091a325a81.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "三三得三",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/31d3ec2e332bbe7fc7e94b8f87e0ba86.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/314ef024ccbe9b530bbfd2ff2a885d6261aa999e68d467507b8c06ff9118dc59.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "挂帅上阵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a5b1dd54a5c2ba694692abfa2fdf85ef.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/db97c7e395df1098eb4067b779a43adfb7184cbc4197852c5a7d9e5753d478d6.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "四重奏",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/122724b6d9679c93b63ebb8130d85b66.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ff12b81faad20a4cc5f96b193ac8e52def3ee1b4815f196a92c2b5d9dcdba2eb.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "三分领袖",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/47d98d32d4e0ab3948fa49427bc4b798.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e6c35590329343211e2e5d8a06fac313926076be1a71c194fc02b945d061c3c4.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "鬼神降临",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b837739ef67ba5135609eac270337a57.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d82e9763a41ede02175de4068ff01f1ad8895415e919aa8b9cde344f1aba3fc8.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "意外之财",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/03f2e5670f933db1b5761a4be17e64fc.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4a8037b176cab7543e814a3552f0eb23292b46d6329bb135aefd37a512a8f302.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "令行如流",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4300ebaefa847a845b537f509d36559f.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b9c4ec521a8ee799a6640047d4e058ff47f1ebf854fb0f13999ee5cd86490b75.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "穷兵黩武",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/de18b8b8688fb5d9b5555b0be60db5ca.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9a2c8e4514c71a74e31b0512a5f9f9f70f8c72afd42006251679f7b06c6c56ee.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "复现",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/430fc8e2fb4850b7eb744427de24ee2a.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/60f701031746fbc975a362fc3855fba7f8cb57b824db541dfc1615d6b00a09a2.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "暴君归来",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/d476e8c9b119a6f869bab7028b64f32e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/880eeabd8cb1c1e2f78655e5b3877430fa65e287b9e79611190bcb3542d435a7.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "演武",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e26682f65cdf46fa92e1ffe57798f09f.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/12dde3452381a9adbd3ea8b992760f1162ec18b351c99c3e7140dc2b27c25279.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "罡气护体",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e2a36a2d0c92682ba8e805e69ac6f7fa.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a8792acf4613a75d268b7b043f60f137ff35c687417bf72b57b921bbe474d097.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "钱生战力",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/916d0bc2d58e2ef7434549c6da292077.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/75614b7f78f24aa95937b47d1730a00691d8eb7765d63289648e9ab5d94741bd.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "千金换酒",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c155d9696fc152e506f9d3cd2c53ce27.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5dddd4da5bd855fe3d5c0ed8af24a9246c07454486022d16fd62015aa4a0dfee.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7b645dc0e9f36492d51645eb66f10d489dcaa5c53a4f08860bd363806dec61af.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "丝绸之路",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/31351f165f5c6a655995c8fcdb164786.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/32a42912c9e54c969bdb3b1ccaea2844b24f7b1706e8f0a7453c25386dafaa69.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/248ffdd95486bafd44de67b9282fc4e76caa0701a170d6ed8434cfd309695859.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e30b1c0c5176994a8f11ca31e98afec9fb5cdded5660785d4d8067bf9855ba2b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "春风化雨",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/f2dd2f39f10897344a225645e8ecd6c5.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6052e1f994512746fc0e3c07085307518b98b6cca03d6eae23543f9845749fe9.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "水晶穹顶",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6b0060780ff21c034bddac587249a7f2.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/945864b938568dccffba5323051f1f36b541db5f0cc3833953fcc807d1ccdcb8.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "望梅止渴",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/f3255a4def1de1131823be905ebb3159.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c07de03ef5585eaa4e35f0a6dc714599665a47290ca4b96c31b665859cb21051.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/01033b7ae061444ca5188aeed2c3abeacb3d9e302ef554e8d69441cc972629e9.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "四海来援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cd6ca2a4b0cffd9123003aeb06279f34.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/22c3bc664e0b5898ad03d60fc049c931dccfbf188be75844cc7feb1e377aab71.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "命运图腾",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/022220bcd2fd635f9db6e3883079d1ab.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/83ffaf0a863071ebd79bd24de0f522ef70f6f33c3b6aeb43aa44a125ce8f6241.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "神明庇佑",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/76d2db796f70c3d5339c7fb5e5a9b934.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ce4d0b1901e0884890b5e00d6723a869f40ba1a5b9c15ba758d59496c67cb76f.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "自我奉献",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/122724b6d9679c93b63ebb8130d85b66.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2eec06788c0e155cc4ff7fa504a289dd33e270d52d7f645e7368ff66ab97a773.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "始祖熊灵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b3269353af507f9c0870f8e27f637cd8.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/bbd610fa3850e2ffc1551586746a6a78a6e9ca80d2c58fe0514cccf023eb74f1.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b1d5c4e3dcab9c4f96db68bd787a3da887d1d04d8aec10e8ce349601a015e379.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "熊魂附甲",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e482f8df45a4d5f183f9d9125e0fcae6.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1f5c87025e9bd2a3cfacad8ae15baf6ae91714f8985ff23fee67fbfbff777e5a.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "一起发财",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/43b32ed44e054d0a4e921a23100cfc09.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5387bfaec32b16496dc2e9ee92eda5cb7b1b43461bce26e11090cdd232390649.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "古币机",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/38c5d8c14c650a19ad6524c2deb55873.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8ef7a305b55196120a8fbbe2c9a8cfc7297e101c6599f86b2fdad4d8a9658f8d.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "虚妄转生",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4d8468ac796db87192b468a949c58e71.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/89c0efb51ccef2d091331ed2d48bc6947247986955b8e2f39c787fd25842431d.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "升值",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/eeda68d327792c9dfc90b064b514640e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2efb94439c5c2e1a82ef9b239e7b2de3df572b619391c1fac06c23eaf865d0cd.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "灵祭升华",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/08ad843d5a0ce85eaa8b6907046fbe96.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5a19a4d9c59ad8053b1d9efcf96a160a896cd5892a08020a764ec1a9f35e6bcc.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "核心裂痕",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/12490efc53e5edecce5f0d54ea381522.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/05aceb8b8b1cd4af0128cfd8df539b4bb0de105dada693ef1417f352bf55b922.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/50265e86f5c142457422cffaa128c8336c322052923452db6fa4bba37be9874e.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "能源置换",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/587fc4f9e16db2b6cb1e72b33d5d368b.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e78a4bfbc492dfef33c1b51e9b7e820a90cea830f9356f977c1df147d5b7c16e.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "全域共鸣",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/8a2b546ff4ad27759ddeebac1314e04f.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/905c554c7dcd8a10d98d05b7947f24b58c35a7effb659d0747a431b7ddb8083c.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "升格",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c8a17d0e677a88fca7a6517eac1624c2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/dad3e4d79f645b7496aab93f7349f48b280a9c8ce897294b0691298bc2a88954.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1786e59815900d6b1c24211bcb5231b8d3dd77d8d576cd5e484c75cf6f853597.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ec44d4959e81ff5b1438986b4ba00850668c660abd5495cf1289f09ec993e3b5.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c2bd4a2d7ee8caf0f51ced5e31ca7a3d3dbd3b626d91f4f5633b08ec19900476.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "千里相聚",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/614cae67b3364c72a88e55b3a1238e0d.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/43c65a25a56d6a7d9ed5a2152900f9ff761c2766b4d50c10dfa944590b7e4edb.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "身外身",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6d3df9394db2d1863cdb7f9dea15e546.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f423f63809ce674a795985da301d8774f7b92db0e92024bd28f6ee70aee1f42d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3c3054e1a0e5bb52111df9e351f6daf54d45b5e4b7b5e0aaafebf7f44d6330eb.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "兄妹",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/afef5964ab77136c63977ee804950699.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/95a672723ef843dcb43334cff4b1c90cf95f1df9ab9ade9cf322acf2ac3d03df.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d6c0732b6d141d454e8806f0e86341397e62754e971a767d00be7c8acc58a1b4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/999051775d6decc1f99b9823895013aee3f6fbf21d9757dc5d3bcb0486af786f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "兽觉",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/8192863c1334520dd636e5ae4e4e3439.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ff19a835ac7de44d0442a30d09cfc46d2a4fb54e4066a4ea2f126db875eacaee.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/aa2d61f499d89001f7e27762d555894f7aafcea0a09cc68a4ceb823291a0ea5a.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/baed85268e688539790ada518c43314545914f68a8b676fe388b2a74be5430d1.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "巨像",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/f59b670d9a9945ef516d24c36a01e392.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a373942255d04ce71299619d411302600cf4337a87da6209d8e514c81a81a2f8.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1786e59815900d6b1c24211bcb5231b8d3dd77d8d576cd5e484c75cf6f853597.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ec44d4959e81ff5b1438986b4ba00850668c660abd5495cf1289f09ec993e3b5.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f1904e1ee12dba40e6666ce6f9a2d7baacd13f44c4359cea3465cffbf1314c07.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/21cdedaec717384eb698e7ca95f29da41645efeeb4894503ff976bcadad9f805.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "舞力全开",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/9406c33c5475900f7de60eed4512851d.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/608eacfd6020ee5f4fc15be2d1180494eddab93822ebdacc1ea0f7876ba7dff3.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "起舞",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4f702aedb7fd445c98127aa3d4b26f4a.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0d8b8261794b5fdb992ecd2d290dda48f795f7b928ae48deaee5406529fa2118.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1d7ef84a87af36485399fa8d07423bc0c7cced605bc5f97b333e093ca9a73ea6.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/dc2c6e78d7e3072a190fdd34e0d54a7f06471fe298913348d7e5be7064a84ad8.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "箭雨",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/904a6995cb1fc8dfd8daec48dfd9910a.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ad4cbfae7e6153a2a9f423d07e94e1bd0f6872a916d587ec6663d691041cdd5d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fb2bf850335afe7b3fb2e787d9f5a9d63066ed8df0dfcb96525f1cefffa04d2d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b7c6cbe94ce5efa235524ccd559c5e163b4f7a8e0ebca1752051590333045806.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "双生突袭",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c8ba73c3f49e179733dd9633a99a437a.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/cbbf77a1613a90e1dc606d4d7ffee2a9e9a69014a3857a9c27b2726c7bf48bad.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "双重分配",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/8334d1741b8a4a4412213cdf10aa8d73.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4c9dda52d225013161ce702f6d9446656e992df1d3f563ff3715ac56a8476b4e.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "毒奶",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/331f3a26740c3486707256001bb6ff2b.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/656b2c1ba2cef83e9a4c97805e7a9646ff50d546b44ad346fb1e1e5af3027ea3.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4b5d1392e1d44dde507946393731cbc68a21a105ceba60f27beb3a7751c54f5e.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1d6eea2a45643fd5f503ed52b5d2cdac6d19c0ae21aec3df2a732705a654bf91.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "逐星",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/58b92f8abed1a085f63bb3336895b021.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7f6005d77cd4eda94dfa22972fea7ae223aa2f7905a7830f2c0bac9f88456d20.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c2c96e7d449937d63b82cf934652b1d34e118f521b54c39b8bfbed81a68ea930.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7b645dc0e9f36492d51645eb66f10d489dcaa5c53a4f08860bd363806dec61af.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "宝盒",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c1cbf8e4e8bc2ccd2c7cdb8d9ebbf35f.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c87cde0904dbf6e56c2ddbe54ddefa63309e7e6d6ea894e6e2b115564abfd462.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3c3054e1a0e5bb52111df9e351f6daf54d45b5e4b7b5e0aaafebf7f44d6330eb.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/999051775d6decc1f99b9823895013aee3f6fbf21d9757dc5d3bcb0486af786f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "旋刃",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3de9b736ddb3d61da16dd45be608864a.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/25c9d231a76286b854384fda6e31417f27b706bc1f9f905db8b689443c06168d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a427e7998097e4598c6e673295c85ef9b7b9eadeb202eb03f2de3f8ac0bfa059.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fb2bf850335afe7b3fb2e787d9f5a9d63066ed8df0dfcb96525f1cefffa04d2d.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "慕名而来",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4e85088926fa7fec9817c12908cc920e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5008045970b02f886c6701fd86f14b7bf80762d275c9f912ac70ee58841e9fe8.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "狂野帷幕",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/5df9d1d742120405bec799d66a83eb8a.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b4924472715e35f7a2b638236682b9c6dd68944dd32d68752ed82dc2711cbffc.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "积少成多",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/38da00de3a426a0f239f0a5e5801d30b.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/05b5b3d9914013b2dea8a2a5413293b31082e252f3bacce6af216b4ecc85a5bb.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "超级蓄能",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/7a21bd2b2ed32d78a4bb11126323cf5d.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/48c2540e3010159e25f1ac5830495f7932e58e7a87af632befc9b188a113b58e.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "镜像迷离",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/ee079fe36b2ff628e9dc652634b98ecd.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a4cf6c196ae25b621cad5136ba2d727ac7c9f79e6bae880cdddb6d7c8d4b2f6f.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "摄人心魄",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6935b17998d8cb7e3f75a326dc708b1e.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c78fdd667ddd3009de00b54e7d0e722b258d6adf8c815ee49f6c07c301c5ea5e.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fb2bf850335afe7b3fb2e787d9f5a9d63066ed8df0dfcb96525f1cefffa04d2d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/930708500c7a8726e1f6d0500c3f6f94acc154add14a7b4594331f4fa3818873.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3c3054e1a0e5bb52111df9e351f6daf54d45b5e4b7b5e0aaafebf7f44d6330eb.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "控魂",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6a8dd95e56882a13aad774c9d274ccba.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d6613fa8560709ebee9ecc04479a0dda8159c8ebe37bf03e6d5a99f954bfb702.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fb2bf850335afe7b3fb2e787d9f5a9d63066ed8df0dfcb96525f1cefffa04d2d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/930708500c7a8726e1f6d0500c3f6f94acc154add14a7b4594331f4fa3818873.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3c3054e1a0e5bb52111df9e351f6daf54d45b5e4b7b5e0aaafebf7f44d6330eb.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "能量汲取",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/64da45fb0b891bb2b996c6b87e699bda.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ebd9a6feb64acc9d82d071d37bad0c51b343afc06bf893753775c7742980444b.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "双生相",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/7271bb871ba22375b9055b1c2f1cb828.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5e504f12f770c4c2949b05ccdacfd99554045e49f624f73018069d21a482af56.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "生生不息",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cecad436bd0a2e429c2d6a64b72562fa.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/735a11029a208da12b679d8cc97ba6d07d863c30f6a33236e0a2ad1b0d9df857.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "定向传输",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/d1245911b04ad6a30279d1faa344699d.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d1f50f4018e5835a4e37151d6cc0fd390acdfce44eaf06f8f54fa35a32684569.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "点兵点将",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/07829b3815c1dc7ed3d4aa79fc965920.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ce208b32ca0f361e9d68f4a3eed007bf5975cf9d03698b9e322b9b4d0de3f13d.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9640d56e7c24e929e9f1026bcdae17d8a4584a5c2b77be27656ebdd44f1ac4d1.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "三分强援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6fd32bb0d88fcfe5587b8a6bd46dc8ab8fd9ffd2fad9943e7e884e208eb7322d.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "三分增援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b85d4864ee841632525cc69bafb62996f518147082cb3e3975c170f990f88b9d.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "护命灵珠",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a873aeb49c30ef73698899e3fb09f23e.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4d93abadf8668b92dc25ffd6d47371958fd017b03267c947602b6df0ec151e4f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1f67e2b7ccfb6450e7e879fb1673738d1f3b81c07f926afe567a6054a5b92caa.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "光辉圣铠",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3688e2ddd393a7cc5245156e49fc203c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a3387aae04a2984598b5ce169dc8297bfdcc99626bdb2daeb292297bfaf9aad4.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/08afb1c8d12b4be48f69885f3fee5ef0bc95cf34fd1bd520fc5e382e896bd9af.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "魂祭绝刃",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/3df197d85de6189352d88f0930104264.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8d24d8a75c8fbda8644fb00a6c2bd52ce8af18824535808f402f60a1d90f2ee2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7f0d3b8cd2248155f1152052d3300aaa84e090c34a8c0175f41a0ef8b8493d78.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "根源之力",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/ae254e5a8615c5693b1b65477fad08b9.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/9ac57b48e3e434a06611e6eac3c8ada1973cad592e929a66f43dcdecd9364193.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/52c4801ddc3af9776bbd4f02ec24dbce87fa75dc4e6dc2340e8a2ef15f02081b.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "灵泉项链",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/f9aaf6ed44aea1abd0355a19b39ec6ac.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1d70787f9596530caedaa2ad8c72f6531a6e37af9e9ff25781f5dd5b772875bd.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4922eeb90c5b2f385ac0040f40b4b926823c0775a6a648523edfa83c8ea6f5c3.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "魂灭灵冠",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/4f10ce4759f2702c16c4090b7f03ee7c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6b6208fcacb8d5b3afc7e7868c022e0a2bbfd494ac6a0d103a9fb6e26cd4dd49.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6717d5359c185d552e1c45227dd9223b79668a0a18979d5623b3d9363790732a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "日落海强援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f58ff745ed03f936632799194205bd899696064e3238aaf32e911cf4d741208f.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "强敌克星",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/ac047aceb9e4e7576d488980527e6fdc.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/19bbebbef0c7f263dea19927f662418558cc3406fbea3abb664e7aad5712b8ca.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c9e7f71729a1bbcb774a349bbf55c9698be0325b5c30d874c8ab47fe43e05161.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "灵泉法杖",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/bb4c2494a30e3ffdeed97d90cba275ef.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/db009c9d8b5827aac017308d9941edc2bd91ed6780b69fe2c536bab0daadb77b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a6998ed866a3863bb5b0a6cd494aedc6b41fb960a3fdcd96461fd052bba07ac1.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "鼓舞之戒",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/cfe9f3552db4bb31f55ad8133ef1d8fb.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/52226e3b4c0bfc5dfa9b95b09f3e96339a370496a960ced30295b40b7cf5ca51.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a6b1d99eb1b392c7b1bf7b90668176e4c3f5a170ec861969e0263caebf21c343.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "梦魇之牙",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a75295263c9edd7163e1cbe974904d5f.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/52d82c41256272d531aea391b5f5b264ea317f3c27374aa21546c05e6d46f8a0.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f4c58ac78d7ac8f8422b62b78535324ceb33e9ef2d2235c4374114697e08b92f.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "末世",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/b912a3a7551267d85f2c578230982ef2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2470680eefeb67b15dd10012b3086244b492429e03effb6e32ea08abf7e8456c.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/84f151822267bf68e3e6f16e9f5db13f29755e4b66d497b19ff9e022297f1ae7.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "日落海增援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b1f7970a62db8e091ee01c49502ca8a5a24fb8f5581694d9cf0f441149a8d858.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "大河强援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6a6b4f0e06bd756b25daddfde21daa9c4ae9eae0368f603e601aea87cc3cd6d2.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "大河增援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3e4cb4c8a9c2afda2b54dcaa58c2b778e1c5735099f37424c41519e2c3a091af.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "逐鹿强援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2400aec00c77b044a8e4e01e94b7bf7007127ad96dd350adbcb6cf196d612b7c.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "逐鹿增援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/19170a6c520ed2e6aae65d491c10bc3ceb5c5ddd9e40015122f96553ede90e0d.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "拾荒者",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/eac097c1906cc8042d454e9d569d43c9.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b6bfd4b5b9533cedf0afe24f30f08b65cc6f89e56abe94a66fedf96c63b99ef7.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/996da28f1d4f1047c79aabd26dae6d4c603203c165871aeea74feb536746700a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "河洛强援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/6ab8f91971e316a78c6ce77214a923ea1352e153e2541511a961175138d827a0.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "河洛增援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/62eb094e22114785d113f2758dfd8695.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/711e21b0bb90ce1d5be1ac7cd101fae06dc17132be5d27f154da0a09bdb438ee.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "天兵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/614cae67b3364c72a88e55b3a1238e0d.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/4d1bb5ff2a5f1e865ded38c193c44d41d08073dfe720eeffa616ecb854073352.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "守护灵",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e3ba1b315573b08f3050d42423480380.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/460ccfab98e5f6cb0691a22abb71288a1a1a0cf3be886872396e96671dd52176.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "群星璀璨",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/acfc540d2c111f37ac864a7bcb7f7897.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1c33cf95b12f8c4835a94af543d1df6851b5d1771380e26d4bf994fb906194f6.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/389302ff201ffcaa227a7d73bbab68a9627adb1712c09dd113f9877b76106395.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/996da28f1d4f1047c79aabd26dae6d4c603203c165871aeea74feb536746700a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "特大电池包",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/9dceb5af954bb45632ee5fdf74369f6b.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b3756093f2bac420024cf1f19fecabe8cdcdaa244f46583857880339a1f20be3.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "强者恒强",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/8ebc2f964655de7557f6aa5b91f47529.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/e062898f58e2205683418a3fe7d7ac9f3387d92cd113ca68be5bf7cfa4741869.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "无影手",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/aa6333aed2ca549c818cbabf6a0044f3.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/5d702161207c4ebdd887fd853cfe7a1f95d8b75cae9172173271d6237a38bfe3.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "学霸",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/e8adeceadd9e79b3e9612469c95f9c9c.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/f14d28ff27e2d65cdfe9c3789e1276e1bcd8d30b12494bf2c593ec68fc8a3496.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/41174ab671f07b251ae63e42282762aa1c30e9fad9543e6229bd2b01ff702cf1.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "随机强化",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/c9ca46fb5bb5dcfc0d7c8cb46253bad0.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/ac8a19dfea466a212f24cb25ab44acf3ce5dd68f3e68ace47e2b4ad630584cd6.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "绝境逆袭",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2d53b222443c766132f9fc28230b9e28.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/61f26e0a16222f557cc0a45d0dbaa927acb0901b927b9809d8311b489e6d8edb.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "买橘子去",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/667b38f3c1dbf7d1d55f7b73fcda43a2.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d5f4dd394b16d7a7a32b54f87aa5f14b4f6b440bc16e769881a03b7bac554727.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/51a4f859735d683918e1539fa0f346517d70b1169752a11cfe99db6f47f01e99.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "破败神威",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/ead3e11b38c7a4ee34b2216a5222c246.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d6047aedd1a7b47889d386c4e82a3c0d1d359d74e57952d37e26927c44d22f71.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "战略中枢",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a8b2f6dbe605d71faf317e942f5067cf.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/50e063eca0b7475a40428ba67ccb3dc5af366ef8aaed968d109dfecc8db69b08.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/aa87a9a8dc2e8ac29986682c06e937918303f32c328d723c35d048228feba233.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "延迟满足",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a86e8fe4e758684e0af136e4056e2f70.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/83126b7ad13984d067a49cbbe4746d984e78f18612bac21af099858d544f65d2.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/c113a343350f5be84f75233ff80b076f641084ee76d1112086f869e5691102ac.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "全副武装",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/7977d831e698465a99f90a184fa4d869.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fba2f3ae0a13adf334f7033858e3679b5decc5579128076ae7f0bd4dfb16b567.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "同心协力",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/5c8b9502a3699f284d88d36134ee233e.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b7a50bbd1ef0dfcf58e4c966748badd7b99a6a78cc417559bc605e3980e190df.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "泉水",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/32b057049acb29776569b33d837fa232.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d00c28bbd797b280b8c9d606717483f7d6908eed8bdb997da34f4adef7413ffc.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "三人游",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/55e1035d61af6495579906bd63cc5176.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a17e8ad4bb739966f16bfaf9327c14338f52d7af9e876fa73200a07df82e9ce9.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "扩编高峰",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/328adfa9c5b0d0fe8df01ab35a9374c9.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7753564ac31d8750f87b9be14c6fe3fc53198fc7984bf7a748e50af9a362b689.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "补给线：整备",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6bec26f7fd55ed8392f8862c4a0a9e8b.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a24136fbdc827af38464de5f32ca2025e5ad25c98ac86700533c3fef940cb4cf.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "补给线：牺牲",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/85c4428df8e330b3f30bd18eee1b9431.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d8a02b7f4c40562c2d9a9eb5053e33a61bbf8b204d4df4d37701a43fdbdce800.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "中流砥柱",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/9e7df6138aa8ad19d490bda97d785116.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/fceb0890665740a60e7b64285bd0c5e1e392d1370c7a4b6ab7d74106d2efb1fa.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "补给线：登场",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/943bb7d4f72a325077d6613d2a11d5c7.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/39d9bbbcec74f28d85e281e92c40a8ef983896083e71f36e490a4e2cf3a56e23.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "混沌次元",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/6fda6deb3cccd116325f22fc4c9eae13.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/124b7765af29a57c4b0a69ef6fdc7362f82d3e694773e753906125591fac990b.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/b6e2f4bf1cb8438806202314d2537008e897299d543b2555d1503c87f5caa55d.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "小咖秀",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/645a85811ac3cf4b563b84b7e7c80977.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/13d641f3f6b9bba8646dc747dfbf31fb9b306934698e5929b42f45e751b463b2.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "永不独行",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/0b9f02ceaf9d9e673b2512991b46c665.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/a86093e97e3d7504e5d1f1f2c0157dd28230fe0080be8b73c031767e0068324f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/441795f291f195fe97f92ca878dfa6e4232a63666e71cfe0ae3dacd3bd134da3.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/7d009751ac124c09edffae097ddf5c3a904e699084ea2dec149520896e5a2a25.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "搏命",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/db68d14f08ae8464eb456ac5f293a489.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/60c92b54ed4f29b2cc38e6d8ff887d8e3bc4e977bd9e51ae49fe9825b4cf2730.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "紧急救援",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/0cb57eea09ec2cf65270ffc896a96f46.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/1395a187dce36cb2174bfa8e4b8be9b5b723f7e980aa6159b3eadd206eed433f.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/996da28f1d4f1047c79aabd26dae6d4c603203c165871aeea74feb536746700a.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "危险数字",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/97c4c18749c62b40e157e9405ab23701.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/8828ffba881d569c26b7df610851cbd4187794048c74c45abb437e73306b5c6d.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "大明星",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/2e91ec01b5997b8476178a4fd9a8f756.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/d383db87afaa9178949fe2d7f3c846da47017f1aa6f490480fcf167681cd77a5.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/46a214e1ac8edb69097851dfbcd914fac8bb50df779d55a4448f419ac7fb6b89.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "王牌部队",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/a26611c135f7276eb5f86f300ae2f81a.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0dee010e97571f83692a2b15b7da5d0db935fe2ce713ca50633346a1dd23ce54.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "有舍有得",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/dea4abd4b82055d81e2d9ef3679d7964.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/0dd2d8bbf309f3f686647cbf6d79f0fc5cc71d8fc389435486bef7a006747b4c.png"
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "资深猎头",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/64da45fb0b891bb2b996c6b87e699bda.png",
+    "anh_card": [
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/be875295cac215c3c1a3ec8f7bd6b8580f158ab23ed66dd3c3cfd4382f3383a6.png",
+      "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/3e36770f6677b91a9cfce38c7713d963816fd90cf6a04072afc9eb8ce3bf2465.png"
+    ]
+  },
+  {
+    "ten_khu_vuc": "3阶",
+    "ten_tuong_hoac_the": "无限进步",
+    "anh_icon": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_talent_auto/88524946ef82788ce4c08038847b1a18.png",
+    "anh_card": "https://staticimage-prod.osgame.qq.com/CardCapture/publish/release/Texture/2458210fea4341db41904e2c3441be80bff4592742dcb2e8935b25d1fa019c54.png"
+  }
+]

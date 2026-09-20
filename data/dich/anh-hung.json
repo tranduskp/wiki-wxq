@@ -1,0 +1,1049 @@
+{
+  "干将莫邪": {
+    "ten": "Can Tương Mạc Tà",
+    "mo_ta": "Khi Can Tương Mạc Tà có mặt trên sân, nhận Trang bị thường Song Kiếm · Hùng.",
+    "ban": {
+      "2": {
+        "ten": "Song Kiếm · Hùng",
+        "mo_ta": "Tốc độ đánh +30%. Nếu người mang là Can Tương Mạc Tà, giới hạn pháp lực giảm xuống còn 10."
+      },
+      "3": {
+        "mo_ta": "Khi Can Tương Mạc Tà có mặt trên sân, nhận Trang bị thường Song Kiếm · Hùng và Song Kiếm · Thư."
+      }
+    }
+  },
+  "项羽": {
+    "ten": "Hạng Vũ",
+    "mo_ta": "Hy Sinh: Tất cả Đồ Đằng +3 cấp vĩnh viễn, và trong vòng này vật triệu hồi của bạn miễn nhiễm khống chế.",
+    "ban": {
+      "2": {
+        "mo_ta": "Hy Sinh: Tất cả Đồ Đằng +6 cấp vĩnh viễn, và trong vòng này vật triệu hồi của bạn miễn nhiễm khống chế."
+      }
+    }
+  },
+  "鬼谷子": {
+    "ten": "Quỷ Cốc Tử",
+    "mo_ta": "Khi có mặt trên sân, triệu hồi Tiên Tri Đồ Đằng.",
+    "ban": {
+      "2": {
+        "ten": "Tiên Tri Đồ Đằng",
+        "mo_ta": "Khai Đoàn: 2 Anh Hùng 【Đại Hà Lưu Vực】 gần nhất nhận Trang bị Huyền Vi Chi Chủng."
+      },
+      "3": {
+        "ten": "Huyền Vi Chi Chủng",
+        "mo_ta": "Người mang nhận Hy Sinh: Anh Hùng phe ta có tỉ lệ máu thấp nhất hồi 200 (+20% máu tối đa) điểm máu."
+      },
+      "4": {
+        "mo_ta": "Khi có mặt trên sân, triệu hồi và cường hóa Tiên Tri Đồ Đằng."
+      }
+    }
+  },
+  "虞姬": {
+    "ten": "Ngu Cơ",
+    "mo_ta": "Khai Đoàn: Mỗi có 1 Đồ Đằng trên sân, bản thân và ngẫu nhiên 2 Anh Hùng 【Đại Hà Lưu Vực】 khác nhau +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khai Đoàn: Mỗi có 1 Đồ Đằng trên sân, bản thân và ngẫu nhiên 4 Anh Hùng 【Đại Hà Lưu Vực】 khác nhau +1 cấp."
+      }
+    }
+  },
+  "云中君": {
+    "ten": "Vân Trung Quân",
+    "mo_ta": "Thiểm Hiện\nKhai Đoàn: Mỗi 1 Trang bị mà Anh Hùng của bạn mang, Anh Hùng đó +1 cấp vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện\nKhai Đoàn: Mỗi 1 Trang bị mà Anh Hùng của bạn mang, Anh Hùng đó +2 cấp vĩnh viễn."
+      }
+    }
+  },
+  "张良": {
+    "ten": "Trương Lương",
+    "mo_ta": "Mỗi khi đơn vị của bạn kích hoạt hiệu ứng Khai Đoàn, ngẫu nhiên 3 Anh Hùng phe ta trên sân +1 cấp vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi đơn vị của bạn kích hoạt hiệu ứng Khai Đoàn, tất cả Anh Hùng +1 cấp vĩnh viễn."
+      }
+    }
+  },
+  "少司缘": {
+    "ten": "Thiếu Tư Duyên",
+    "mo_ta": "Khi có mặt trên sân, triệu hồi Nhân Duyên Đồ Đằng.",
+    "ban": {
+      "2": {
+        "ten": "Nhân Duyên Đồ Đằng",
+        "mo_ta": "Đơn vị của bạn mỗi khi tổng cộng đánh thường 25 lần, tất cả Anh Hùng phe ta +1 cấp vĩnh viễn."
+      },
+      "3": {
+        "mo_ta": "Khi có mặt trên sân, triệu hồi và cường hóa Nhân Duyên Đồ Đằng."
+      }
+    }
+  },
+  "瑶": {
+    "ten": "Dao",
+    "mo_ta": "Khai Đoàn: Chia sẻ Trang bị thường đầu tiên của bản thân cho ngẫu nhiên 3 Anh Hùng phe ta (kéo dài 15 giây).",
+    "ban": {
+      "2": {
+        "mo_ta": "Khai Đoàn: Chia sẻ Trang bị thường đầu tiên của bản thân cho ngẫu nhiên 3 Anh Hùng phe ta."
+      }
+    }
+  },
+  "大司命": {
+    "ten": "Đại Tư Mệnh",
+    "mo_ta": "Khi có mặt trên sân, triệu hồi Vãng Sinh Đồ Đằng.\nMỗi khi bạn kích hoạt hiệu ứng Hy Sinh: Vãng Sinh Đồ Đằng +2 cấp vĩnh viễn và nhận 50 điểm pháp lực.",
+    "ban": {
+      "2": {
+        "ten": "Vãng Sinh Đồ Đằng",
+        "mo_ta": "Khi vật triệu hồi bậc 1-3 của phe ta (ngoài Đại Tư Mệnh Linh Thể) lên sân, hấp thụ đơn vị đó, khiến Vãng Sinh Đồ Đằng +1 cấp vĩnh viễn và nhận 15 điểm pháp lực."
+      },
+      "3": {
+        "ten": "Vãng Sinh Đồ Đằng (Hình Thái Sơn Quỷ)",
+        "mo_ta": "Khi vật triệu hồi bậc 1-3 của phe ta (ngoài Đại Tư Mệnh Linh Thể) lên sân, hấp thụ đơn vị đó, khiến Vãng Sinh Đồ Đằng +1 cấp vĩnh viễn và nhận 15 điểm pháp lực."
+      },
+      "4": {
+        "mo_ta": "Khi có mặt trên sân, triệu hồi Vãng Sinh Đồ Đằng.\nMỗi khi bạn kích hoạt hiệu ứng Hy Sinh: Vãng Sinh Đồ Đằng +4 cấp vĩnh viễn và nhận 50 điểm pháp lực."
+      }
+    },
+    "ghi_chu": "Ban 2 và 3: 大司命灵体 dịch 'Đại Tư Mệnh Linh Thể' (có thể là tên một đơn vị, chưa có trong bảng thuật ngữ). Ban 3 in thêm 山鬼形态 trong ngoặc, dịch '(Hình Thái Sơn Quỷ)'; ban 2 và 3 chữ mô tả y hệt nhau."
+  },
+  "刘邦": {
+    "ten": "Lưu Bang",
+    "mo_ta": "Khai Đoàn: Phá hủy tất cả Đồ Đằng của bạn, mỗi cái bị phá hủy, Lưu Bang +5 cấp vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khai Đoàn: Phá hủy tất cả Đồ Đằng của bạn, mỗi cái bị phá hủy, Lưu Bang +10 cấp vĩnh viễn."
+      }
+    }
+  },
+  "韩信": {
+    "ten": "Hàn Tín",
+    "mo_ta": "Thiểm Hiện\nMỗi khi Anh Hùng của bạn kích hoạt hiệu ứng Chỉnh Bị hoặc Khai Đoàn, Hàn Tín +1 cấp vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện\nMỗi khi Anh Hùng của bạn kích hoạt hiệu ứng Chỉnh Bị hoặc Khai Đoàn, Hàn Tín +2 cấp vĩnh viễn."
+      }
+    }
+  },
+  "东皇太一": {
+    "ten": "Đông Hoàng Thái Nhất",
+    "mo_ta": "Đồ Đằng sẽ không bị ưu tiên tấn công.\nKhai Đoàn: Nhận Cấp Tạm Thời bằng 15% cấp của mỗi Đồ Đằng.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đồ Đằng sẽ không bị ưu tiên tấn công.\nKhai Đoàn: Nhận Cấp Tạm Thời bằng 30% cấp của mỗi Đồ Đằng."
+      }
+    }
+  },
+  "敖隐": {
+    "ten": "Ngao Ẩn",
+    "mo_ta": "Trong giao chiến, mỗi Đồ Đằng cứ mỗi 4 giây cung cấp cho Ngao Ẩn 16% tốc độ đánh và 4 Cấp Tạm Thời.",
+    "ban": {
+      "2": {
+        "mo_ta": "Trong giao chiến, mỗi Đồ Đằng cứ mỗi 4 giây cung cấp cho Ngao Ẩn 32% tốc độ đánh và 8 Cấp Tạm Thời."
+      }
+    }
+  },
+  "曜": {
+    "ten": "Diệu",
+    "mo_ta": "Cấp mà Anh Hùng của bạn tăng được khi Hợp Thành +1.",
+    "ban": {
+      "2": {
+        "mo_ta": "Cấp mà Anh Hùng của bạn tăng được khi Hợp Thành +2."
+      }
+    },
+    "ghi_chu": "合成 (có biểu tượng nhỏ trước chữ, in đậm) dịch 'Hợp Thành' như từ khóa; chưa có trong bảng thuật ngữ, chủ site chốt. 曜 dịch Diệu (Hán Việt chuẩn)."
+  },
+  "孙膑": {
+    "ten": "Tôn Tẫn",
+    "mo_ta": "Cứ mỗi 3 lần Anh Hùng của bạn tung kỹ năng, Anh Hùng đó +1 cấp vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Cứ mỗi 3 lần Anh Hùng của bạn tung kỹ năng, Anh Hùng đó +2 cấp vĩnh viễn."
+      }
+    }
+  },
+  "芈月": {
+    "ten": "Mị Nguyệt",
+    "mo_ta": "Mỗi khi bạn dùng bài Hiệu Ứng, 1 Anh Hùng 【Trục Lộc】 phe ta mang nhiều Trang bị nhất +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi bạn dùng bài Hiệu Ứng, 1 Anh Hùng 【Trục Lộc】 phe ta mang nhiều Trang bị nhất +2 cấp."
+      }
+    }
+  },
+  "墨子": {
+    "ten": "Mặc Tử",
+    "mo_ta": "Khi khiên của đơn vị phe ta bị phá, máu tối đa của đơn vị đó +30 vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi khiên của đơn vị phe ta bị phá, máu tối đa của đơn vị đó +60 vĩnh viễn."
+      }
+    }
+  },
+  "廉颇": {
+    "ten": "Liêm Pha",
+    "mo_ta": "Khi Liêm Pha tung kỹ năng, các Anh Hùng khác của bạn nhận 5 điểm khiên. Mỗi lần dùng bài Chiến Thuật sẽ tăng điểm khiên này.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Chi Viện",
+        "mo_ta": "Tức Thời\nTất cả Anh Hùng 【Trục Lộc】 nhận 50 (+25×số lần đánh ra bài Chiến Thuật, hiện tại: 75) điểm khiên trong vòng này."
+      },
+      "3": {
+        "ten": "Chiến Thuật Chiêu Mộ",
+        "mo_ta": "Tức Thời\nNhận ngẫu nhiên 1 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "4": {
+        "ten": "Chiến Thuật Diễn Tập",
+        "mo_ta": "Tức Thời\nCấp của tất cả Anh Hùng +1."
+      },
+      "5": {
+        "ten": "Chiến Thuật Suy Diễn",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, giới hạn pháp lực của nó trong vòng này -5 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 20 điểm)."
+      },
+      "6": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +4."
+      },
+      "7": {
+        "mo_ta": "Khi Liêm Pha tung kỹ năng, các Anh Hùng khác của bạn nhận 10 điểm khiên. Mỗi lần dùng bài Chiến Thuật sẽ tăng điểm khiên này."
+      },
+      "8": {
+        "ten": "Chiến Thuật Diễn Tập Cao Cấp",
+        "mo_ta": "Tức Thời\nCấp của tất cả Anh Hùng +2."
+      },
+      "9": {
+        "ten": "Chiến Thuật Chiêu Mộ Cao Cấp",
+        "mo_ta": "Tức Thời\nChọn 1 trong 3 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "10": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +8."
+      },
+      "11": {
+        "ten": "Chiến Thuật Chi Viện Cao Cấp",
+        "mo_ta": "Tức Thời\nToàn bộ Anh Hùng 【Trục Lộc】 nhận 100 (+50×số lần đã đánh bài Chiến Thuật, hiện tại: 150) điểm khiên trong vòng này."
+      },
+      "12": {
+        "ten": "Chiến Thuật Suy Diễn Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, khiến giới hạn pháp lực của nó trong vòng này -10 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 40 điểm)."
+      }
+    },
+    "ghi_chu": "Ban 2-6 và 8-12 là các lá bài Hiệu Ứng Chiến Thuật; tên lấy đúng thuat-ngu.json. Lưu ý thuat-ngu.json đang có 援护战术 = Chiến Thuật Chi Viện nhưng 高阶援护战术 = Chiến Thuật Yểm Hộ Cao Cấp (hai bản không thống nhất Chi Viện/Yểm Hộ), chủ site chốt. Mô tả bám hieu-ung.json nhưng dùng thuật ngữ README: 转瞬 = Tức Thời, 回合 = vòng, 护盾 = khiên (hieu-ung.json còn chỗ ghi 'lượt', 'Khiên', 'Chớp Nhoáng', 'lá chắn')."
+  },
+  "蒙恬": {
+    "ten": "Mông Điềm",
+    "mo_ta": "Hy Sinh: Triệu hồi 2 Huyền Ung Sĩ Binh có cấp bằng cấp của bản thân.",
+    "ban": {
+      "2": {
+        "ten": "Huyền Ung Sĩ Binh",
+        "mo_ta": "\"Có lệnh thì làm, có cấm thì dừng, không được lơi lỏng!\""
+      },
+      "3": {
+        "mo_ta": "Hy Sinh: Triệu hồi 4 Huyền Ung Sĩ Binh có cấp bằng cấp của bản thân."
+      }
+    },
+    "ghi_chu": "玄雍士兵 dịch Huyền Ung Sĩ Binh (Ung là tên nước Ung, Hán Việt). Ban 2 chỉ in một câu trích dẫn, không có mô tả cơ chế."
+  },
+  "白起": {
+    "ten": "Bạch Khởi",
+    "mo_ta": "Mỗi vòng, lần đầu dùng bài Hiệu Ứng, nhận 1 lá Chiến Thuật Chi Viện.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Chi Viện",
+        "mo_ta": "Tức Thời\nTất cả Anh Hùng 【Trục Lộc】 nhận 50 (+25×số lần đánh ra bài Chiến Thuật, hiện tại: 75) điểm khiên trong vòng này."
+      },
+      "3": {
+        "mo_ta": "Mỗi vòng, lần đầu dùng bài Hiệu Ứng, nhận 1 lá Chiến Thuật Chi Viện Cao Cấp."
+      },
+      "4": {
+        "ten": "Chiến Thuật Chi Viện Cao Cấp",
+        "mo_ta": "Tức Thời\nToàn bộ Anh Hùng 【Trục Lộc】 nhận 100 (+50×số lần đã đánh bài Chiến Thuật, hiện tại: 150) điểm khiên trong vòng này."
+      }
+    },
+    "ghi_chu": "Ban 2 và 4 là lá Hiệu Ứng dùng chung (ảnh của Liêm Pha); xem ghi chú Chi Viện/Yểm Hộ ở Liêm Pha."
+  },
+  "老夫子": {
+    "ten": "Lão Phu Tử",
+    "mo_ta": "Mỗi vòng, lần đầu Hợp Thành, nhận 1 lá Chiến Thuật Chiêu Mộ.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Chiêu Mộ",
+        "mo_ta": "Tức Thời\nNhận ngẫu nhiên 1 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "3": {
+        "mo_ta": "Mỗi vòng, lần đầu Hợp Thành, nhận 1 lá Chiến Thuật Chiêu Mộ Cao Cấp."
+      },
+      "4": {
+        "ten": "Chiến Thuật Chiêu Mộ Cao Cấp",
+        "mo_ta": "Tức Thời\nChọn 1 trong 3 lá bài Anh Hùng 【Trục Lộc】."
+      }
+    },
+    "ghi_chu": "合成 (có biểu tượng nhỏ, in đậm) dịch 'Hợp Thành' như từ khóa, xem ghi chú ở Diệu."
+  },
+  "西施": {
+    "ten": "Tây Thi",
+    "mo_ta": "Chỉnh Bị: Nhận 1 lá Chiến Thuật Suy Diễn.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Suy Diễn",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, giới hạn pháp lực của nó trong vòng này -5 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 20 điểm)."
+      },
+      "3": {
+        "mo_ta": "Chỉnh Bị: Nhận 1 lá Chiến Thuật Suy Diễn Cao Cấp."
+      },
+      "4": {
+        "ten": "Chiến Thuật Suy Diễn Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, khiến giới hạn pháp lực của nó trong vòng này -10 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 40 điểm)."
+      }
+    }
+  },
+  "镜": {
+    "ten": "Kính",
+    "mo_ta": "Thiểm Hiện\nMỗi khi dùng 2 lá bài Hiệu Ứng, cấp +1.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện\nMỗi khi dùng 2 lá bài Hiệu Ứng, cấp +2."
+      }
+    }
+  },
+  "扁鹊": {
+    "ten": "Biển Thước",
+    "mo_ta": "Khi khiên của đơn vị phe ta bị phá, gây cho kẻ địch xung quanh sát thương pháp thuật bằng 10% máu tối đa của Anh Hùng này (thời gian hồi 1 giây).",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi khiên của đơn vị phe ta bị phá, gây cho kẻ địch xung quanh sát thương pháp thuật bằng 20% máu tối đa của Anh Hùng này (thời gian hồi 1 giây)."
+      }
+    }
+  },
+  "嬴政": {
+    "ten": "Doanh Chính",
+    "mo_ta": "Khai Đoàn: Công pháp thuật +7. Mỗi lần dùng bài Chiến Thuật sẽ tăng thêm chỉ số này.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Chi Viện",
+        "mo_ta": "Tức Thời\nTất cả Anh Hùng 【Trục Lộc】 nhận 50 (+25×số lần đánh ra bài Chiến Thuật, hiện tại: 75) điểm khiên trong vòng này."
+      },
+      "3": {
+        "ten": "Chiến Thuật Chiêu Mộ",
+        "mo_ta": "Tức Thời\nNhận ngẫu nhiên 1 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "4": {
+        "ten": "Chiến Thuật Diễn Tập",
+        "mo_ta": "Tức Thời\nCấp của tất cả Anh Hùng +1."
+      },
+      "5": {
+        "ten": "Chiến Thuật Suy Diễn",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, giới hạn pháp lực của nó trong vòng này -5 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 20 điểm)."
+      },
+      "6": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +4."
+      },
+      "7": {
+        "mo_ta": "Khai Đoàn: Công pháp thuật +14. Mỗi lần dùng bài Chiến Thuật sẽ tăng thêm chỉ số này."
+      },
+      "8": {
+        "ten": "Chiến Thuật Diễn Tập Cao Cấp",
+        "mo_ta": "Tức Thời\nCấp của tất cả Anh Hùng +2."
+      },
+      "9": {
+        "ten": "Chiến Thuật Chiêu Mộ Cao Cấp",
+        "mo_ta": "Tức Thời\nChọn 1 trong 3 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "10": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +8."
+      },
+      "11": {
+        "ten": "Chiến Thuật Chi Viện Cao Cấp",
+        "mo_ta": "Tức Thời\nToàn bộ Anh Hùng 【Trục Lộc】 nhận 100 (+50×số lần đã đánh bài Chiến Thuật, hiện tại: 150) điểm khiên trong vòng này."
+      },
+      "12": {
+        "ten": "Chiến Thuật Suy Diễn Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, khiến giới hạn pháp lực của nó trong vòng này -10 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 40 điểm)."
+      }
+    },
+    "ghi_chu": "Các ban là lá Hiệu Ứng Chiến Thuật dùng chung (ảnh của Liêm Pha); tên và mô tả khớp Liêm Pha; xem ghi chú Chi Viện/Yểm Hộ ở Liêm Pha. Mô tả in '法术攻击力' nên dịch 'công pháp thuật'; '该加成' dịch 'chỉ số này' (chỉ số cộng thêm)."
+  },
+  "庄周": {
+    "ten": "Trang Chu",
+    "mo_ta": "Đăng Tràng: Cấp của bản thân +2 và nhận 1 lá Chiến Thuật Chiêu Mộ.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Chiêu Mộ",
+        "mo_ta": "Tức Thời\nNhận ngẫu nhiên 1 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "3": {
+        "mo_ta": "Đăng Tràng: Cấp của bản thân +4 và nhận 1 lá Chiến Thuật Chiêu Mộ Cao Cấp."
+      },
+      "4": {
+        "ten": "Chiến Thuật Chiêu Mộ Cao Cấp",
+        "mo_ta": "Tức Thời\nChọn 1 trong 3 lá bài Anh Hùng 【Trục Lộc】."
+      }
+    },
+    "ghi_chu": "Các ban là lá Hiệu Ứng Chiến Thuật dùng chung (ảnh của Liêm Pha); tên và mô tả khớp Liêm Pha; xem ghi chú Chi Viện/Yểm Hộ ở Liêm Pha."
+  },
+  "蒙犽": {
+    "ten": "Mông Nha",
+    "mo_ta": "Đăng Tràng: Nhận 1 lá Chiến Thuật Huấn Luyện Đặc Biệt.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +4."
+      },
+      "3": {
+        "mo_ta": "Đăng Tràng: Nhận 1 lá Chiến Thuật Huấn Luyện Đặc Biệt Cao Cấp."
+      },
+      "4": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +8."
+      }
+    },
+    "ghi_chu": "犽 (yà) là chữ hiếm, đọc Hán Việt tạm là 'Nha' (theo bộ 牙); chủ site kiểm tra tên. Các ban là lá Hiệu Ứng Chiến Thuật dùng chung (ảnh của Liêm Pha); tên và mô tả khớp Liêm Pha; xem ghi chú Chi Viện/Yểm Hộ ở Liêm Pha."
+  },
+  "鲁班大师": {
+    "ten": "Lỗ Ban Đại Sư",
+    "mo_ta": "Khi Lỗ Ban Đại Sư có mặt trên sân, triệu hồi 1 Cơ Quan Khôi Lỗi có cấp bằng cấp của bản thân.",
+    "ban": {
+      "2": {
+        "ten": "Cơ Quan Khôi Lỗi",
+        "mo_ta": "Nhận Cấp Tạm Thời bằng một nửa cấp cao nhất trong số các Anh Hùng 【Trục Lộc】 hoặc đơn vị triệu hồi trên sân của bạn."
+      },
+      "3": {
+        "mo_ta": "Khi Lỗ Ban Đại Sư có mặt trên sân, triệu hồi 1 Cơ Quan Khôi Lỗi · Cải có cấp bằng cấp của bản thân."
+      }
+    },
+    "ghi_chu": "机关傀儡 dịch Cơ Quan Khôi Lỗi (Hán Việt, 傀儡 = khôi lỗi quen thuộc trong tiếng Việt), 机关傀儡·改 = Cơ Quan Khôi Lỗi · Cải; chủ site chốt. Ban 2 chỉ có mô tả, tên Cơ Quan Khôi Lỗi in trên ảnh. 临时等级 dịch 'Cấp Tạm Thời' theo README."
+  },
+  "鲁班七号": {
+    "ten": "Lỗ Ban Thất Hiệu",
+    "mo_ta": "Mỗi khi Anh Hùng của bạn Hợp Thành 3 lần, nhận ngẫu nhiên 1 lá bài Chiến Thuật.",
+    "ban": {
+      "2": {
+        "ten": "Chiến Thuật Chi Viện",
+        "mo_ta": "Tức Thời\nTất cả Anh Hùng 【Trục Lộc】 nhận 50 (+25×số lần đánh ra bài Chiến Thuật, hiện tại: 75) điểm khiên trong vòng này."
+      },
+      "3": {
+        "ten": "Chiến Thuật Chiêu Mộ",
+        "mo_ta": "Tức Thời\nNhận ngẫu nhiên 1 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "4": {
+        "ten": "Chiến Thuật Diễn Tập",
+        "mo_ta": "Tức Thời\nCấp của tất cả Anh Hùng +1."
+      },
+      "5": {
+        "ten": "Chiến Thuật Suy Diễn",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, giới hạn pháp lực của nó trong vòng này -5 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 20 điểm)."
+      },
+      "6": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +4."
+      },
+      "7": {
+        "mo_ta": "Mỗi khi Anh Hùng của bạn Hợp Thành 3 lần, nhận ngẫu nhiên 1 lá bài Chiến Thuật Cao Cấp."
+      },
+      "8": {
+        "ten": "Chiến Thuật Diễn Tập Cao Cấp",
+        "mo_ta": "Tức Thời\nCấp của tất cả Anh Hùng +2."
+      },
+      "9": {
+        "ten": "Chiến Thuật Chiêu Mộ Cao Cấp",
+        "mo_ta": "Tức Thời\nChọn 1 trong 3 lá bài Anh Hùng 【Trục Lộc】."
+      },
+      "10": {
+        "ten": "Chiến Thuật Huấn Luyện Đặc Biệt Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng, cấp Anh Hùng +8."
+      },
+      "11": {
+        "ten": "Chiến Thuật Chi Viện Cao Cấp",
+        "mo_ta": "Tức Thời\nToàn bộ Anh Hùng 【Trục Lộc】 nhận 100 (+50×số lần đã đánh bài Chiến Thuật, hiện tại: 150) điểm khiên trong vòng này."
+      },
+      "12": {
+        "ten": "Chiến Thuật Suy Diễn Cao Cấp",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Trục Lộc】, khiến giới hạn pháp lực của nó trong vòng này -10 (mỗi lần dùng lá bài này đều tăng hiệu ứng, tối đa 40 điểm)."
+      }
+    },
+    "ghi_chu": "七号 dịch 'Thất Hiệu' (số hiệu). Ban 7 in '高阶战术牌' dịch 'bài Chiến Thuật Cao Cấp'. 合成 dịch 'Hợp Thành' như từ khóa (xem Diệu). Các ban là lá Hiệu Ứng Chiến Thuật dùng chung (ảnh của Liêm Pha); tên và mô tả khớp Liêm Pha; xem ghi chú Chi Viện/Yểm Hộ ở Liêm Pha."
+  },
+  "孙尚香": {
+    "ten": "Tôn Thượng Hương",
+    "mo_ta": "Đăng Tràng: Nhận 1 lần làm mới miễn phí.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đăng Tràng: Nhận 2 lần làm mới miễn phí."
+      }
+    }
+  },
+  "曹操": {
+    "ten": "Tào Tháo",
+    "mo_ta": "Chỉnh Bị: Kích hoạt ngẫu nhiên hiệu ứng Đăng Tràng của 1 Anh Hùng 【Tam Phân】.",
+    "ban": {
+      "2": {
+        "mo_ta": "Chỉnh Bị: Kích hoạt ngẫu nhiên hiệu ứng Đăng Tràng của 2 Anh Hùng 【Tam Phân】."
+      }
+    }
+  },
+  "赵云": {
+    "ten": "Triệu Vân",
+    "mo_ta": "Đăng Tràng: Bản thân và ngẫu nhiên 2 Anh Hùng khác +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đăng Tràng: Bản thân và ngẫu nhiên 2 Anh Hùng khác +2 cấp."
+      }
+    }
+  },
+  "大乔": {
+    "ten": "Đại Kiều",
+    "mo_ta": "Cứ mỗi 2 lần Anh Hùng của bạn kích hoạt hiệu ứng Đăng Tràng, giới hạn pháp lực của Đại Kiều -5 vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi Anh Hùng của bạn kích hoạt hiệu ứng Đăng Tràng, giới hạn pháp lực của Đại Kiều -5 vĩnh viễn."
+      }
+    },
+    "ghi_chu": "Bản 1 in 每触发2次 (cứ mỗi 2 lần), bản Thức Tỉnh in 每当...触发 (mỗi khi, tức mỗi 1 lần); giữ đúng khác biệt này, số -5 giống nhau."
+  },
+  "蔡文姬": {
+    "ten": "Thái Văn Cơ",
+    "mo_ta": "Mỗi khi bạn dùng bài Anh Hùng 【Tam Phân】, 3 Anh Hùng 【Tam Phân】 khác có cấp thấp nhất +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi bạn dùng bài Anh Hùng 【Tam Phân】, 3 Anh Hùng 【Tam Phân】 khác có cấp thấp nhất +2 cấp."
+      }
+    }
+  },
+  "马超": {
+    "ten": "Mã Siêu",
+    "mo_ta": "Khi phe ta gây hiệu ứng khống chế, Mã Siêu nhận 15 điểm pháp lực và 5% tỉ lệ chí mạng.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi phe ta gây hiệu ứng khống chế, Mã Siêu nhận 30 điểm pháp lực và 10% tỉ lệ chí mạng."
+      }
+    }
+  },
+  "刘禅": {
+    "ten": "Lưu Thiền",
+    "mo_ta": "Khi Anh Hùng của bạn tung kỹ năng, Anh Hùng đó nhận 2 Cấp Tạm Thời.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi Anh Hùng của bạn tung kỹ năng, Anh Hùng đó nhận 4 Cấp Tạm Thời."
+      }
+    }
+  },
+  "貂蝉": {
+    "ten": "Điêu Thuyền",
+    "mo_ta": "Đăng Tràng: Anh Hùng 【Tam Phân】 +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đăng Tràng: Anh Hùng 【Tam Phân】 +2 cấp."
+      }
+    }
+  },
+  "甄姬": {
+    "ten": "Chân Cơ",
+    "mo_ta": "Đăng Tràng: Nhận 1 lá bài Anh Hùng Đăng Tràng khác.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đăng Tràng: Chọn 1 trong 3 lá bài Anh Hùng Đăng Tràng khác."
+      }
+    },
+    "ghi_chu": "Ảnh in 获得1张其他的登场英雄牌 (登场 là từ khóa in đậm ở cả hai chỗ); dịch 'lá bài Anh Hùng Đăng Tràng khác' (Anh Hùng có hiệu ứng Đăng Tràng)."
+  },
+  "小乔": {
+    "ten": "Tiểu Kiều",
+    "mo_ta": "Mỗi khi Anh Hùng của bạn kích hoạt hiệu ứng Đăng Tràng, ngẫu nhiên 3 Anh Hùng +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi Anh Hùng của bạn kích hoạt hiệu ứng Đăng Tràng, tất cả Anh Hùng +1 cấp."
+      }
+    }
+  },
+  "诸葛亮": {
+    "ten": "Gia Cát Lượng",
+    "mo_ta": "Khi các Anh Hùng khác của bạn tung kỹ năng, Gia Cát Lượng nhận 15 điểm pháp lực và 4 Cấp Tạm Thời.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi các Anh Hùng khác của bạn tung kỹ năng, Gia Cát Lượng nhận 30 điểm pháp lực và 8 Cấp Tạm Thời."
+      }
+    }
+  },
+  "吕布": {
+    "ten": "Lữ Bố",
+    "mo_ta": "Khai Đoàn: 3 Anh Hùng 【Tam Phân】 có cấp cao nhất nhận 20% hút máu vật lý và pháp thuật, nếu mục tiêu là Lữ Bố, hiệu quả nhân đôi.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khai Đoàn: 6 Anh Hùng 【Tam Phân】 có cấp cao nhất nhận 20% hút máu vật lý và pháp thuật, nếu mục tiêu là Lữ Bố, hiệu quả nhân đôi."
+      }
+    }
+  },
+  "周瑜": {
+    "ten": "Chu Du",
+    "mo_ta": "Đăng Tràng: Tất cả Anh Hùng +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đăng Tràng: Tất cả Anh Hùng +2 cấp."
+      }
+    }
+  },
+  "苏烈": {
+    "ten": "Tô Liệt",
+    "mo_ta": "Hy Sinh: Cấp của Tô Liệt +2 vĩnh viễn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Hy Sinh: Cấp của Tô Liệt +4 vĩnh viễn."
+      }
+    }
+  },
+  "李元芳": {
+    "ten": "Lý Nguyên Phương",
+    "mo_ta": "Chỉnh Bị: Dùng 1 lá Cổ Tệ lên Anh Hùng 【Hà Lạc】 gần nhất.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "mo_ta": "Chỉnh Bị: Dùng 1 lá Cổ Tệ Tinh Xảo lên Anh Hùng 【Hà Lạc】 gần nhất."
+      },
+      "4": {
+        "ten": "Cổ Tệ Tinh Xảo",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +4."
+      }
+    }
+  },
+  "沈梦溪": {
+    "ten": "Thẩm Mộng Khê",
+    "mo_ta": "Mỗi lần dùng 1 lá bài Hiệu Ứng lên Thẩm Mộng Khê, giới hạn pháp lực trong vòng này -15.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi lần dùng 1 lá bài Hiệu Ứng lên Thẩm Mộng Khê, giới hạn pháp lực trong vòng này -30."
+      }
+    }
+  },
+  "盾山": {
+    "ten": "Thuẫn Sơn",
+    "mo_ta": "Hy Sinh: Nhận 1 lá Cổ Tệ.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "mo_ta": "Hy Sinh: Nhận 1 lá Cổ Tệ Tinh Xảo."
+      },
+      "4": {
+        "ten": "Cổ Tệ Tinh Xảo",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +4."
+      }
+    }
+  },
+  "百里守约": {
+    "ten": "Bách Lý Thủ Ước",
+    "mo_ta": "Mỗi khi Anh Hùng có hiệu ứng Hy Sinh của bạn tử trận, giới hạn pháp lực của Bách Lý Thủ Ước trong vòng này -20.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi Anh Hùng có hiệu ứng Hy Sinh của bạn tử trận, giới hạn pháp lực của Bách Lý Thủ Ước trong vòng này -40."
+      }
+    }
+  },
+  "百里玄策": {
+    "ten": "Bách Lý Huyền Sách",
+    "mo_ta": "Thiểm Hiện\nChỉnh Bị: Với mỗi Anh Hùng địch mà Anh Hùng Thiểm Hiện của bạn đã đánh bại ở vòng trước, ngẫu nhiên 1 Anh Hùng Thiểm Hiện +1 cấp (số lần đánh bại: 0).",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện\nChỉnh Bị: Với mỗi Anh Hùng địch mà Anh Hùng Thiểm Hiện của bạn đã đánh bại ở vòng trước, ngẫu nhiên 1 Anh Hùng Thiểm Hiện +2 cấp (số lần đánh bại: 0)."
+      }
+    }
+  },
+  "铠": {
+    "ten": "Khải",
+    "mo_ta": "Phục Sinh\nHy Sinh: Anh Hùng 【Hà Lạc】 của bạn nhận 5 Cấp Tạm Thời.",
+    "ban": {
+      "2": {
+        "mo_ta": "Hoàn Mỹ Phục Sinh\nHy Sinh: Anh Hùng 【Hà Lạc】 của bạn nhận 10 Cấp Tạm Thời."
+      }
+    },
+    "ghi_chu": "Từ khóa 复生 dịch Phục Sinh, 完美复生 dịch Hoàn Mỹ Phục Sinh (theo bản dịch Thiên Phú). Tên 铠 = Khải."
+  },
+  "程咬金": {
+    "ten": "Trình Giảo Kim",
+    "mo_ta": "Chỉnh Bị: Nhận 1 lá Cổ Tệ, dùng 1 lá Cổ Tệ lên bản thân.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "mo_ta": "Chỉnh Bị: Nhận 1 lá Cổ Tệ Tinh Xảo, dùng 1 lá Cổ Tệ Tinh Xảo lên bản thân."
+      },
+      "4": {
+        "ten": "Cổ Tệ Tinh Xảo",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +4."
+      }
+    }
+  },
+  "狄仁杰": {
+    "ten": "Địch Nhân Kiệt",
+    "mo_ta": "Khi dùng Cổ Tệ lên Địch Nhân Kiệt, tốc độ đánh của Địch Nhân Kiệt +5% vĩnh viễn.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "ten": "Cổ Tệ Tinh Xảo",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +4."
+      },
+      "4": {
+        "mo_ta": "Khi dùng Cổ Tệ lên Địch Nhân Kiệt, tốc độ đánh của Địch Nhân Kiệt +10% vĩnh viễn."
+      }
+    }
+  },
+  "钟馗": {
+    "ten": "Chung Quỳ",
+    "mo_ta": "Bản thân và các Anh Hùng ở 1 ô bên trái và bên phải nhận Hy Sinh: cấp của kẻ đánh bại tạm thời giảm 10% (giới hạn 1 lần mỗi trận).",
+    "ban": {
+      "2": {
+        "mo_ta": "Bản thân và các Anh Hùng ở 1 ô bên trái và bên phải nhận Hy Sinh: cấp của kẻ đánh bại tạm thời giảm 20% (giới hạn 1 lần mỗi trận)."
+      }
+    }
+  },
+  "上官婉儿": {
+    "ten": "Thượng Quan Uyển Nhi",
+    "mo_ta": "Chỉnh Bị: Ngẫu nhiên dùng 1 lá Cổ Tệ lên 3 Anh Hùng 【Hà Lạc】 khác nhau.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "mo_ta": "Chỉnh Bị: Ngẫu nhiên dùng 1 lá Cổ Tệ lên 6 Anh Hùng 【Hà Lạc】 khác nhau."
+      }
+    }
+  },
+  "李信": {
+    "ten": "Lý Tín",
+    "mo_ta": "Mỗi khi Anh Hùng có hiệu ứng Hy Sinh của bạn tử trận, Lý Tín nhận +7 Cấp Tạm Thời.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi Anh Hùng có hiệu ứng Hy Sinh của bạn tử trận, Lý Tín nhận +14 Cấp Tạm Thời."
+      }
+    }
+  },
+  "李白": {
+    "ten": "Lý Bạch",
+    "mo_ta": "Thiểm Hiện\nLá bài Cổ Tệ cung cấp thêm 4 Cấp Tạm Thời. Nếu mục tiêu là Lý Bạch, Cấp Tạm Thời này được cộng thêm +3.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "ten": "Cổ Tệ Tinh Xảo",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +4."
+      },
+      "4": {
+        "mo_ta": "Thiểm Hiện\nLá bài Cổ Tệ cung cấp thêm 8 Cấp Tạm Thời. Nếu mục tiêu là Lý Bạch, Cấp Tạm Thời này được cộng thêm +6."
+      }
+    }
+  },
+  "花木兰": {
+    "ten": "Hoa Mộc Lan",
+    "mo_ta": "Trong vòng này, cứ mỗi 5 lá Cổ Tệ đã dùng, nhận 1 lần Phục Sinh (tổng số lần Phục Sinh: 1).\nHy Sinh: Cấp Tạm Thời +10.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "ten": "Cổ Tệ Tinh Xảo",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +4."
+      },
+      "4": {
+        "mo_ta": "Trong vòng này, cứ mỗi 5 lá Cổ Tệ đã dùng, nhận 1 lần Phục Sinh (tổng số lần Phục Sinh: 1).\nHy Sinh: Cấp Tạm Thời +20."
+      }
+    }
+  },
+  "司空震": {
+    "ten": "Tư Không Chấn",
+    "mo_ta": "Khi các Anh Hùng khác của bạn nhận Cấp Tạm Thời, Tư Không Chấn nhận một nửa hiệu quả (không vượt quá 1 lần cấp thật của bản thân).",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi các Anh Hùng khác của bạn nhận Cấp Tạm Thời, Tư Không Chấn nhận toàn bộ hiệu quả (không vượt quá 2 lần cấp thật của bản thân)."
+      }
+    }
+  },
+  "武则天": {
+    "ten": "Võ Tắc Thiên",
+    "mo_ta": "Cấp mà lá Cổ Tệ nâng thêm +1.\nĐăng Tràng: Nhận 1 lá Cổ Tệ Tinh Xảo.",
+    "ban": {
+      "2": {
+        "ten": "Cổ Tệ",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +2."
+      },
+      "3": {
+        "ten": "Cổ Tệ Tinh Xảo",
+        "mo_ta": "Tức Thời\nChỉ định 1 Anh Hùng 【Hà Lạc】, cấp Anh Hùng +4."
+      },
+      "4": {
+        "mo_ta": "Cấp mà lá Cổ Tệ nâng thêm +2.\nĐăng Tràng: Nhận 2 lá Cổ Tệ Tinh Xảo."
+      }
+    }
+  },
+  "狂铁": {
+    "ten": "Cuồng Thiết",
+    "mo_ta": "Chỉnh Bị: Cấp của Lõi A Khoa Mễ Á +2.",
+    "ban": {
+      "2": {
+        "mo_ta": "Chỉnh Bị: Cấp của Lõi A Khoa Mễ Á +2, kích hoạt 2 lần."
+      }
+    },
+    "ghi_chu": "阿科米亚核心 dịch Lõi A Khoa Mễ Á, theo hieu-ung-a."
+  },
+  "亚连": {
+    "ten": "Á Liên",
+    "mo_ta": "Chỉnh Bị: Anh Hùng 【Nhật Lạc Hải】 của bạn mang nhiều Trang Bị nhất cấp +2, đồng thời cấp của Lõi A Khoa Mễ Á +1.",
+    "ban": {
+      "2": {
+        "mo_ta": "Chỉnh Bị: Anh Hùng 【Nhật Lạc Hải】 của bạn mang nhiều Trang Bị nhất cấp +2, đồng thời cấp của Lõi A Khoa Mễ Á +1, kích hoạt 2 lần."
+      }
+    }
+  },
+  "米莱狄": {
+    "ten": "Mễ Lai Địch",
+    "mo_ta": "Đơn vị triệu hồi nhận 3 Cấp Tạm Thời.\nChỉnh Bị: Cấp Tạm Thời này và cấp của Lõi A Khoa Mễ Á cộng thêm +3.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đơn vị triệu hồi nhận 6 Cấp Tạm Thời.\nChỉnh Bị: Cấp Tạm Thời này và cấp của Lõi A Khoa Mễ Á cộng thêm +3, kích hoạt 2 lần."
+      }
+    }
+  },
+  "马可波罗": {
+    "ten": "Mã Khả Ba La",
+    "mo_ta": "Đăng Tràng: Cấp của bản thân và Lõi A Khoa Mễ Á +2.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đăng Tràng: Cấp của bản thân và Lõi A Khoa Mễ Á +4."
+      }
+    }
+  },
+  "姬小满": {
+    "ten": "Cơ Tiểu Mãn",
+    "mo_ta": "Mỗi khi bạn bán 4 Anh Hùng trên sân, nhận 1 lần làm mới tạm thời.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi bạn bán 2 Anh Hùng trên sân, nhận 1 lần làm mới tạm thời."
+      }
+    },
+    "ghi_chu": "临时刷新 dịch 'làm mới tạm thời'; 出售 dịch 'bán'."
+  },
+  "亚瑟": {
+    "ten": "Á Sắt",
+    "mo_ta": "Mỗi khi bạn dùng bài Anh Hùng 【Nhật Lạc Hải】, Lõi A Khoa Mễ Á +3 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi bạn dùng bài Anh Hùng 【Nhật Lạc Hải】, Lõi A Khoa Mễ Á +6 cấp."
+      }
+    }
+  },
+  "安琪拉": {
+    "ten": "An Kỳ Lạp",
+    "mo_ta": "Chỉnh Bị: Bản thân và Lõi A Khoa Mễ Á +2 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Chỉnh Bị: Bản thân và Lõi A Khoa Mễ Á +2 cấp, kích hoạt 2 lần."
+      }
+    }
+  },
+  "朵莉亚": {
+    "ten": "Đóa Lị Á",
+    "mo_ta": "Mỗi khi Anh Hùng của bạn kích hoạt hiệu ứng Chỉnh Bị, ngẫu nhiên 3 Anh Hùng và Lõi A Khoa Mễ Á +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi Anh Hùng của bạn kích hoạt hiệu ứng Chỉnh Bị, tất cả Anh Hùng phe ta và Lõi A Khoa Mễ Á +1 cấp."
+      }
+    }
+  },
+  "莱西奥": {
+    "ten": "Lai Tây Áo",
+    "mo_ta": "Mỗi khi bạn bán 2 Anh Hùng trên sân, Lõi A Khoa Mễ Á +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi bạn bán Anh Hùng trên sân, Lõi A Khoa Mễ Á +1 cấp."
+      }
+    }
+  },
+  "艾琳": {
+    "ten": "Ngải Lâm",
+    "mo_ta": "Khai Đoàn: Ngải Lâm nhận tốc độ đánh bằng cấp của bản thân ×1%.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khai Đoàn: Ngải Lâm nhận tốc độ đánh bằng cấp của bản thân ×2%."
+      }
+    },
+    "ghi_chu": "开团 (từ khóa có biểu tượng) dịch Khai Đoàn, theo lá bài Hiệu Lệnh Khai Đoàn (开团号令)."
+  },
+  "雅典娜": {
+    "ten": "Nhã Điển Na",
+    "mo_ta": "Khai Đoàn: Ngẫu nhiên kích hoạt hiệu ứng Chỉnh Bị của 2 Anh Hùng 【Nhật Lạc Hải】.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khai Đoàn: Ngẫu nhiên kích hoạt hiệu ứng Chỉnh Bị của 4 Anh Hùng 【Nhật Lạc Hải】."
+      }
+    }
+  },
+  "海诺": {
+    "ten": "Hải Nặc",
+    "mo_ta": "Mỗi khi cấp của Lõi A Khoa Mễ Á tăng, cấp của Lõi được cộng thêm +1.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi khi cấp của Lõi A Khoa Mễ Á tăng, cấp của Lõi được cộng thêm +2."
+      }
+    }
+  },
+  "露娜": {
+    "ten": "Lộ Na",
+    "mo_ta": "Thiểm Hiện\nĐăng Tràng: Lõi A Khoa Mễ Á +2 cấp, đồng thời ngẫu nhiên kích hoạt hiệu ứng Chỉnh Bị của 2 Anh Hùng.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện\nĐăng Tràng: Lõi A Khoa Mễ Á +4 cấp, đồng thời ngẫu nhiên kích hoạt hiệu ứng Chỉnh Bị của 4 Anh Hùng."
+      }
+    }
+  },
+  "弈星": {
+    "ten": "Dịch Tinh",
+    "mo_ta": "Khi kỳ thủ lên cấp, kinh nghiệm kỳ thủ +2.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi kỳ thủ lên cấp, kinh nghiệm kỳ thủ +4."
+      }
+    }
+  },
+  "牛魔": {
+    "ten": "Ngưu Ma",
+    "mo_ta": "Khải Hoàn: Nhận 1 năng lượng.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khải Hoàn: Nhận 2 năng lượng."
+      }
+    },
+    "ghi_chu": "凯旋 (từ khóa có biểu tượng cờ) dịch Khải Hoàn; 能量 dịch 'năng lượng' (khớp Bộ Năng Thủ Sáo)."
+  },
+  "梦奇": {
+    "ten": "Mộng Kỳ",
+    "mo_ta": "Thoái Tràng: Nhận 1 lá Phiếu Đổi Anh Hùng Bậc 1.\nBại Trận: Nâng phẩm bậc của Phiếu Đổi Anh Hùng.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thoái Tràng: Nhận 2 lá Phiếu Đổi Anh Hùng Bậc 1.\nBại Trận: Nâng phẩm bậc của Phiếu Đổi Anh Hùng."
+      }
+    },
+    "ghi_chu": "败阵 (từ khóa in đậm, chưa có trong bảng thuật ngữ) dịch 'Bại Trận'; 退场 dịch 'Thoái Tràng' theo Dương Ngọc Hoàn. 品阶 dịch 'phẩm bậc' theo các bản nháp khác."
+  },
+  "公孙离": {
+    "ten": "Công Tôn Ly",
+    "mo_ta": "Đoạt Lấy\nKhai Đoàn: Mỗi có 1 Anh Hùng đã Thức Tỉnh trên sân, tốc độ đánh +15%.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đoạt Lấy\nKhai Đoàn: Mỗi có 1 Anh Hùng đã Thức Tỉnh trên sân, tốc độ đánh +30%."
+      }
+    }
+  },
+  "苍": {
+    "ten": "Thương",
+    "mo_ta": "Khi đơn vị triệu hồi của bạn tử trận, gây 25 sát thương vật lý cho kẻ địch xung quanh. Mỗi lần triệu hồi còn làm tăng thêm sát thương này.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khi đơn vị triệu hồi của bạn tử trận, gây 50 sát thương vật lý cho kẻ địch xung quanh. Mỗi lần triệu hồi còn làm tăng thêm sát thương này."
+      }
+    },
+    "ghi_chu": "Tên 苍 dịch Hán Việt 'Thương' (nghĩa xanh thẫm); chủ site kiểm tra."
+  },
+  "明世隐": {
+    "ten": "Minh Thế Ẩn",
+    "mo_ta": "Trong Cấp Tạm Thời của Anh Hùng gần nhất, 2 cấp có thể chuyển hóa thành cấp vĩnh viễn.\nĐăng Tràng: Cấp có thể chuyển hóa +2.",
+    "ban": {
+      "2": {
+        "mo_ta": "Trong Cấp Tạm Thời của Anh Hùng gần nhất, 4 cấp có thể chuyển hóa thành cấp vĩnh viễn.\nĐăng Tràng: Cấp có thể chuyển hóa +4."
+      }
+    }
+  },
+  "阿轲": {
+    "ten": "A Kha",
+    "mo_ta": "Thiểm Hiện\nĐăng Tràng: Bản thân và ngẫu nhiên 1 Anh Hùng +1 cấp, cứ mỗi khi máu kỳ thủ giảm 10 điểm thì lặp lại 1 lần.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện\nĐăng Tràng: Bản thân và ngẫu nhiên 1 Anh Hùng +2 cấp, cứ mỗi khi máu kỳ thủ giảm 10 điểm thì lặp lại 1 lần."
+      }
+    },
+    "ghi_chu": "棋手生命值 dịch 'máu kỳ thủ' theo bảng thuật ngữ (生命值 = máu)."
+  },
+  "裴擒虎": {
+    "ten": "Bùi Cầm Hổ",
+    "mo_ta": "Thiểm Hiện\nChỉnh Bị: Ngẫu nhiên nhận Cấp Tạm Thời bằng một nửa cấp của 1 Anh Hùng khác, không thể cộng dồn.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện\nChỉnh Bị: Ngẫu nhiên nhận Cấp Tạm Thời bằng cấp của 1 Anh Hùng khác, không thể cộng dồn."
+      }
+    }
+  },
+  "猪八戒": {
+    "ten": "Trư Bát Giới",
+    "mo_ta": "Đoạt Lấy\nMỗi khi Anh Hùng bậc 3 trở xuống Hợp Thành, cấp của Anh Hùng cùng bậc +1.",
+    "ban": {
+      "2": {
+        "mo_ta": "Đoạt Lấy\nMỗi khi Anh Hùng bậc 3 trở xuống Hợp Thành, cấp của Anh Hùng cùng bậc +2."
+      }
+    }
+  },
+  "太乙真人": {
+    "ten": "Thái Ất Chân Nhân",
+    "mo_ta": "Khai Đoàn: Cho Anh Hùng gần nhất nhận Phục Sinh.",
+    "ban": {
+      "2": {
+        "mo_ta": "Khai Đoàn: Cho Anh Hùng gần nhất nhận Hoàn Mỹ Phục Sinh."
+      }
+    }
+  },
+  "孙悟空": {
+    "ten": "Tôn Ngộ Không",
+    "mo_ta": "Thiểm Hiện, Đoạt Lấy\nChỉnh Bị: Anh Hùng có hiệu ứng Thiểm Hiện cấp +2.",
+    "ban": {
+      "2": {
+        "mo_ta": "Thiểm Hiện, Đoạt Lấy\nChỉnh Bị: Anh Hùng có hiệu ứng Thiểm Hiện cấp +4."
+      }
+    }
+  },
+  "姜子牙": {
+    "ten": "Khương Tử Nha",
+    "mo_ta": "Mỗi lần bạn dùng bài Anh Hùng thuộc trận doanh không có mặt trên sân hoặc bài Anh Hùng Vô Trận Doanh, Khương Tử Nha và ngẫu nhiên 3 Anh Hùng khác thuộc các trận doanh khác nhau +1 cấp.",
+    "ban": {
+      "2": {
+        "mo_ta": "Mỗi lần bạn dùng bài Anh Hùng thuộc trận doanh không có mặt trên sân hoặc bài Anh Hùng Vô Trận Doanh, Khương Tử Nha và ngẫu nhiên 3 Anh Hùng khác thuộc các trận doanh khác nhau +2 cấp."
+      }
+    }
+  },
+  "海月": {
+    "ten": "Hải Nguyệt",
+    "mo_ta": "Hy Sinh: Nhốt Anh Hùng địch có cấp cao nhất vào Thủy Nguyệt Ảo Cảnh, khống chế 4 giây, đồng thời gây sát thương chuẩn bằng máu của Hải Nguyệt.",
+    "ban": {
+      "2": {
+        "mo_ta": "Hy Sinh: Nhốt Anh Hùng địch có cấp cao nhất vào Thủy Nguyệt Ảo Cảnh, khống chế 4 giây, đồng thời gây sát thương chuẩn bằng 150% máu của Hải Nguyệt."
+      }
+    },
+    "ghi_chu": "水月幻境 dịch Thủy Nguyệt Ảo Cảnh (tên trạng thái/kỹ năng, Hán Việt)."
+  },
+  "杨玉环": {
+    "ten": "Dương Ngọc Hoàn",
+    "mo_ta": "Khi Dương Ngọc Hoàn có mặt trên sân, cứ mỗi 3 vòng nhận 1 lá Huyền Âm.\nThoái Tràng: Nhận 1 lá Huyền Âm.",
+    "ban": {
+      "2": {
+        "ten": "Huyền Âm",
+        "mo_ta": "Chỉ định 1 Anh Hùng bậc 1-3, tiến độ Thức Tỉnh +1."
+      },
+      "3": {
+        "mo_ta": "Khi Dương Ngọc Hoàn có mặt trên sân, cứ mỗi 3 vòng nhận 1 lá Diệu Âm.\nThoái Tràng: Nhận 1 lá Diệu Âm."
+      },
+      "4": {
+        "ten": "Diệu Âm",
+        "mo_ta": "Chỉ định 1 Anh Hùng, khiến tiến độ Thức Tỉnh của nó +1."
+      }
+    }
+  }
+}
