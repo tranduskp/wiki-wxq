@@ -51,14 +51,14 @@ Used alongside the game, often on a phone, in short lookups. Content is Vietname
 - Each hero also shows a skill tab (skill name, description and the three upgrades unlocked at hero levels 10/40/100) and a stats tab (health, mana, attack, defense, crit, attack speed, range), crawled by `scripts/crawl_anh_hung.py` from page 4 of the official site; the skill translations are in `data/dich/anh-hung.json` (`ky_nang`), made by agents and not yet reviewed.
 - **Kỳ thủ** data (19 kỳ thủ, 203 cards of theirs, 38 skins) is crawled by `scripts/crawl_ky_thu.py` from the same endpoints the official page 3 uses (a CMS JSON list and the `lords` part of a card-data script; see the script's docstring). It writes raw references to `data/ref/ky-thu/`, the compact page data to `data/ky-thu.json` and images to `data/anh/ky-thu/`. Translations (all 19 kỳ thủ, their quotes, skins, and 203 cards) are in `data/dich/ky-thu.json`, made by agents from the Chinese text and not yet reviewed by the site owner. Kỳ thủ names are Hán Việt or the familiar transliteration. The meaning of the source's card `kieu`/`chat` numbers and of the ability groups' `cap` is not confirmed, so the page does not show them.
 - Terminology: game name "wxq", lineups "đội hình", cards "lá bài", player characters "kỳ thủ".
-- Undecided: hosting and deploy target; update workflow for card data after patches; lineup builder rules and persistence/sharing; final wording of attribution and terms.
+- Undecided: hosting and deploy target; update workflow for card data after patches; lineup builder rules and persistence/sharing; final wording of the terms.
 
 ## Brand Commitments
 
 - Site name: **Vương Giả Vạn Tượng Kỳ Quán** (confirmed by the user).
 - Logo: supplied by the user as a poster (`assets/img/source/logo-poster.png`: crimson ground, cream and pink type, a 3D girl with an antler cap, credit "by @finnducway"). The site uses it as a rounded badge crop in the header and favicon. Its crimson, cream and pink are the brand's own colors.
 - Binding reference from the user: the style and spirit of the official site https://wxq.qq.com/, specifically page 4, the card compendium (https://wxq.qq.com/cp/a20260707sfgw/index.html#page4), while presenting it as a wiki (different purpose and UX). The card viewer copies that page's 3D sway effect. Visual decisions themselves are recorded in DESIGN.md, not here.
-- The site is a community project and must not read as official. Every page carries a placeholder line saying it is unofficial and that game images and content belong to Tencent; the final attribution and terms wording is pending the site owner.
+- The site is a community project and must not read as official. Every page has a footer saying it is unofficial and that game images and content belong to Tencent, with the credit "Cre trang web: @finnducway" (confirmed by the user) and a prominent link to the community Facebook page https://www.facebook.com/profile.php?id=61594471854740 (also as an icon in the top bar). Terms wording is still pending.
 
 ## Evidence on Hand
 
@@ -93,3 +93,4 @@ Append-only log of decisions the user has confirmed about the app. Update it (af
 - 2026-09-21: A Kỳ thủ page is added (from page 3 of the official site) as the second top-level page, after Tra cứu; its data is crawled by script for reference and the page is built from it.
 - 2026-09-21: Libraries are allowed for the Kỳ thủ page; Swiper is vendored, React is not used.
 - 2026-09-22: The hero card viewer gets Skill and Stats tabs, and the < > buttons switch between the versions of the same card (hero and awakened hero), not to the next card in the list.
+- 2026-09-22: Every page gets a footer with the unofficial notice, the credit "Cre trang web: @finnducway" and a prominent link to the community Facebook page (also an icon in the top bar).

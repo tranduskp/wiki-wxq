@@ -2,7 +2,7 @@
 
 .app-shell {
   display: grid;
-  grid-template-rows: auto auto minmax(0, 1fr);
+  grid-template-rows: auto auto minmax(0, 1fr) auto;
   height: 100dvh;
 }
 
@@ -154,7 +154,7 @@
   grid-template-areas: "rail list detail";
   gap: 16px;
   min-height: 0;
-  padding: 14px var(--pad) 22px;
+  padding: 14px var(--pad) 12px;
 }
 
 /* Frosted display areas. The streaked sky behind them must not show sharply, and a live backdrop blur costs too much
