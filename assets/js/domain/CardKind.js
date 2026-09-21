@@ -27,11 +27,11 @@ export class CardKind {
   }
 
   /** Groups cards into chapters. Known chapters keep their configured order; unknown ones follow. */
-  static assemble({ id, name, groupKind, groupLabels, cards, caption, iconName }) {
+  static assemble({ id, name, groupKind, groupLabels, groupLogos = {}, cards, caption, iconName }) {
     const order = Object.keys(groupLabels);
     for (const card of cards) if (!order.includes(card.groupKey)) order.push(card.groupKey);
     const groups = order
-      .map((key) => new CardGroup(key, groupLabels[key] ?? key, cards.filter((c) => c.groupKey === key)))
+      .map((key) => new CardGroup(key, groupLabels[key] ?? key, cards.filter((c) => c.groupKey === key), groupLogos[key] ?? ''))
       .filter((g) => g.size > 0);
     return new CardKind({ id, name, groupKind, groups, caption, iconName });
   }

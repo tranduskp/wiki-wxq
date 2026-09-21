@@ -1,6 +1,6 @@
 /** One card of the game. Plain data plus a few derived reads; knows nothing about the DOM or the network. */
 export class Card {
-  constructor({ kindId, id, groupKey, groupLabel, nameZh, nameVi = '', descVi = '', variantTexts = {}, sample = false, images, thumb, badge = '', emblem = false }) {
+  constructor({ kindId, id, groupKey, groupLabel, nameZh, nameVi = '', descVi = '', variantTexts = {}, sample = false, images, thumb, badge = '', emblem = false, groupLogo = '', profile = null }) {
     this.kindId = kindId;
     this.id = id;
     this.groupKey = groupKey;
@@ -18,6 +18,15 @@ export class Card {
     this.badge = badge;
     /** True when `thumb` is an emblem to be shown whole, false when it is a card image to be cropped. */
     this.emblem = emblem;
+    /** Logo of the group (the faction's emblem for a hero), or an empty string. */
+    this.groupLogo = groupLogo;
+    /** HeroProfile for heroes, null for the other kinds. */
+    this.profile = profile;
+  }
+
+  /** What image `variant` is: 'goc', 'thuc-tinh' or 'lien-quan' when the game data says so, else null. */
+  variantKind(variant) {
+    return this.profile?.variantKind(variant) ?? null;
   }
 
   get displayName() {

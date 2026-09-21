@@ -34,4 +34,8 @@ export class LocalImagePolicy extends ImageUrlPolicy {
   icon(url) {
     return this.#local(url, '.webp');
   }
+
+  asset(path) {
+    return `${this.root}${path.replace(/\.png$/, '.webp')}`;
+  }
 }

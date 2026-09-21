@@ -1,0 +1,15 @@
+[
+  { "ten": "Xuất Trận", "zh": "登场", "mo_ta": "Kích hoạt hiệu ứng ngay sau khi sử dụng lá bài này." },
+  { "ten": "Khai Chiến", "zh": "开团", "mo_ta": "Kích hoạt hiệu ứng ngay sau khi trận đấu bắt đầu." },
+  { "ten": "Chỉnh Đốn", "zh": "整备", "mo_ta": "Kích hoạt hiệu ứng khi bắt đầu lượt." },
+  { "ten": "Hi Sinh", "zh": "牺牲", "mo_ta": "Kích hoạt hiệu ứng sau khi anh hùng tử trận." },
+  { "ten": "Phù Du", "zh": "转瞬", "mo_ta": "Tự động hủy khi kết thúc lượt và không nhận được năng lượng khi bán." },
+  { "ten": "Hồi Sinh", "zh": "复生", "mo_ta": "Anh hùng sẽ phục sinh sau khi tử trận với 50% sinh lực (tối đa 10 lần mỗi lượt cho mỗi anh hùng)." },
+  { "ten": "Khải Hoàn", "zh": "凯旋", "mo_ta": "Kích hoạt hiệu ứng khi chiến thắng trận đấu nếu có lá bài anh hùng này tham chiến." },
+  { "ten": "Bại Trận", "zh": "败阵", "mo_ta": "Kích hoạt hiệu ứng khi thất bại trận đấu nếu có lá bài anh hùng này tham chiến." },
+  { "ten": "Tổng Hợp", "zh": "合成", "mo_ta": "Kết hợp thẻ bài anh hùng trên tay và anh hùng đã có trên sân để cường hóa." },
+  { "ten": "Tốc Biến", "zh": "闪现", "mo_ta": "Anh hùng sẽ nhảy đến vị trí đối diện của sàn đấu đối phương khi trận đấu bắt đầu." },
+  { "ten": "Tước Đoạt", "zh": "夺取", "mo_ta": "Tước đoạt cấp độ của 1 đồng minh bất kỳ trong bán kính 1 ô xung quanh khi sử dụng lá bài này (tối đa 10 cấp, không bao gồm cấp độ tạm thời)." },
+  { "ten": "Cấp Độ Tạm Thời", "zh": "临时等级", "mo_ta": "Cấp độ tạm thời sẽ bị xóa ngay sau khi trận đấu kết thúc." },
+  { "ten": "Lui Binh", "zh": "退场", "mo_ta": "Hiệu ứng được kích hoạt khi lá bài anh hùng này bị bán khỏi sân." }
+]

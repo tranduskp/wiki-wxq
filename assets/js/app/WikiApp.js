@@ -67,8 +67,8 @@ export class WikiApp {
     searchBox.on('input', (text) => this.#search(text));
     rail.on('jump', (section) => list.jumpTo(section));
     list.on('scroll', () => this.#syncActiveChapter());
-    viewer.on('prev', () => this.#step(-1));
-    viewer.on('next', () => this.#step(1));
+    viewer.on('prev', () => this.#stepVariant(-1));
+    viewer.on('next', () => this.#stepVariant(1));
     viewer.on('variant', (index) => this.#pickVariant(index));
     viewer.on('copy', () => this.#copyLink());
     sheet.on('close', () => this.#closeSheet());
@@ -158,7 +158,6 @@ export class WikiApp {
     this.ui.list.clearEmpty();
     this.ui.list.showSummary(this.#kind, shown, this.search);
     if (shown === 0) this.ui.list.showEmpty(() => this.ui.searchBox.clear());
-    this.#updateNavigation();
   }
 
   #syncActiveChapter() {
@@ -181,7 +180,6 @@ export class WikiApp {
 
     this.ui.viewer.render(card, this.#kind, this.#variant);
     this.title.forCard(card, this.#kind);
-    this.#updateNavigation();
   }
 
   #pickVariant(index) {
@@ -190,18 +188,11 @@ export class WikiApp {
     this.#navigate(new Route(this.#card.kindId, this.#card.id, index), {});
   }
 
-  #updateNavigation() {
-    const tiles = this.#view.visibleTiles;
-    const i = tiles.findIndex((t) => t.card === this.#card);
-    this.ui.viewer.setNavigation({ hasPrevious: i > 0, hasNext: i >= 0 && i < tiles.length - 1 });
-  }
-
-  #step(delta) {
-    const tiles = this.#view.visibleTiles;
-    const target = tiles[tiles.findIndex((t) => t.card === this.#card) + delta];
-    if (!target) return;
-    target.scrollIntoView({ block: 'nearest' });
-    this.#navigate(new Route(target.card.kindId, target.card.id));
+  /** The arrows of the viewer walk through the versions of the shown card, wrapping around. */
+  #stepVariant(delta) {
+    const count = this.#card?.variantCount ?? 0;
+    if (count < 2) return;
+    this.#pickVariant((this.#variant + delta + count) % count);
   }
 
   async #copyLink() {

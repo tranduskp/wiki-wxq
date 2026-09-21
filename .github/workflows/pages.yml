@@ -29,7 +29,8 @@ jobs:
           mkdir _site
           cp -r index.html ky-thu doi-hinh xep-doi-hinh cap-nhat assets _site/
           mkdir -p _site/data/anh
-          cp data/nhom.json data/ky-thu.json _site/data/
+          cp data/nhom.json data/ky-thu.json data/doi-hinh.json data/tu-khoa.json _site/data/
+          cp -r data/chi-tiet _site/data/
           cp -r data/bai data/dich _site/data/
           cp -r data/anh/web data/anh/theo-url.json _site/data/anh/
           touch _site/.nojekyll

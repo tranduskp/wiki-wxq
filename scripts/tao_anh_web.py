@@ -9,6 +9,7 @@ Kết quả nằm ở data/anh/web/, cùng đường dẫn với ảnh gốc, đ
     <loai>/<NNN>_card<v>.thumb.webp   ảnh thu nhỏ 320px chiều rộng (lưới)
     <loai>/icon/<NNN>.webp            icon (giữ nguyên kích thước)
     ky-thu/...                        ảnh Kỳ thủ (jpg/png), một bản webp thu nhỏ theo loại (xem KY_THU_EDGE)
+    the-bai/...                       icon kỹ năng, logo phe, icon từ khóa (thu về tối đa 256px)
 Trang web chỉ tải thư mục web/ (LocalImagePolicy); PNG gốc là để agent đọc, không cần đưa lên host.
 """
 from __future__ import annotations
@@ -39,6 +40,8 @@ def save_webp(image: Image.Image, dest: Path, quality: int) -> None:
 
 def ky_thu_edge(rel: Path) -> int | None:
     """Cạnh dài tối đa của ảnh Kỳ thủ theo tên tệp (tp1-kv, avatar, ky-thu/bai/...), hoặc None nếu không phải ảnh Kỳ thủ."""
+    if rel.parts[0] == "the-bai":  # icon kỹ năng, logo phe, icon từ khóa
+        return 256
     if rel.parts[0] != "ky-thu":
         return None
     if "bai" in rel.parts:

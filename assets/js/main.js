@@ -5,6 +5,7 @@ import { HttpJsonSource } from './data/HttpJsonSource.js';
 import { LocalImagePolicy } from './data/LocalImagePolicy.js';
 import { CardMapper } from './data/CardMapper.js';
 import { JsonCatalogRepository } from './data/JsonCatalogRepository.js';
+import { JsonKeywordRepository } from './data/JsonKeywordRepository.js';
 import { HashRouter } from './services/HashRouter.js';
 import { TextNormalizer } from './services/TextNormalizer.js';
 import { CardSearch } from './services/CardSearch.js';
@@ -21,6 +22,9 @@ import { CardTile } from './ui/CardTile.js';
 import { CardImageFrame } from './ui/CardImageFrame.js';
 import { VariantPicker } from './ui/VariantPicker.js';
 import { CardInfoPanel } from './ui/CardInfoPanel.js';
+import { InfoTabs } from './ui/InfoTabs.js';
+import { SkillPane } from './ui/SkillPane.js';
+import { StatsPane } from './ui/StatsPane.js';
 import { CardViewer } from './ui/CardViewer.js';
 import { BottomSheet } from './ui/BottomSheet.js';
 import { WikiApp } from './app/WikiApp.js';
@@ -30,6 +34,7 @@ const PHONE_QUERY = '(max-width: 819px)';
 const REDUCED_MOTION_QUERY = '(prefers-reduced-motion: reduce)';
 
 const imagePolicy = await LocalImagePolicy.load(new HttpJsonSource(''));
+const glossary = await new JsonKeywordRepository(new HttpJsonSource(''), imagePolicy).load();
 const phone = new MediaWatcher(PHONE_QUERY);
 const reduceMotion = new MediaWatcher(REDUCED_MOTION_QUERY);
 
@@ -46,6 +51,13 @@ const viewer = new CardViewer({
     nameZh: must('#ten-zh'),
     meta: must('#meta'),
     description: must('#mo-ta'),
+    glossary,
+    tabs: new InfoTabs({
+      root: must('#tab-thong-tin'),
+      panes: { 'mo-ta': must('#mo-ta'), 'ky-nang': must('#ky-nang'), 'chi-so': must('#chi-so') },
+    }),
+    skillPane: new SkillPane({ container: must('#ky-nang'), glossary }),
+    statsPane: new StatsPane(must('#chi-so')),
   }),
   frame: new CardImageFrame({
     frame: must('#khung'),
@@ -54,6 +66,7 @@ const viewer = new CardViewer({
     imagePolicy,
   }),
   variants: new VariantPicker(must('#bien-the')),
+  pager: must('#chuyen-ban'),
   prevButton: must('#truoc'),
   nextButton: must('#sau'),
   copyButton: must('#chep-lien-ket'),
@@ -69,7 +82,7 @@ const sheet = new BottomSheet({
 });
 
 const app = new WikiApp({
-  repository: new JsonCatalogRepository(new HttpJsonSource(''), new CardMapper(imagePolicy)),
+  repository: new JsonCatalogRepository(new HttpJsonSource(''), new CardMapper(imagePolicy), imagePolicy),
   router: new HashRouter(),
   search: new CardSearch(new TextNormalizer()),
   phone,

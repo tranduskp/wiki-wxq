@@ -1,9 +1,11 @@
 import { make, replay } from '../core/dom.js';
+import { KeywordText } from './KeywordText.js';
 
 /** The text of the chosen card of a kỳ thủ: emblem, name with the Chinese original, description, source note. */
 export class PlayerCardDetail {
-  constructor(container) {
+  constructor(container, glossary) {
     this.container = container;
+    this.glossary = glossary;
   }
 
   render(card) {
@@ -32,9 +34,12 @@ export class PlayerCardDetail {
     }
 
     const { text, vi } = card.description;
-    const desc = make('p', vi ? 'detail-desc' : 'detail-desc is-zh', text);
+    const desc = make('p', vi ? 'detail-desc' : 'detail-desc is-zh');
     desc.lang = vi ? 'vi' : 'zh-Hans';
+    const keywords = vi ? KeywordText.fill(desc, text, this.glossary) : (desc.textContent = text, []);
     body.append(desc);
+    const box = KeywordText.box(keywords);
+    if (box) body.append(box);
     if (card.source) body.append(make('span', 'pill', card.source));
 
     this.container.replaceChildren(icon, body);

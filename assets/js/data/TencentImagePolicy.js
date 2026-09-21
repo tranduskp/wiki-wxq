@@ -23,4 +23,8 @@ export class TencentImagePolicy extends ImageUrlPolicy {
   icon(url) {
     return url;
   }
+
+  asset(path) {
+    return `data/anh/${path}`;
+  }
 }

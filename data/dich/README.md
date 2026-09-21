@@ -29,8 +29,10 @@ Dịch những gì **in trên ảnh** và chỉ những gì in trên ảnh. Khô
 
 ## Quy tắc dịch
 
-- **Tên người, tướng, địa danh, binh khí, trang bị mang tên thần thoại/lịch sử: Hán Việt**, viết hoa từng chữ (干将莫邪 → Can Tương Mạc Tà, 项羽 → Hạng Vũ, 风暴巨剑 → Phong Bạo Cự Kiếm).
-- **Tên thông thường của hiệu ứng/thiên phú (từ đời thường, hiện đại): dịch nghĩa sang tiếng Việt tự nhiên**, viết hoa chữ đầu mỗi từ chính (复印机 → Máy Photocopy, 吸纳人才 → Thu Nạp Nhân Tài). Từ nào nghe Hán Việt đã quen (Thiên Phú, Anh Hùng) thì giữ Hán Việt.
+- **Mục tiêu của bản dịch là người chơi đọc là hiểu ngay khi đang chơi**, không phải phiên âm cho đúng chữ. Tránh Hán Việt khó nghe nếu có cách gọi dễ hiểu hơn.
+- **Tên tướng và kỳ thủ**: nhân vật nước ngoài hoặc hư cấu quốc tế dùng tên quốc tế quen thuộc (马可波罗 → Marco Polo, 雅典娜 → Athena, 米莱狄 → Milady, 露娜 → Luna, 艾琳 → Irene); nhân vật lịch sử hoặc thần thoại Trung Hoa dùng Hán Việt như người Việt vẫn gọi (曹操 → Tào Tháo, 孙悟空 → Tôn Ngộ Không, 项羽 → Hạng Vũ). Tên riêng cả bộ nằm ở `doi-ten.json`.
+- **Tên trang bị, thiên phú, hiệu ứng, kỹ năng và bài riêng**: dịch nghĩa thành tiếng Việt dễ hiểu, ngắn gọn (风暴巨剑 → "Kiếm Bão Tố", 复印机 → "Máy Photocopy"); không giữ Hán Việt kiểu "Phong Bạo Cự Kiếm". Thành ngữ dịch ý.
+- **Từ khóa của game** (Xuất Trận, Khai Chiến, Chỉnh Đốn, Hi Sinh, Phù Du, Hồi Sinh, Khải Hoàn, Bại Trận, Tổng Hợp, Tốc Biến, Tước Đoạt, Cấp Độ Tạm Thời, Lui Binh) dùng đúng tên trong `data/tu-khoa.json`, đây là bảng chủ site đã duyệt.
 - Dấu `·` giữa các phần của tên giữ nguyên (双剑·雄 → Song Kiếm · Hùng).
 - Câu mô tả: ngắn, rõ, đúng giọng hướng dẫn trong game, giữ nguyên số liệu, dấu `+`, `%`, `/`, `~`. Không thêm chữ ngoài nội dung gốc.
 - Tên một lá bài khác xuất hiện trong mô tả phải dùng **đúng tên Việt** của lá bài đó (tra `thuat-ngu.json`).
@@ -87,7 +89,7 @@ Dùng đúng các cách dịch dưới đây trong mọi loại bài.
 | 无敌 / 不可选中 | vô địch / không thể bị chọn |
 | 叠加 / 层 | cộng dồn / tầng |
 | 战斗开始 / 本场战斗 | bắt đầu giao chiến / trong trận này |
-| 回合 | vòng |
+| 回合 | lượt |
 | 格 | ô |
 | 普通攻击 / 普攻 | đánh thường |
 | 释放技能 | tung kỹ năng |
@@ -97,10 +99,10 @@ Dùng đúng các cách dịch dưới đây trong mọi loại bài.
 | 阵亡 | tử trận |
 | 棋手 / 棋手经验 / 棋手等级 | kỳ thủ / kinh nghiệm kỳ thủ / cấp kỳ thủ |
 | 战术牌 / 战术 | bài Chiến Thuật / Chiến Thuật |
-| 转瞬 | Tức Thời |
-| 整备 | Chỉnh Bị |
-| 登场 | Đăng Tràng |
-| 临时等级 | Cấp Tạm Thời |
+| 转瞬 | Phù Du (từ khóa) |
+| 整备 | Chỉnh Đốn |
+| 登场 | Xuất Trận |
+| 临时等级 | Cấp Độ Tạm Thời |
 | 图腾 | Đồ Đằng |
 | 阵营 | trận doanh |
 | 征召令 | Lệnh Triệu Tập |
@@ -140,3 +142,61 @@ Kỳ thủ (棋手) là nhân vật người chơi, dữ liệu do `scripts/craw
 - Nhóm kỹ năng `技能` / `秘技` / `专属` là chữ cố định trong giao diện (Kỹ năng / Bí kỹ / Chuyên thuộc), không dịch ở đây.
 - `ghi_chu` tùy chọn ở cấp kỳ thủ, như các loại bài khác. Tên hướng dẫn video (`huong_dan`) chưa dịch.
 - Thẻ `<color>`, `<b>`, `<a>` đã bị bỏ khỏi `mo_ta_zh`; thuật ngữ lấy từ hai bảng thuật ngữ ở trên và `thuat-ngu.json`. Tên kỳ thủ Hán Việt hoặc phiên âm quen thuộc (阿离 = A Ly, 班叔 = Ban Thúc, 弈星 = Dịch Tinh).
+
+## Đội hình (`doi-hinh.json`)
+
+Đội hình do `scripts/crawl_doi_hinh.py` lấy từ trang `teamlist.html` của wxq.qq.com vào `data/doi-hinh.json` (chữ Trung, 465 đội hình). Chỉ dịch **chữ Trung trong JSON**, không cần đọc ảnh. Tướng, trang bị, thiên phú, hiệu ứng và kỳ thủ trong đội hình chỉ được ghi bằng tên Trung; trang web tự tra tên Việt của chúng trong các bản dịch đã có, nên **không dịch lại tên của chúng ở đây**, chỉ dùng đúng tên Việt đó khi nhắc tới chúng trong câu (tra `thuat-ngu.json` cho tướng, trang bị, thiên phú, hiệu ứng; `data/dich/ky-thu.json` trường `ten` cho kỳ thủ). Bản dịch ở `data/dich/doi-hinh.json`, khóa là mã đội hình (`ma`, chuỗi):
+
+```json
+{
+  "_chung": { "tag": { "官方": "Chính thức", "🚀近期飙升": "🚀 Tăng nhanh gần đây" } },
+  "78304508844282932": {
+    "ten": "Đại Hà Long Xà",
+    "tong_quan": "…",
+    "vi_tri": "…",
+    "trang_bi": "…",
+    "thien_phu": "…",
+    "hieu_ung": "…",
+    "giai_doan": ["mô tả giai đoạn 1", "mô tả giai đoạn 2", "mô tả giai đoạn 3"],
+    "ky_thu": { "33": "ghi chú về kỳ thủ id 33 trong đội hình này" },
+    "tuong": { "小乔": "ghi chú riêng về tướng này (hiếm)" }
+  }
+}
+```
+
+- `ten`: tên đội hình (Hán Việt nếu là tên riêng hoặc thành ngữ, dịch nghĩa nếu là từ thường; giữ ngắn). Bắt buộc.
+- `tong_quan`, `vi_tri`, `trang_bi`, `thien_phu`, `hieu_ung`: dịch `tong_quan_zh`, `vi_tri_zh`, `trang_bi_zh`, `thien_phu_zh`, `hieu_ung_zh`. Trường nguồn rỗng thì bỏ trường này.
+- `giai_doan`: mảng, phần tử thứ i dịch `giai_doan[i].mo_ta_zh` (đúng thứ tự và đúng số phần tử, chỗ trống ghi `""`).
+- `ky_thu`: khóa là `id` của kỳ thủ (chuỗi), dịch `ky_thu[].ghi_chu_zh`; bỏ những mục nguồn rỗng.
+- `tuong`: khóa là `ten_zh` của tướng, dịch `tuong[].ghi_chu_zh`; chỉ có khi nguồn không rỗng.
+- `_chung.tag`: dịch các nhãn (`tag_zh` và `the_zh`) xuất hiện trong dữ liệu; giữ emoji.
+- Đây là hướng dẫn chơi: giữ đúng số liệu, thứ tự ưu tiên (＞ giữ nguyên hoặc dịch "hơn"), tên tướng/kỳ thủ theo bản dịch đã có, thuật ngữ theo hai bảng thuật ngữ ở trên. Câu dài giữ ngắt dòng `\n`. Chỗ không chắc ghi `ghi_chu` cấp đội hình (tùy chọn).
+- Dữ liệu này đã được lược bỏ mọi thông tin người chơi (tác giả, bình luận); đừng thêm lại.
+
+## Từ khóa và tên riêng (đã duyệt, ưu tiên hơn mọi chỗ khác)
+
+- `data/tu-khoa.json`: 13 từ khóa của game với lời giải thích; trang Tra cứu và trang Kỳ thủ tự tô sáng từ khóa trong mô tả và hiện lời giải thích.
+- `data/dich/doi-ten.json`: bảng {tên cũ: tên mới} cho tướng, kỳ thủ, trang bị, thiên phú, hiệu ứng.
+- `py scripts/thong_nhat_thuat_ngu.py` áp cả hai bảng lên mọi bản dịch (chạy lại được nhiều lần). Sau khi agent dịch xong, luôn chạy nó rồi mới gộp.
+- 回合 (một lượt chơi) dịch là **lượt** ("Khi bắt đầu lượt", "Lượt 4-5"). "trong vòng 5 giây" vẫn là "vòng" theo nghĩa thường.
+
+## Kỹ năng Anh Hùng (`ky_nang` trong `anh-hung.json`)
+
+Dữ liệu nguồn ở `data/chi-tiet/anh-hung.json` (chữ Trung, do `scripts/crawl_anh_hung.py` sinh). Mỗi Anh Hùng có một kỹ năng và ba mức nâng cấp mở khóa theo cấp Anh Hùng. Bản dịch nằm trong mục của Anh Hùng đó ở `data/dich/anh-hung.json`:
+
+```json
+"苏烈": {
+  "ten": "Tô Liệt",
+  "mo_ta": "...",
+  "ky_nang": {
+    "ten": "Quét Sạch Vạn Quân",
+    "mo_ta": "Tô Liệt xoay 1 vòng, gây ...",
+    "nang_cap": ["mở khóa ở cấp 10", "mở khóa ở cấp 40", "mở khóa ở cấp 100"]
+  }
+}
+```
+
+- `ten`: tên kỹ năng dịch nghĩa dễ hiểu (theo quy tắc đặt tên ở trên), không trùng tên kỹ năng khác.
+- `nang_cap`: đúng ba phần tử, đúng thứ tự như nguồn. Giữ nguyên số liệu và từ khóa (Hồi Sinh, Xuất Trận...). "Xoay 1 vòng" là vòng quay của nhân vật, không phải lượt (lượt = 回合).
+- Chỉ số (máu, công, phòng...) không cần dịch: giao diện tự đặt nhãn.
+- Sau khi dịch: `py scripts/gop_ky_nang.py` (gộp và kiểm tra), rồi `py scripts/thong_nhat_thuat_ngu.py`.

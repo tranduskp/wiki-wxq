@@ -35,6 +35,16 @@ export class ChapterRail extends Emitter {
     }
   }
 
+  static #logo(src) {
+    const img = new Image();
+    img.className = 'rail-logo';
+    img.src = src;
+    img.alt = '';
+    img.width = img.height = 24;
+    img.decoding = 'async';
+    return img;
+  }
+
   #entriesFor(view) {
     let entries = this.#entries.get(view);
     if (!entries) {
@@ -42,6 +52,10 @@ export class ChapterRail extends Emitter {
         const count = make('span', 'n', String(section.visibleCount));
         const button = make('button', 'rail-btn');
         button.type = 'button';
+        if (section.group.logo) {
+          button.classList.add('has-logo');
+          button.append(ChapterRail.#logo(section.group.logo));
+        }
         button.append(make('span', null, section.label), count);
         button.addEventListener('click', () => this.emit('jump', section));
         return { section, button, count };

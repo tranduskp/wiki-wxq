@@ -44,8 +44,11 @@ data/anh/hieu-ung/
 data/anh/thien-phu/
 data/anh/trang-bi/
 data/anh/ky-thu/
+data/anh/doi-hinh/
+data/anh/the-bai/
 
 # local tooling and third-party reference data: not part of the published project
 .claude/
 .impeccable/questions/
 data/ref/
+data/dich/_nhap/

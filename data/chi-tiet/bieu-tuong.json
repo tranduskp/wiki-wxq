@@ -1,0 +1,24 @@
+{
+ "phe": {
+  "大河流域": "the-bai/phe/dai-ha.png",
+  "逐鹿": "the-bai/phe/truc-loc.png",
+  "三分之地": "the-bai/phe/tam-phan.png",
+  "河洛": "the-bai/phe/ha-lac.png",
+  "日落海": "the-bai/phe/nhat-lac-hai.png",
+  "无阵营": "the-bai/phe/vo-tran-doanh.png"
+ },
+ "tu_khoa": {
+  "登场": "the-bai/tu-khoa/xuat-tran.png",
+  "开团": "the-bai/tu-khoa/khai-chien.png",
+  "整备": "the-bai/tu-khoa/chinh-don.png",
+  "牺牲": "the-bai/tu-khoa/hi-sinh.png",
+  "复生": "the-bai/tu-khoa/hoi-sinh.png",
+  "凯旋": "the-bai/tu-khoa/khai-hoan.png",
+  "败阵": "the-bai/tu-khoa/bai-tran.png",
+  "合成": "the-bai/tu-khoa/tong-hop.png",
+  "闪现": "the-bai/tu-khoa/toc-bien.png",
+  "夺取": "the-bai/tu-khoa/tuoc-doat.png",
+  "退场": "the-bai/tu-khoa/lui-binh.png",
+  "图腾": "the-bai/tu-khoa/do-dang.png"
+ }
+}

@@ -2,6 +2,16 @@ import { make } from '../core/dom.js';
 
 /** A chapter of the grid: a sticky heading with its count, and the tiles of one CardGroup. */
 export class ChapterSection {
+  static #logo(src) {
+    const img = new Image();
+    img.className = 'chapter-logo';
+    img.src = src;
+    img.alt = '';
+    img.width = img.height = 30;
+    img.decoding = 'async';
+    return img;
+  }
+
   #el;
   #countEl;
 
@@ -11,10 +21,11 @@ export class ChapterSection {
     this.tiles = group.cards.map((card) => tileFactory(card));
 
     const heading = make('h2', null, group.label);
+    const logo = group.logo ? ChapterSection.#logo(group.logo) : null;
     heading.id = `chuong-${kindId}-${index}`;
     this.#countEl = make('span', 'n', String(group.size));
     const head = make('div', 'chapter-head');
-    head.append(heading, this.#countEl);
+    head.append(...(logo ? [logo] : []), heading, this.#countEl);
 
     const grid = make('div', 'grid');
     grid.append(...this.tiles.map((t) => t.element));

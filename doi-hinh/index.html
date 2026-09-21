@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Đội hình hot · Vương Giả Vạn Tượng Kỳ Quán</title>
+  <title>Đội hình · Vương Giả Vạn Tượng Kỳ Quán</title>
+  <meta name="description" content="Đội hình đề xuất của 王者万象棋: người mới, tổng hợp và đang hot, có sơ đồ bàn cờ, lộ trình và mã đội hình để sao chép, tiếng Việt.">
   <meta name="theme-color" content="#141b3d">
   <link rel="icon" href="../assets/img/favicon-64.png" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,9 +13,11 @@
   <link rel="stylesheet" href="../assets/css/tokens.css">
   <link rel="stylesheet" href="../assets/css/base.css">
   <link rel="stylesheet" href="../assets/css/codex.css">
-  <link rel="stylesheet" href="../assets/css/page.css">
+  <link rel="stylesheet" href="../assets/css/doihinh.css">
 </head>
-<body>
+<body class="app-shell">
+  <a class="skip" href="#danh-sach">Bỏ qua tới danh sách đội hình</a>
+
   <header class="topbar">
     <a class="brand" href="../" aria-label="Vương Giả Vạn Tượng Kỳ Quán, trang tra cứu">
       <img class="brand-mark" src="../assets/img/mark-192.webp" alt="" width="44" height="44">
@@ -25,11 +28,11 @@
         <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/></svg>
         <span class="nav-text"><span class="cap" aria-hidden="true">Compendium</span><span class="lab">Tra cứu</span></span>
       </a>
-      <a href="../ky-thu/">
+      <a href="./">
         <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.5" r="3.6"/><path d="M5 20c.9-3.9 3.7-6 7-6s6.1 2.1 7 6"/></svg>
         <span class="nav-text"><span class="cap" aria-hidden="true">Players</span><span class="lab">Kỳ thủ</span></span>
       </a>
-      <a href="../doi-hinh/" aria-current="page">
+      <a href="./" aria-current="page">
         <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M5 12h10M5 17h6"/></svg>
         <span class="nav-text"><span class="cap" aria-hidden="true">Lineup</span><span class="lab">Đội hình</span></span>
       </a>
@@ -44,15 +47,47 @@
     </nav>
   </header>
 
-  <main class="page">
-    <h1>Đội hình hot</h1>
-    <p class="lead">Các đội hình đang mạnh trong game, mỗi đội hiện bằng icon những lá bài tạo nên nó.</p>
-    <section class="wait" aria-labelledby="dang-cho">
-      <strong id="dang-cho">Đang chờ dữ liệu đội hình</strong>
-      <p>Khi có dữ liệu, mỗi đội hình sẽ hiện thành một hàng icon bài, kèm ngày cập nhật để bạn biết đội còn hợp thời hay đã cũ.</p>
-      <a class="btn" href="../">Về trang Tra cứu</a>
-    </section>
-    <p class="legal">Trang cộng đồng, chưa chính thức. Hình ảnh và nội dung game thuộc Tencent. Logo: @finnducway. [Chờ chủ site xác nhận lời ghi công và điều khoản.]</p>
-  </main>
+  <div class="toolbar">
+    <h1 class="page-title"><span class="t1">Đội hình</span><span class="t2">đề xuất</span></h1>
+    <div class="tabs" id="nhom" role="tablist" aria-label="Nhóm đội hình"></div>
+    <form class="search" role="search" onsubmit="return false">
+      <label class="vh" for="tim-kiem">Tìm đội hình</label>
+      <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>
+      <input id="tim-kiem" type="search" placeholder="Tìm tên đội, tướng hoặc kỳ thủ…" autocomplete="off" spellcheck="false" enterkeyhint="search">
+      <button class="search-clear" id="xoa-tim" type="button" aria-label="Xóa tìm kiếm">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m7 7 10 10M17 7 7 17"/></svg>
+      </button>
+    </form>
+  </div>
+
+  <div class="workspace workspace--lineup">
+    <main class="list" id="danh-sach" tabindex="-1">
+      <p class="status" id="ket-qua" role="status" aria-live="polite">Đang tải danh sách đội hình…</p>
+      <div id="ds-doi-hinh-vung" role="tabpanel">
+        <ul class="lrows" id="ds-doi-hinh"></ul>
+        <button class="btn more" id="xem-them" type="button" hidden>Xem thêm</button>
+      </div>
+      <p class="legal">Trang cộng đồng, chưa chính thức. Hình ảnh và nội dung game thuộc Tencent. Logo: @finnducway. Đội hình lấy từ mục đề xuất của trang chính thức; mã đội hình dùng để nhập trong game. [Chờ chủ site xác nhận lời ghi công và điều khoản.]</p>
+    </main>
+
+    <aside class="detail" id="chi-tiet" aria-label="Chi tiết đội hình" data-open="false">
+      <div class="grab" aria-hidden="true"></div>
+      <div class="detail-head">
+        <div class="info">
+          <h2 class="name" id="ten"></h2>
+          <p class="name-zh" id="ten-zh" lang="zh-Hans"></p>
+          <div class="meta" id="meta"></div>
+        </div>
+        <button class="icon-btn detail-close" id="dong" type="button" aria-label="Đóng chi tiết">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m7 7 10 10M17 7 7 17"/></svg>
+        </button>
+      </div>
+      <div class="ld-body" id="noi-dung"></div>
+      <span class="vh" id="thong-bao" role="status" aria-live="polite"></span>
+    </aside>
+  </div>
+
+  <div class="scrim" id="man-che" hidden></div>
+  <script type="module" src="../assets/js/doi-hinh-main.js"></script>
 </body>
 </html>

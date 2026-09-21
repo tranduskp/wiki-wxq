@@ -4,6 +4,7 @@ import { must } from './core/dom.js';
 import { HttpJsonSource } from './data/HttpJsonSource.js';
 import { PlayerMapper } from './data/PlayerMapper.js';
 import { JsonPlayerRepository } from './data/JsonPlayerRepository.js';
+import { JsonKeywordRepository } from './data/JsonKeywordRepository.js';
 import { HashRouter } from './services/HashRouter.js';
 import { PlayerRoute } from './services/PlayerRoute.js';
 import { PageTitle } from './services/PageTitle.js';
@@ -17,6 +18,8 @@ import { PlayersApp } from './app/PlayersApp.js';
 
 const SITE_NAME = 'Vương Giả Vạn Tượng Kỳ Quán';
 const BASE = '../'; // this page lives one folder below the site root
+
+const glossary = await new JsonKeywordRepository(new HttpJsonSource(BASE)).load();
 
 const mapper = new PlayerMapper({
   imageRoot: `${BASE}data/anh/web/`,
@@ -50,7 +53,7 @@ const app = new PlayersApp({
     }),
     abilities: new PlayerAbilities(must('#nang-luc')),
     cards: new PlayerCardGrid({ heading: must('#tieu-de-bai'), container: must('#bai-rieng') }),
-    cardDetail: new PlayerCardDetail(must('#chi-tiet-bai')),
+    cardDetail: new PlayerCardDetail(must('#chi-tiet-bai'), glossary),
   },
 });
 

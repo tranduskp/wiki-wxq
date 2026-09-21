@@ -13,6 +13,11 @@ export class PageTitle {
     this.doc.title = `${card.displayName} · ${kind.name} · ${this.siteName}`;
   }
 
+  forLineup(groupName, lineup) {
+    const head = lineup ? `${lineup.displayName} · ` : '';
+    this.doc.title = `${head}${groupName} · Đội hình · ${this.siteName}`;
+  }
+
   forPlayer(player, sectionName) {
     this.doc.title = `${player.displayName} · ${sectionName} · ${this.siteName}`;
   }

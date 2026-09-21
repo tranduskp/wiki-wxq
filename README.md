@@ -11,27 +11,30 @@ Chạy `serve.bat` (cần Python 3) rồi mở http://localhost:8080. Không m�
 ```
 index.html              Tra cứu (trang chủ)
 ky-thu/                 Kỳ thủ (nhân vật người chơi): hồ sơ, năng lực, bài riêng, trang phục
-doi-hinh/               Đội hình hot (đang chờ dữ liệu)
+doi-hinh/               Đội hình đề xuất: danh sách, sơ đồ bàn cờ, lộ trình, mã đội hình
 xep-doi-hinh/           Xếp đội hình (đang chờ luật game)
 cap-nhat/               Cập nhật (đang chờ tin)
-assets/css/             tokens.css (màu, chữ) · base.css · codex.css (Tra cứu) · kythu.css (Kỳ thủ) · page.css
+assets/css/             tokens.css (màu, chữ) · base.css · codex.css (Tra cứu) · kythu.css (Kỳ thủ) · doihinh.css (Đội hình) · page.css
 assets/js/main.js       Điểm khởi chạy của Tra cứu: nơi duy nhất tạo và nối các lớp (composition root)
-assets/js/ky-thu-main.js Điểm khởi chạy của trang Kỳ thủ (cùng vai trò)
+assets/js/ky-thu-main.js, doi-hinh-main.js  Điểm khởi chạy của trang Kỳ thủ và Đội hình (cùng vai trò)
 assets/js/core/         Emitter (sự kiện), dom (hàm DOM dùng chung)
-assets/js/domain/       Card, CardGroup, CardKind, Catalog, Player, PlayerCard: mô hình dữ liệu thuần, không biết DOM hay mạng
-assets/js/data/         Đọc và dựng dữ liệu: HttpJsonSource, JsonCatalogRepository, CardMapper, ImageUrlPolicy; JsonPlayerRepository, PlayerMapper
+assets/js/domain/       Card, CardGroup, CardKind, Catalog, Player, PlayerCard, Lineup, LineupGroup: mô hình dữ liệu thuần, không biết DOM hay mạng
+assets/js/data/         Đọc và dựng dữ liệu: HttpJsonSource, JsonCatalogRepository, CardMapper, ImageUrlPolicy; JsonPlayerRepository, PlayerMapper; JsonLineupRepository, LineupMapper; JsonKeywordRepository
 assets/js/services/     Định tuyến (Route, PlayerRoute, HashRouter), tìm kiếm (CardSearch), clipboard, tiêu đề trang, phím tắt
-assets/js/ui/           Thành phần giao diện: TabBar, SearchBox, ChapterRail, CardList, CardTile, CardViewer, BottomSheet...; PlayerRoster (carousel), PlayerBanner, PlayerAbilities, PlayerCardGrid, PlayerCardTile, PlayerCardDetail
-assets/js/app/          WikiApp (Tra cứu), PlayersApp (Kỳ thủ): điều phối trạng thái và nối các thành phần
+assets/js/ui/           Thành phần giao diện: TabBar, SearchBox, ChapterRail, CardList, CardTile, CardViewer, BottomSheet...; PlayerRoster (carousel), PlayerBanner, PlayerAbilities, PlayerCardGrid, PlayerCardTile, PlayerCardDetail; LineupList, LineupRow, LineupDetail, LineupBoard, LineupHeroChip
+assets/js/app/          WikiApp (Tra cứu), PlayersApp (Kỳ thủ), LineupApp (Đội hình): điều phối trạng thái và nối các thành phần
 assets/vendor/swiper/    Swiper 11 (MIT), thư viện carousel; chính trang chính thức cũng dùng Swiper. Chép sẵn vào dự án, không tải từ CDN
 assets/img/             mark-192/384.webp (huy hiệu logo), poster-640.webp, favicon-64.png
 assets/img/source/      logo-poster.png: ảnh logo gốc do chủ site cung cấp (crop ra các bản trên)
 data/bai/               Dữ liệu bài gốc: anh-hung, hieu-ung, thien-phu, trang-bi (.json)
 data/dich/              Bản dịch tiếng Việt, cùng tên file với data/bai; README.md (quy tắc dịch), thuat-ngu.json
 data/anh/               Ảnh bài tải về (PNG gốc cho agent, web/ là webp cho trang), manifest.json, theo-url.json, README.md
-scripts/                tai_anh.py (tải ảnh bài), crawl_ky_thu.py (lấy dữ liệu và ảnh Kỳ thủ), tao_anh_web.py (tạo webp cho trang), gop_ban_dich.py và gop_ky_thu.py (gộp, kiểm tra bản dịch), serve.py (máy chủ thử)
+scripts/                tai_anh.py (tải ảnh bài), crawl_ky_thu.py, crawl_doi_hinh.py, crawl_anh_hung.py (lấy dữ liệu Kỳ thủ, Đội hình, chi tiết Anh Hùng), tao_anh_web.py (tạo webp cho trang), gop_ban_dich.py, gop_ky_thu.py, gop_doi_hinh.py, gop_ky_nang.py (gộp, kiểm tra bản dịch), thong_nhat_thuat_ngu.py và gop_ten_moi.py (thống nhất từ khóa và tên), serve.py (máy chủ thử)
 data/nhom.json          Tên tiếng Việt của khu vực / bậc / nhóm
+data/chi-tiet/          Kỹ năng, chỉ số, các bản của Anh Hùng, logo phe, icon từ khóa (do scripts/crawl_anh_hung.py sinh)
+data/tu-khoa.json       13 từ khóa của game (Xuất Trận, Khai Chiến...) và lời giải thích; trang tự tô sáng và chú thích
 data/ky-thu.json        Dữ liệu Kỳ thủ (chữ Trung) do scripts/crawl_ky_thu.py sinh; bản dịch ở data/dich/ky-thu.json
+data/doi-hinh.json      Dữ liệu Đội hình (chữ Trung) do scripts/crawl_doi_hinh.py sinh; bản dịch ở data/dich/doi-hinh.json
 data/ref/ky-thu/        Bản gốc lấy từ trang chính thức, để tham chiếu (không dùng trực tiếp)
 PRODUCT.md              Bối cảnh sản phẩm (cho công cụ thiết kế)
 ```
@@ -41,6 +44,18 @@ PRODUCT.md              Bối cảnh sản phẩm (cho công cụ thiết kế)
 Thanh chọn kỳ thủ dùng Swiper (kéo, vuốt, mũi tên); các thành phần còn lại là JS thuần như trang Tra cứu. Bài của kỳ thủ hiện dạng lưới icon, bấm một icon thì mô tả hiện ngay phía trên lưới, nên kỳ thủ có hàng chục bài (Hương Hương, Doanh Luật) cũng không kéo trang dài ra.
 
 Trang `ky-thu/` lấy từ trang 3 của wxq.qq.com. Dữ liệu do `py scripts/crawl_ky_thu.py` lấy (danh sách kỳ thủ, kỹ năng, bí kỹ, bài riêng, trang phục; nguồn ghi trong đầu script), rồi `py scripts/tao_anh_web.py` tạo webp. Chạy lại hai lệnh này khi game cập nhật kỳ thủ mới, sau đó dịch phần mới (`py scripts/gop_ky_thu.py --kiem-tra` cho biết còn thiếu gì; định dạng ở `data/dich/README.md`, mục Kỳ thủ).
+
+## Đội hình
+
+Trang `doi-hinh/` lấy từ trang `teamlist.html` của wxq.qq.com (ba nguồn: Người mới, Tổng hợp, Hot). `py scripts/crawl_doi_hinh.py` lấy dữ liệu về `data/doi-hinh.json` (465 đội hình duy nhất). **Script bỏ hết thông tin cá nhân** trước khi ghi: tên, ảnh và ID tác giả, cùng bình luận của người chơi trong dữ liệu gốc (biệt danh, ID, IP tỉnh) không bao giờ được lưu. Tướng, trang bị, thiên phú, hiệu ứng và kỳ thủ chỉ ghi bằng tên Trung; trang tự tra tên Việt và ảnh từ dữ liệu bài và kỳ thủ. Mã đội hình (`ma`) là chuỗi để sao chép vào game. Dịch phần chữ theo `data/dich/README.md` (mục Đội hình), rồi `py scripts/gop_doi_hinh.py` để gộp và kiểm tra.
+
+## Chi tiết Anh Hùng
+
+Trang Tra cứu, tab Anh Hùng, có ba thẻ cho mỗi Anh Hùng: **Mô tả**, **Kỹ năng** (tên, mô tả và ba mức nâng cấp theo cấp Anh Hùng) và **Chỉ số** (máu, pháp lực, công, phòng, chí mạng, tốc độ đánh, tầm đánh), giống trang 4 của wxq.qq.com. Dữ liệu lấy bằng `py scripts/crawl_anh_hung.py` (cũng tải logo phe và icon từ khóa), rồi `py scripts/tao_anh_web.py`. Bản dịch kỹ năng nằm ở `data/dich/anh-hung.json`, trường `ky_nang`; gộp và kiểm tra bằng `py scripts/gop_ky_nang.py`. Hai nút `<` `>` ở dưới ảnh lá bài đổi giữa các bản của **cùng một lá** (ví dụ Hàn Tín và Hàn Tín Thức Tỉnh), muốn xem lá khác thì bấm vào ô trong lưới.
+
+## Từ khóa và tên riêng
+
+Mục tiêu của bản dịch là người chơi đọc là hiểu ngay. Từ khóa của game có tên cố định trong `data/tu-khoa.json` (do chủ site duyệt); trang Tra cứu, Kỳ thủ và Đội hình tô sáng chúng trong mô tả và hiện lời giải thích (dưới mô tả, hoặc khi rê chuột). Tên tướng nước ngoài dùng tên quốc tế (Marco Polo, Athena), tên trang bị, thiên phú, hiệu ứng dịch nghĩa thay vì Hán Việt. Bảng đổi tên nằm ở `data/dich/doi-ten.json`. **Sau khi có bản dịch mới, chạy `py scripts/thong_nhat_thuat_ngu.py`** để áp từ khóa, "lượt" (回合) và bảng tên lên mọi tệp; chạy lại thoải mái.
 
 ## Bản dịch
 

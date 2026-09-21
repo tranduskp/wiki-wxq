@@ -287,4 +287,3 @@
 .profile.is-entering .card-grid .tile[style*="--t"] { animation: tile-in 420ms var(--ease) both; animation-delay: calc(520ms + var(--t) * 22ms); }
 .card-detail.is-changing { animation: none; }
 .card-detail.is-changing > * { animation: swap 300ms var(--ease) both; }
-

@@ -14,8 +14,8 @@
   /* glass panels laid over the sky */
   --glass: rgb(17 24 62 / 0.45);
   /* work surfaces let the dusk show through; they darken toward the bottom where the sky is brightest */
-  --glass-list: linear-gradient(180deg, rgb(17 24 62 / 0.34), rgb(17 24 62 / 0.58));
-  --glass-text: linear-gradient(180deg, rgb(17 24 62 / 0.42), rgb(17 24 62 / 0.62));
+  --glass-list: linear-gradient(180deg, rgb(20 28 74 / 0.66), rgb(17 24 64 / 0.8));
+  --glass-text: linear-gradient(180deg, rgb(20 28 74 / 0.72), rgb(17 24 64 / 0.84));
   --glass-strong: rgb(15 21 56 / 0.9);
   --glass-soft: rgb(255 255 255 / 0.08);
   --glass-line: rgb(170 188 255 / 0.28);

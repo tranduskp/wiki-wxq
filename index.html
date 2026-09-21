@@ -83,7 +83,12 @@
         </button>
       </div>
 
-      <div class="desc" id="mo-ta"></div>
+      <div class="info-block">
+        <div class="info-tabs" id="tab-thong-tin" hidden></div>
+        <div class="desc" id="mo-ta"></div>
+        <div class="desc desc--skill" id="ky-nang" hidden></div>
+        <div class="desc desc--stats" id="chi-so" hidden></div>
+      </div>
 
       <div class="stage">
         <div class="swing">
@@ -97,11 +102,11 @@
         </div>
       </div>
       <div class="stage-controls">
-        <div class="pager">
-          <button class="icon-btn" id="truoc" type="button" aria-label="Bài trước" title="Bài trước" disabled>
+        <div class="pager" id="chuyen-ban" hidden>
+          <button class="icon-btn" id="truoc" type="button" aria-label="Phiên bản trước" title="Phiên bản trước">
             <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m14.5 6-6 6 6 6"/></svg>
           </button>
-          <button class="icon-btn" id="sau" type="button" aria-label="Bài sau" title="Bài sau" disabled>
+          <button class="icon-btn" id="sau" type="button" aria-label="Phiên bản sau" title="Phiên bản sau">
             <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9.5 6 6 6-6 6"/></svg>
           </button>
         </div>

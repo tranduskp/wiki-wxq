@@ -13,6 +13,11 @@ export class ImageUrlPolicy {
     throw new Error(`${this.constructor.name}.full is not implemented`);
   }
 
+  /** An image that belongs to the site's own data (skill icons, faction logos), given as its path under data/anh/. */
+  asset(path) {
+    throw new Error(`${this.constructor.name}.asset is not implemented`);
+  }
+
   /** Small emblem or rank badge (shown as it is, never cropped). */
   icon(url) {
     throw new Error(`${this.constructor.name}.icon is not implemented`);
