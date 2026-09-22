@@ -66,9 +66,6 @@ const viewer = new CardViewer({
     imagePolicy,
   }),
   variants: new VariantPicker(must('#bien-the')),
-  pager: must('#chuyen-ban'),
-  prevButton: must('#truoc'),
-  nextButton: must('#sau'),
   copyButton: must('#chep-lien-ket'),
   toast: must('#thong-bao'),
 });

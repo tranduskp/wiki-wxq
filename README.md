@@ -51,7 +51,7 @@ Trang `doi-hinh/` lấy từ trang `teamlist.html` của wxq.qq.com (ba nguồn:
 
 ## Chi tiết Anh Hùng
 
-Trang Tra cứu, tab Anh Hùng, có ba thẻ cho mỗi Anh Hùng: **Mô tả**, **Kỹ năng** (tên, mô tả và ba mức nâng cấp theo cấp Anh Hùng) và **Chỉ số** (máu, pháp lực, công, phòng, chí mạng, tốc độ đánh, tầm đánh), giống trang 4 của wxq.qq.com. Dữ liệu lấy bằng `py scripts/crawl_anh_hung.py` (cũng tải logo phe và icon từ khóa), rồi `py scripts/tao_anh_web.py`. Bản dịch kỹ năng nằm ở `data/dich/anh-hung.json`, trường `ky_nang`; gộp và kiểm tra bằng `py scripts/gop_ky_nang.py`. Hai nút `<` `>` ở dưới ảnh lá bài đổi giữa các bản của **cùng một lá** (ví dụ Hàn Tín và Hàn Tín Thức Tỉnh), muốn xem lá khác thì bấm vào ô trong lưới.
+Trang Tra cứu, tab Anh Hùng, có ba thẻ cho mỗi Anh Hùng: **Mô tả**, **Kỹ năng** (tên, mô tả và ba mức nâng cấp theo cấp Anh Hùng) và **Chỉ số** (máu, pháp lực, công, phòng, chí mạng, tốc độ đánh, tầm đánh), giống trang 4 của wxq.qq.com. Dữ liệu lấy bằng `py scripts/crawl_anh_hung.py` (cũng tải logo phe và icon từ khóa), rồi `py scripts/tao_anh_web.py`. Bản dịch kỹ năng nằm ở `data/dich/anh-hung.json`, trường `ky_nang`; gộp và kiểm tra bằng `py scripts/gop_ky_nang.py`. Các chấm dưới ảnh lá bài đổi giữa các bản của **cùng một lá** (ví dụ Hàn Tín và Hàn Tín Thức Tỉnh), muốn xem lá khác thì bấm vào ô trong lưới.
 
 ## Từ khóa và tên riêng
 

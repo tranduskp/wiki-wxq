@@ -414,10 +414,16 @@
 .grab { display: none; }
 
 .detail-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
-.stage-controls { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 8px; }
-.pager { display: flex; gap: 6px; grid-column: 1; }
-.stage-controls .variants { grid-column: 2; }
-.stage-controls #chep-lien-ket { grid-column: 3; justify-self: end; }
+.stage-controls {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 8px;
+  padding-top: 12px;
+  border-top: 1px solid var(--glass-line);
+}
+.stage-controls .variants { grid-column: 1; }
+.stage-controls #chep-lien-ket { grid-column: 2; justify-self: end; }
 
 .icon-btn, .btn {
   display: inline-grid;

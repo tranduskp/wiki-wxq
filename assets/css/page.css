@@ -40,6 +40,22 @@
   color: var(--text-2);
 }
 
+/* content sections: About, Privacy, Terms */
+.page .content section { margin-top: 36px; }
+.page .content h2 {
+  font-family: var(--font-tech);
+  font-size: var(--fs-lg);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--accent-hi);
+}
+.page .content .updated { display: block; margin-top: 4px; font-size: var(--fs-xs); color: var(--text-3); }
+.page .content p { margin-top: 10px; max-width: 68ch; color: var(--text-2); line-height: 1.65; }
+.page .content ul { margin-top: 10px; max-width: 68ch; padding-left: 1.2em; display: grid; gap: 8px; color: var(--text-2); line-height: 1.6; }
+.page .content a { color: var(--accent); text-underline-offset: 2px; }
+.page .content a:hover { color: var(--accent-hi); }
+.page .content strong { color: #fff; }
+
 @media (max-width: 819px) {
   .page { padding-top: 20px; }
   .page h1 { font-size: 2.1rem; }

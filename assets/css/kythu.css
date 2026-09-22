@@ -259,7 +259,8 @@
   .banner-ghost { display: none; }
   .banner-img { height: 320px; object-position: 78% 24%; }
   .banner-text { padding: 20px 16px; background: linear-gradient(0deg, rgb(15 21 56 / 0.92) 0%, rgb(15 21 56 / 0.55) 46%, transparent 78%); }
-  .banner-skins { justify-self: start; align-self: start; padding: 12px; }
+  .banner-skins { justify-self: start; align-self: start; justify-items: start; padding: 12px; }
+  .skins { justify-content: flex-start; }
   .skin { width: 44px; height: 44px; }
   .card-detail { grid-template-columns: 56px minmax(0, 1fr); gap: 12px; }
   .detail-icon { width: 56px; height: 56px; }

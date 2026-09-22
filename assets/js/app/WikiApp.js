@@ -67,8 +67,6 @@ export class WikiApp {
     searchBox.on('input', (text) => this.#search(text));
     rail.on('jump', (section) => list.jumpTo(section));
     list.on('scroll', () => this.#syncActiveChapter());
-    viewer.on('prev', () => this.#stepVariant(-1));
-    viewer.on('next', () => this.#stepVariant(1));
     viewer.on('variant', (index) => this.#pickVariant(index));
     viewer.on('copy', () => this.#copyLink());
     sheet.on('close', () => this.#closeSheet());
@@ -186,13 +184,6 @@ export class WikiApp {
     if (!this.#card) return;
     this.#variant = index;
     this.#navigate(new Route(this.#card.kindId, this.#card.id, index), {});
-  }
-
-  /** The arrows of the viewer walk through the versions of the shown card, wrapping around. */
-  #stepVariant(delta) {
-    const count = this.#card?.variantCount ?? 0;
-    if (count < 2) return;
-    this.#pickVariant((this.#variant + delta + count) % count);
   }
 
   async #copyLink() {

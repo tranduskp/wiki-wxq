@@ -92,5 +92,7 @@ Append-only log of decisions the user has confirmed about the app. Update it (af
 - 2026-09-21: All cards are translated from the images by agents, with Hán Việt for names of people, heroes and gear, and per-version text where a card has several images. Pending the site owner's review.
 - 2026-09-21: A Kỳ thủ page is added (from page 3 of the official site) as the second top-level page, after Tra cứu; its data is crawled by script for reference and the page is built from it.
 - 2026-09-21: Libraries are allowed for the Kỳ thủ page; Swiper is vendored, React is not used.
-- 2026-09-22: The hero card viewer gets Skill and Stats tabs, and the < > buttons switch between the versions of the same card (hero and awakened hero), not to the next card in the list.
+- 2026-09-22: The hero card viewer gets Skill and Stats tabs; switching between the versions of the same card (hero and awakened hero) is not to the next card in the list.
 - 2026-09-22: Every page gets a footer with the unofficial notice, the credit "Cre trang web: @finnducway" and a prominent link to the community Facebook page (also an icon in the top bar).
+- 2026-09-22: The card viewer's < > version-switch buttons are removed; switching between versions of the same card is done only via the dots below the image, styled as a proper footer bar under the card.
+- 2026-09-22: Added a "Về chúng tôi" page (About + Privacy Policy + Terms of Use in one, for Google AdSense compliance); main nav order changed to Kỳ thủ, Tra cứu, Đội hình, Xếp đội hình, Cập nhật, Về chúng tôi on every page.

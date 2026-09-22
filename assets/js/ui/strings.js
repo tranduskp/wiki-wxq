@@ -39,7 +39,6 @@ export const STRINGS = {
   statHints: { mana: 'Pháp lực lúc bắt đầu / pháp lực tối đa', range: 'Số ô có thể đánh tới' },
   variantKinds: { goc: 'Thường', 'thuc-tinh': 'Thức Tỉnh', 'lien-quan': 'Liên quan' },
   variantNumber: (n) => `Bản ${n}`,
-  viewVariant: (label) => `Xem: ${label}`,
   keywordsHeading: 'Giải thích từ khóa',
 
   // Kỳ thủ page
