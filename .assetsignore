@@ -1,0 +1,13 @@
+# Cloudflare Pages deploys the whole repo as static assets. These aren't served by the
+# site at runtime (see README.md) — dev tooling and source files for the image pipeline.
+.git
+.claude
+.codegraph
+scripts
+data/ref
+data/anh/anh-hung
+data/anh/doi-hinh
+data/anh/hieu-ung
+data/anh/ky-thu
+data/anh/the-bai
+data/anh/trang-bi
