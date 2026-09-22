@@ -43,10 +43,12 @@
 /* content sections: About, Privacy, Terms */
 .page .content section { margin-top: 36px; }
 .page .content h2 {
-  font-family: var(--font-tech);
-  font-size: var(--fs-lg);
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  line-height: 1.25;
+  text-transform: uppercase;
   color: var(--accent-hi);
 }
 .page .content .updated { display: block; margin-top: 4px; font-size: var(--fs-xs); color: var(--text-3); }
@@ -59,4 +61,5 @@
 @media (max-width: 819px) {
   .page { padding-top: 20px; }
   .page h1 { font-size: 2.1rem; }
+  .page .content h2 { font-size: 1.3rem; }
 }
